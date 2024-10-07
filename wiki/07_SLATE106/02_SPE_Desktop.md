@@ -1,7 +1,7 @@
 # SPE Desktop
 *RELEASE NOTE*
 
-##`2017-06-14` SPE Desktop V1.10.10 [download](https://github.com/innes-labs/archives/downloads/slate106/spe-desktop/spe.exe)
+##`2017-06-14` SPE Desktop V1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/slate106/spe-desktop/spe.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Initial version
 >##### **COMPATIBILITIES**
@@ -10,7 +10,7 @@
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-- SPE Desktop User manual (001B/EN) [download](https://github.com/innes-labs/archives/downloads/slate106/spe-desktop/spe-user-manual-001B_en.pdf)
+- SPE Desktop User manual (001B/EN) [download](https://github.com/innes-labs/archives/blob/main/downloads/slate106/spe-desktop/spe-user-manual-001B_en.pdf)
 
 #OLD VERSIONS HISTORY
 ***********************************************************************

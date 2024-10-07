@@ -3,7 +3,7 @@
 
 *Never make electric unplug on your player while software upgrade is in progress (green led enlightened for few minutes) else the player may not be able to work properly*
 
-##`2021-06-08` V3.12.58 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-3.12.58.zip)
+##`2021-06-08` V3.12.58 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-3.12.58.zip)
 >##### **BUG FIX, NEW FEATURE1S, MINOR UPDATES**
 - Add support for this resolution mode
 	- *1920x540 VESA 60Hz*
@@ -17,22 +17,22 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- Installation guide (012A/FR) [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb300/DMB300-guide-installation-012A_fr.pdf)
+- Installation guide (012A/FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb300/DMB300-guide-installation-012A_fr.pdf)
 #### **SUPPORTED MEDIAS DOCUMENTATION**
-- Gekkota supported medias and performances [download](https://github.com/innes-labs/archives/downloads/gekkota-supported-medias-and-performances.pdf)
+- Gekkota supported medias and performances [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-supported-medias-and-performances.pdf)
 #### **FEATURES & TROUBLESHOOT FIXING GUIDE**
-- Features & troubleshoot fixing guide 001A/EN [download](https://github.com/innes-labs/archives/downloads/troubleshoot-fixing-guide-Gekkota/Gekkota-troubleshoot-fixing-guide-001A_en.pdf) 
+- Features & troubleshoot fixing guide 001A/EN [download](https://github.com/innes-labs/archives/blob/main/downloads/troubleshoot-fixing-guide-Gekkota/Gekkota-troubleshoot-fixing-guide-001A_en.pdf) 
 
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2018-10-13` V3.12.57 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-3.12.57.zip)
+##`2018-10-13` V3.12.57 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-3.12.57.zip)
 >##### **BUG FIX, NEW FEATURE1S, MINOR UPDATES**
 - Add support for TLS 1.2 (Transport Layer Security)
 - Fix: attachments could be not properly attached in the email when containing some non-ASCII characters
 - Fix: in some case, the device could not stop rebooting after having unplugged the power supply (very rare)
 
-##`2018-04-26` V3.12.55 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-3.12.55.zip)
+##`2018-04-26` V3.12.55 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-3.12.55.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for *NTLM V2* authentication
 - Add support for ```German``` language (WebUI)
@@ -64,12 +64,12 @@
 - Fix: email attachment was not supported
 - Fix: unexpected black screen could be displayed infinitely due to the device which did not manage to boot-up properly (very rare)
 
-##`2017-04-27` V3.12.42 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-3.12.42.zip)
+##`2017-04-27` V3.12.42 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-3.12.42.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: a device reboot could occur when publishing with Screen Composer or PlugnCast G2 (rare)
 - Fix: a immediate device reboot could be noticed when playing a specific Web page
 
-##`2017-03-29` V3.12.40 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-3.12.40.zip)
+##`2017-03-29` V3.12.40 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-3.12.40.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: restore value *Gekkota-3* for HTML tag *middleware* in Gekkota 3 device status.xml
 - Fix: content of remote directory was not properly updated (PlugnCast G3 configuration) in case renaming, adding or removing file (or directories)
@@ -84,7 +84,7 @@
 - Fix: restore support for remote media over FTP
 - Fix: an error *Net timeout for download request* could remain in status.xml (and never be cancelled) in case the PlugnCast server was manually shut down for a while (PlugnCast G3)
 
-##`2016-11-07` V3.12.37 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-3.12.37.zip)
+##`2016-11-07` V3.12.37 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-3.12.37.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for "download directory" hyperlink (in WebUI) permitting to save the playout as tar gz archive
 	- To decompress the archive, use one of the softwares
@@ -93,16 +93,16 @@
 - Fix: was not able to get the new content of image media updated remotely every 'n' minute from a WebDAV server
 - Fix: in some case, some image of WebUI could not be displayed after having pressed F5 key in Mozilla Firefox Web browser with preference ```network.http.pipelining = true``` activated
 
-##`2016-10-19` V3.12.36 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-3.12.36.zip)
+##`2016-10-19` V3.12.36 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-3.12.36.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: was facing issue to connect to WLAN router when its SSID broadcasting is not activated (not visible)
 
-##`2016-10-05` V3.12.35 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-3.12.35.zip)
+##`2016-10-05` V3.12.35 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-3.12.35.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: in some case, player could not be not able to play any TNT channel leading to *content temporarily unavailable* (now, when DVB-T express card is not able to provide DVB-T data properly for 10 seconds, a workaround is detecting this anomaly and make reboot the player)
 - Fix: player could face issue to take a playout containing a file whose size is more than 2 GB
 
-##`2016-08-09` V3.12.33 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-3.12.33.zip)
+##`2016-08-09` V3.12.33 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-3.12.33.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for HTML DOM (Document Object Model) permitting to modify dynamically HTML page element with JavaScript file
 - Add preferences permitting to not display monitor-monitoring data *power-mode* and *input-source* in device-status (by example in case the screen is raising inconsistent data)

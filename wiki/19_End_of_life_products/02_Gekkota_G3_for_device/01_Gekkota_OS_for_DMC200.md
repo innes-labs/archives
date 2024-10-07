@@ -3,7 +3,7 @@
 
 *Never make electric unplug on your player while software upgrade is in progress (green led enlightened for few minutes) else the player may not be able to work properly*
 
-##`2018-10-13` V3.12.57 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.57.zip)
+##`2018-10-13` V3.12.57 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.57.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for TLS 1.2 (Transport Layer Security)
 - Fix: attachments could be not properly attached in the email when containing some non-ASCII characters
@@ -14,16 +14,16 @@
 ***********************************************************************
 
 #### **INSTALLATION GUIDE**
-- Installation guide (FR) [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmc200/DMC200-guide-installation-011E_fr.pdf)
+- Installation guide (FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmc200/DMC200-guide-installation-011E_fr.pdf)
 #### **SUPPORTED MEDIAS**
-- Gekkota supported medias and performances [download](https://github.com/innes-labs/archives/downloads/gekkota-supported-medias-and-performances.pdf)
+- Gekkota supported medias and performances [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-supported-medias-and-performances.pdf)
 #### **FEATURES & TROUBLESHOOT FIXING GUIDE**
-- Features & troubleshoot fixing guide 001A/EN [download](https://github.com/innes-labs/archives/downloads/troubleshoot-fixing-guide-Gekkota/Gekkota-troubleshoot-fixing-guide-001A_en.pdf) 
+- Features & troubleshoot fixing guide 001A/EN [download](https://github.com/innes-labs/archives/blob/main/downloads/troubleshoot-fixing-guide-Gekkota/Gekkota-troubleshoot-fixing-guide-001A_en.pdf) 
 
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2018-04-26` V3.12.55 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.55.zip)
+##`2018-04-26` V3.12.55 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.55.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for *NTLM V2* authentication
 - Add support for ```German``` language (WebUI)
@@ -55,18 +55,18 @@
 - Fix: email attachment was not supported
 - Fix: unexpected black screen could be displayed infinitely due to the device which did not manage to boot-up properly (very rare)
 
-##`2017-04-27` V3.12.42 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.42.zip)
+##`2017-04-27` V3.12.42 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.42.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: a device reboot could occur when publishing with Screen Composer or PlugnCast G2 (rare)
 - Fix: a immediate device reboot could be noticed when playing a specific Web page
 
-##`2017-03-29` V3.12.40 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.40.zip)
+##`2017-03-29` V3.12.40 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.40.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: restore value *Gekkota-3* for HTML tag *middleware* in Gekkota 3 device status.xml
 - Fix: content of remote directory was not properly updated (PlugnCast G3 configuration) in case renaming, adding or removing file (or directories)
 - Fix: issue to connect to device WebUI/configuration with Google Chrome (Chrome version > 15th March 2017)
 
-##`2016-11-07` V3.12.37 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.37.zip)
+##`2016-11-07` V3.12.37 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.37.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for "download directory" hyperlink (in WebUI) permitting to save the playout as tar gz archive
 	- To decompress the archive, use one of the softwares
@@ -75,12 +75,12 @@
 - Fix: was not able to get the new content of image media updated remotely every 'n' minute from a WebDAV server
 - Fix: in some case, some image of WebUI could not be displayed after having pressed F5 key in Mozilla Firefox Web browser with preference ```network.http.pipelining = true``` activated
 
-##`2016-10-05` V3.12.35 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.35.zip)
+##`2016-10-05` V3.12.35 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.35.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: in some case, player could not be not able to play any TNT channel leading to *content temporarily unavailable* (now, when DVB-T express card is not able to provide DVB-T data properly for 10 seconds, a workaround is detecting this anomaly and make reboot the player)
 - Fix: player could face issue to take a playout containing a file whose size is more than 2 GB
 
-##`2016-08-09` V3.12.33 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.33.zip)
+##`2016-08-09` V3.12.33 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.33.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for HTML DOM (Document Object Model) permitting to modify dynamically HTML page element with JavaScript file
 - Add preferences permitting to not display monitor-monitoring data *power-mode* and *input-source* in device-status (by example in case the screen is raising inconsistent data)
@@ -97,7 +97,7 @@
 - Fix: xpf file or media file of size 0 KB could be noticed randomly in case reboot immediately after publication (making appear unexpected *no content* message or *media temporarily unavailable* message)
 - Fix: some video could be displayed in 4-3 aspect ratio instead 16-9 aspect ratio
 
-##`2016-06-01` V3.12.31 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.31.zip)
+##`2016-06-01` V3.12.31 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.31.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add possibility to export a playout as *tar.gz* archive (from player to PC with a Web browser) (WebUI)
 	- ```http://<player_IP_address>/.playout/?export```
@@ -169,7 +169,7 @@
 - Fix: boot time was increased implying black screen displaying *Skipping non-existent adapter gma500 GPIOC* when edid of a screen could not be fecthed
 - Fix directory opening issue when the directory name is containig special characters (WebUI)
 
-##`2016-04-19` V3.12.30 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.30.zip)
+##`2016-04-19` V3.12.30 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.30.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix unexpected jerky effect on some interlaced H264 video (typically HD DVBT)
 - Fix: no content screen is displayed infinitely after a publication, due to a filesystem corruption (a reboot was solving the issue)
@@ -180,7 +180,7 @@
 - Fix: Reboot capability was not stopped at the configuration script injection (PlugnCast G2 configuration)
 - Fix: player was not able to take a playout with some custom CMS server (due to wrong management of etag file containing ```;``` character)
 
-##`2016-02-29` V3.12.29 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.29.zip)
+##`2016-02-29` V3.12.29 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.29.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add possibility to read player status (status.xml) through the player WebDAV server
  	- ```http::/<player_IP_Addr>/.status/```
@@ -191,11 +191,11 @@
 - Fix PDF viewing issue in interactive mode and duration per page is different of zero
 - Fix: very rare unexpected video tearing noticed on some player (video medias, transitions between media) which could be solved previously only after a player reboot (occurrence rate was depending on some platform)
 
-##`2016-02-12` V3.12.28 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.28.zip)
+##`2016-02-12` V3.12.28 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.28.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: unexpected error message *content temporarily unavailable* when playing a same PDF media several times
 
-##`2016-02-03` V3.12.26 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.26.zip)
+##`2016-02-03` V3.12.26 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmc200/gekkota_os-dmc200-setup-3.12.26.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add display modes
 	- "1280x720 60Hz CEA-861"

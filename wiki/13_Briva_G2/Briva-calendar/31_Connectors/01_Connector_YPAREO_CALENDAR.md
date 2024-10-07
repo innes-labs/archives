@@ -1,7 +1,7 @@
 # YPAREO CALENDAR
 *RELEASE NOTE*
 
-##`2021-06-07` V1.10.11 [download](https://github.com/innes-labs/archives/downloads/applets/connector-ypareo-V1.10.11/delivery/ypareo-calendar-1.10.11.saz)
+##`2021-06-07` V1.10.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/connector-ypareo-V1.10.11/delivery/ypareo-calendar-1.10.11.saz)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Initial version
 >##### **COMPATIBILITIES**
@@ -12,7 +12,7 @@
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-- Installation guide (001A/FR) [download](https://github.com/innes-labs/archives/downloads/applets/connector-ypareo-V1.10.11/delivery/ypareo-calendar-user-manual-001A_en.pdf)
+- Installation guide (001A/FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/connector-ypareo-V1.10.11/delivery/ypareo-calendar-user-manual-001A_en.pdf)
 #### **NOTE TO EXPORT CALENDAR ICS FROM APPLET PHP**
 - In order to export ICS calendar with applet PHP, enter this URL in Web browser
 	- ```http://<domain>/plugnCast/.applets/.ypareo-calendar/2ical.php?calendarId=<roomId>```

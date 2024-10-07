@@ -3,7 +3,7 @@
 
 *Never make electric unplug on your player while software upgrade is in progress (green led enlightened for few minutes) else the player may not be able to work properly*
 
-##`2017-03-29` V3.12.40 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-lcan/gekkota_os-lcan-setup-3.12.40.zip)
+##`2017-03-29` V3.12.40 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-lcan/gekkota_os-lcan-setup-3.12.40.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: restore value *Gekkota-3* for HTML tag *middleware* in Gekkota 3 device status.xml
 - Fix: content of remote directory was not properly updated (PlugnCast G3 configuration) in case renaming, adding or removing file (or directories)
@@ -20,12 +20,12 @@
 ***********************************************************************
 
 #### **SUPPORTED MEDIAS**
-- Gekkota supported medias and performances [download](https://github.com/innes-labs/archives/downloads/gekkota-supported-medias-and-performances.pdf)
+- Gekkota supported medias and performances [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-supported-medias-and-performances.pdf)
 
 #OLD VERSIONS HISTORY
 ***********************************************************************
 
-##`2016-11-07` V3.12.37 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-lcan/gekkota_os-lcan-setup-3.12.37.zip)
+##`2016-11-07` V3.12.37 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-lcan/gekkota_os-lcan-setup-3.12.37.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support of "download directory" hyperlink (in WebUI) permitting to save the playout as tar gz archive
 	- To decompress the archive, use one of the softwares
@@ -34,7 +34,7 @@
 - Fix: was not able to get the new content of image media updated remotely every 'n' minute from a WebDAV server
 - Fix: in some case, some image of WebUI could not be displayed after having pressed F5 key in Mozilla Firefox Web browser with preference ```network.http.pipelining = true``` activated
 
-##`2016-08-09` V3.12.33 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-lcan/gekkota_os-lcan-setup-3.12.33.zip)
+##`2016-08-09` V3.12.33 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-lcan/gekkota_os-lcan-setup-3.12.33.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support of HTML DOM (Document Object Model) permitting to modify dynamically HTML page element with JavaScript file
 - Fix: player reboot several time a day due to memory leak when playing playlist of video medias
@@ -47,7 +47,7 @@
 - Fix: xpf file or media file of size 0 KB could be noticed randomly in case reboot immediately after publication (making appear unexpected *no content* message or *media temporarily unavailable* message)
 - Fix: some video could be displayed in 4-3 aspect ratio instead 16-9 aspect ratio
 
-##`2016-06-01` V3.12.31 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-lcan/gekkota_os-lcan-setup-3.12.31.zip)
+##`2016-06-01` V3.12.31 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-lcan/gekkota_os-lcan-setup-3.12.31.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add possibility to export a playout as *tar.gz* archive (from player to PC with a Web browser) (WebUI)
 	- ```http://<player_IP_address>/.playout/?export```
@@ -100,7 +100,7 @@
 	- a player reboot having ethernet cable unplugged (PlugnCast G2 configuration)
 - Fix directory opening issue when the directory name is containig special characters (WebUI)
 
-##`2016-02-12` V3.12.28 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-lcan/gekkota_os-lcan-setup-3.12.28.zip)
+##`2016-02-12` V3.12.28 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-lcan/gekkota_os-lcan-setup-3.12.28.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: unexpected error message *content temporarily unavailable* when playing a same PDF media several times
 

@@ -14,7 +14,7 @@
 #### **DOCUMENTATION**
 | Description                                                                      | Version |                 |
 | :------------------------------------------------------------------------------- | :-------| :-------------- |
-| Monitor the player with Nagios (EN)                       | 001A       | [Download](https://github.com/innes-labs/archives/downloads/application-notes/Monitor-the-players-with-Nagios-001A_fr.pdf) |
+| Monitor the player with Nagios (EN)                       | 001A       | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/Monitor-the-players-with-Nagios-001A_fr.pdf) |
 
 
 

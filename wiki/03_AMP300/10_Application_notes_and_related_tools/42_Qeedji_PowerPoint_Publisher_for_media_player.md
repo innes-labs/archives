@@ -4,7 +4,7 @@
 The goal of application note is to explain how to install and use the *Qeedji PowerPoint Publisher for Media Player* PowerPoint add-in.
 
 
-##`2023-04-03` V1.15.10 [download (nt_ia64)](https://github.com/innes-labs/archives/downloads/application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.15.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.15.10.msi)
+##`2023-04-03` V1.15.10 [download (nt_ia64)](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.15.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.15.10.msi)
 >##### **IMPORTANT**
 In these version, the TAB10b devices cannot be detected yet when launching network UPnP discovery. To work around, the TAB10b devices must be added manually with the model type *TAB10s*.
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -41,7 +41,7 @@ In these version, the TAB10b devices cannot be detected yet when launching netwo
 
 #PowerPoint example supporting touch screen interactivity and page progression after the video has ended
 ***********************************************************************
-- health-interactivity-video-to-nextslide-template~001A.pptx [download](https://github.com/innes-labs/archives/downloads/application-notes/qeedji_powerpoint_publisher_addin/health-interactivity-video-to-nextslide-template~001A.pptx)
+- health-interactivity-video-to-nextslide-template~001A.pptx [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/qeedji_powerpoint_publisher_addin/health-interactivity-video-to-nextslide-template~001A.pptx)
 
 #XML configuration file examples for PowerPoint
 ***********************************************************************
@@ -51,10 +51,10 @@ These are two *.xml* configuration script examples for MS-PowerPoint supported b
 These two *.xml* configuration scripts allow to configure the UDP datagram port and IP address to receive UDP message allowing to either to display the next slide or to display the previous slide.
 
 - *.xml* configuration script with unicast device IPV4 address:
-	- udp-unicast-configuration-template.xml/001A [download](https://github.com/innes-labs/archives/downloads/application-notes/qeedji_powerpoint_publisher_addin/udp-unicast-configuration-template-001A.xml)
+	- udp-unicast-configuration-template.xml/001A [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/qeedji_powerpoint_publisher_addin/udp-unicast-configuration-template-001A.xml)
 		- to support these *.xml* configuration script example, your device OS must support UDP datagram. For further information, contact *support@innes.pro*
 - *.xml* configuration script with multicast device IPV4 address:
-    - udp-multicast-configuration-template.xml/001A [download](https://github.com/innes-labs/archives/downloads/application-notes/qeedji_powerpoint_publisher_addin/udp-multicast-configuration-template-001A.xml)
+    - udp-multicast-configuration-template.xml/001A [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/qeedji_powerpoint_publisher_addin/udp-multicast-configuration-template-001A.xml)
     	- to support these *.xml* configuration script example, your device OS must support UDP datagram. For further information, contact *support@innes.pro*
 
 Refer to the *Qeedji PowerPoint Publisher For Media Players: custom script* chapter of the device user manual to know how to import the *.xml* configuration script in your MS-PowerPoint.
@@ -63,11 +63,11 @@ Refer to the *Qeedji PowerPoint Publisher For Media Players: custom script* chap
 *********************************************************************************************************
 
 
-##`2023-01-24` V1.14.10 [download (nt_ia64)](https://github.com/innes-labs/archives/downloads/application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.14.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.14.10.msi)
+##`2023-01-24` V1.14.10 [download (nt_ia64)](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.14.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.14.10.msi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for executable custom script thanks to a configuration .xml file loaded in the optional *Developer* menu of the MS-PowerPoint ribbon
 
-##`2022-01-10` V1.13.10 [download (nt_ia64)](https://github.com/innes-labs/archives/downloads/application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.13.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.13.10.msi)
+##`2022-01-10` V1.13.10 [download (nt_ia64)](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.13.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.13.10.msi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for DMB300 devices
 - Change: move the ticker configuration pane from the *Advanced* tab to the *Ticker* tab
@@ -91,7 +91,7 @@ Refer to the *Qeedji PowerPoint Publisher For Media Players: custom script* chap
 	- AMP300
 	- TAB10s
 
-##`2022-10-17` V1.12.11 [download (nt_ia64)](https://github.com/innes-labs/archives/downloads/application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.12.11.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.12.11.msi)
+##`2022-10-17` V1.12.11 [download (nt_ia64)](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.12.11.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.12.11.msi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: in some poor network condition, the publication of MS-Powerpoint medias having a huge size could fail
 >##### **COMPATIBILITIES**
@@ -105,11 +105,11 @@ Refer to the *Qeedji PowerPoint Publisher For Media Players: custom script* chap
 	- AMP300
 	- TAB10s
 
-##`2022-10-05` V1.12.10 [download (nt_ia64)](https://github.com/innes-labs/archives/downloads/application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.12.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.12.10.msi)
+##`2022-10-05` V1.12.10 [download (nt_ia64)](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.12.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.12.10.msi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for scrolling text in an optional bottom banner
 - Fix: in some case, activating the `force for manual transitions an automatic progression of <m> min <n> sec` option was compressing the video medias inside the MS-PowerPoint media preventing them to be played back
 
-##`2019-09-03` V1.10.10 [download (nt_ia64)](https://github.com/innes-labs/archives/downloads/application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.10.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.10.10.msi)
+##`2019-09-03` V1.10.10 [download (nt_ia64)](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.10.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.10.10.msi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Initial version

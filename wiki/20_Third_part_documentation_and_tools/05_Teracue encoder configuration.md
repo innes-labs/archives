@@ -10,7 +10,7 @@
 #### **DOCUMENTATION**
 | Description                                                                      | Version |                 |
 | :------------------------------------------------------------------------------- | :-------| :-------------- |
-| TERACUE Encoder streamer user guide (FR)                            | 001A    | [Download](https://github.com/innes-labs/archives/downloads/application-notes/teracue_encoder_configuration-001A_en.pdf) |
+| TERACUE Encoder streamer user guide (FR)                            | 001A    | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/teracue_encoder_configuration-001A_en.pdf) |
 
 
 

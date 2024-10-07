@@ -3,7 +3,7 @@
 
 *Never make electric unplug on your device while firmware upgrade is in progress else the device may not be able to work properly*
 
-##`2024-03-27` V9.10.19 [download](https://github.com/innes-labs/archives/downloads/amp300/aosp-amp300-setup-9.10.19.fqs)
+##`2024-03-27` V9.10.19 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/aosp-amp300-setup-9.10.19.fqs)
 >##### **NOTE**
 - After having upgraded the firmware version, in case an older version of URL launcher had been installed by the end user, it is advised to remove this older version of URL launcher
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -46,11 +46,11 @@
 #INFORMATION
 ***********************************************************************
 #### **USER MANUAL**
-- AMP300 user manual 9.10.19~001D_en [download](https://github.com/innes-labs/archives/downloads/amp300/amp300-qeedji-user_manual-9.10.19~001D_en.pdf)
+- AMP300 user manual 9.10.19~001D_en [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/amp300-qeedji-user_manual-9.10.19~001D_en.pdf)
 #### **DEVELOPER MANUAL**
-- AMP300 developer manual 9.10.19~001C_en [Download](https://github.com/innes-labs/archives/downloads/amp300/amp300-developer_manual-AOSP-9.10.19~001C_en.pdf)
+- AMP300 developer manual 9.10.19~001C_en [Download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/amp300-developer_manual-AOSP-9.10.19~001C_en.pdf)
 #### **SUPPORTED MEDIAS DOCUMENTATION**
-- Devices supported medias and performances [download](https://github.com/innes-labs/archives/downloads/devices-supported-medias-and-performances.pdf)
+- Devices supported medias and performances [download](https://github.com/innes-labs/archives/blob/main/downloads/devices-supported-medias-and-performances.pdf)
 #### **SDK DEVELOPERS**
 - [Link to github AOSP for AMP300](https://github.com/Qeedji/aosp-AMP300-sdk/tree/master)
 #### **CONFIGURATION SCRIPT**
@@ -62,10 +62,10 @@
 #### **POWERSHELL SCRIPT**
 - [Link to setAppAsSystemApp PowerShell script](http://www.qeedji.tech/en/support/index.php?AMP300/Application_notes_and_related_tools/AQS-setAppAsSystemApp_PowerShell_script)
 #### **POWERSHELL SCRIPTS FOR AZURE ACTIVE DIRECTORY APPLICATION SUPPORT**
-- PowerShell script for Azure Active Directory Application support 1.10.18 [download](https://github.com/innes-labs/archives/downloads/scripts/powershell/Powershell_Innes_AAD-1.10.18.zip) for
+- PowerShell script for Azure Active Directory Application support 1.10.18 [download](https://github.com/innes-labs/archives/blob/main/downloads/scripts/powershell/Powershell_Innes_AAD-1.10.18.zip) for
     - Power BI Online viewer application
 #### **QEEDJI POWERPOINT PUBLISHER FOR MEDIA PLAYERS**
-- [Link to Qeedji PowerPoint Publisher for Media Players](https://github.com/innes-labs/archives/downloads/http://www.innes.pro/en/support/index.php?AMP300/Application_notes_and_related_tools/Qeedji_PowerPoint_Publisher_for_media_player) [download (nt_ia64)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.15.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.15.10.msi)
+- [Link to Qeedji PowerPoint Publisher for Media Players](https://github.com/innes-labs/archives/blob/main/downloads/http://www.innes.pro/en/support/index.php?AMP300/Application_notes_and_related_tools/Qeedji_PowerPoint_Publisher_for_media_player) [download (nt_ia64)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.15.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.15.10.msi)
 #### **DEBUG MODE**
 The debug mode is deactivated by default
 #### **ISO FILE FOR FACTORY RECOVERY**
@@ -74,7 +74,7 @@ To get the `aosp-amp300-setup-9.10.19.iso` file for factory recovery, contact su
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2024-01-18` V9.10.18 [download](https://github.com/innes-labs/archives/downloads/amp300/aosp-amp300-setup-9.10.18.fqs)
+##`2024-01-18` V9.10.18 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/aosp-amp300-setup-9.10.18.fqs)
 >##### **IMPORTANT**
 For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. For `AQS` V9.10.10 (or above), the *WLAN_1* interface is now priority. So after having upgraded the device with the `AQS` V9.10.10 (or above version), the device Web user interface or the device WebDAV server may be available with the IP address of the *WLAN_1* interface, instead of the one of the *LAN_1* interface
 Before installing an alternative screensaver App, ensure that your AMP300 device is connected to a touch screen display device to support interactivity with the end user
@@ -84,7 +84,7 @@ Before installing an alternative screensaver App, ensure that your AMP300 device
 - Change: embed *URL Launcher* 1.10.18
 - Fix: in some case, the playback of the video media having no audio track could not start at all or could freeze on the first image of the video media
 
-##`2023-12-20` V9.10.17 [download](https://github.com/innes-labs/archives/downloads/amp300/aosp-amp300-setup-9.10.17.fqs)
+##`2023-12-20` V9.10.17 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/aosp-amp300-setup-9.10.17.fqs)
 >##### **IMPORTANT**
 For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. For `AQS` V9.10.10 (or above), the *WLAN_1* interface is now priority. So after having upgraded the device with the `AQS` V9.10.10 (or above version), the device Web user interface or the device WebDAV server may be available with the IP address of the *WLAN_1* interface, instead of the one of the *LAN_1* interface
 Before installing an alternative screensaver App, ensure that your AMP300 device is connected to a touch screen display device to support interactivity with the end user
@@ -96,7 +96,7 @@ Before installing an alternative screensaver App, ensure that your AMP300 device
 - Fix: the audio volume was staying to 6% after a device start-up when the reboot task happened within a power manager task
 - Fix: in some rare case, the device could not start, and the status led was steady red
 
-##`2023-09-28` V9.10.16 [download](https://github.com/innes-labs/archives/downloads/amp300/aosp-amp300-setup-9.10.16.fqs)
+##`2023-09-28` V9.10.16 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/aosp-amp300-setup-9.10.16.fqs)
 >##### **IMPORTANT**
 For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. For `AQS` V9.10.10 (or above), the *WLAN_1* interface is now priority. So after having upgraded the device with the `AQS` V9.10.10 (or above version), the device Web user interface or the device WebDAV server may be available with the IP address of the *WLAN_1* interface, instead of the one of the *LAN_1* interface
 Before installing an alternative screensaver App, ensure that your AMP300 device is connected to a touch screen display device to support interactivity with the end user
@@ -107,7 +107,7 @@ Before installing an alternative screensaver App, ensure that your AMP300 device
 - Change: embed the *Media Folder Injector* App V1.10.10 vendor App in the table of installed APK in the *Apps* menu of the *Configuration* tab in the device configuration Web user interface
 - Change: embed the *URL launcher* App V1.10.16 vendor App in the table of installed APK in the *Apps* menu of the *Configuration* tab in the device configuration Web user interface
 
-##`2023-07-06` V9.10.15 [download](https://github.com/innes-labs/archives/downloads/amp300/aosp-amp300-setup-9.10.15.fqs)
+##`2023-07-06` V9.10.15 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/aosp-amp300-setup-9.10.15.fqs)
 >##### **IMPORTANT**
 For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. For `AQS` V9.10.10 (or above), the *WLAN_1* interface is now priority. So after having upgraded the device with the `AQS` V9.10.10 (or above version), the device Web user interface or the device WebDAV server may be available with the IP address of the *WLAN_1* interface, instead of the one of the *LAN_1* interface
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -133,7 +133,7 @@ For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. Fo
 - Fix: in some case, the content could be displayed with a 0° rotation instead of with a 90° rotation
 - Fix: in some rare case, the AOSP middleware could not start anymore, and this error code was activated on the status LED of the device: 1 red period of 1 second then Off for 1 second then 1 green period of 1 second, periodic in alternance with 1 second Off
 
-##`2023-04-03` V9.10.14 [download](https://github.com/innes-labs/archives/downloads/amp300/aosp-amp300-setup-9.10.14.fqs)
+##`2023-04-03` V9.10.14 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/aosp-amp300-setup-9.10.14.fqs)
 >##### **IMPORTANT**
 For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. For `AQS` V9.10.10 (or above), the *WLAN_1* interface is now priority. So after having upgraded the device with the `AQS` V9.10.10 (or above version), the device Web user interface or the device WebDAV server may be available with the IP address of the *WLAN_1* interface, instead of the one of the *LAN_1* interface
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -162,13 +162,13 @@ For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. Fo
 - Fix: in some case, some pages of some PDF medias were drawn too slowly
 - Fix: the pictogram of the *RFID TAG Reader* App was not rendered properly
 
-##`2023-02-07` V9.10.13 [download](https://github.com/innes-labs/archives/downloads/amp300/aosp-amp300-setup-9.10.13.fqs)
+##`2023-02-07` V9.10.13 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/aosp-amp300-setup-9.10.13.fqs)
 >##### **IMPORTANT**
 For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. For `AQS` V9.10.10 (or above), the *WLAN_1* interface is now priority. So after having upgraded the device with the `AQS` V9.10.10 (or above version), the device Web user interface or the device WebDAV server may be available with the IP address of the *WLAN_1* interface, instead of the one of the *LAN_1* interface
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: in some cases, when using an *USB-C to Jack 3.5* adapter, the level of the *volume of multimedia contents* in the *Output* pane of the *Configuration* menu in the device configuration Web user interface could be reset to 20% causing a weak audio volume on the *Jack 3.5* connector
 
-##`2023-01-24` V9.10.12 [download](https://github.com/innes-labs/archives/downloads/amp300/aosp-amp300-setup-9.10.12.fqs)
+##`2023-01-24` V9.10.12 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/aosp-amp300-setup-9.10.12.fqs)
 >##### **IMPORTANT**
 For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. For `AQS` V9.10.10 (or above), the *WLAN_1* interface is now priority. So after having upgraded the device with the `AQS` V9.10.10 (or above version), the device Web user interface or the device WebDAV server may be available with the IP address of the *WLAN_1* interface, instead of the one of the *LAN_1* interface
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -190,7 +190,7 @@ For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. Fo
 - Fix: if a display device was plugged on the *USB 1* USB-C port while the AMP300 device was starting, with an USB cable already plugged between a computer on the *USB 2* USB-C port, the ADB software could not work properly
 - Fix: in the *Administration* pane of the *Configuration* tab in the device configuration Web user interface, the credential name with dot character could not persist after reboot
 
-##`2022-12-02` V9.10.11 [download](https://github.com/innes-labs/archives/downloads/amp300/aosp-amp300-setup-9.10.11.fqs)
+##`2022-12-02` V9.10.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/aosp-amp300-setup-9.10.11.fqs)
 >##### **IMPORTANT**
 Before V9.10.10, the *LAN_1* interface had priority over *WLAN_1*. For `AQS` V9.10.10 (or above), the *WLAN_1* interface is now priority. So after having upgraded the device with the `AQS` V9.10.10 (or above version), the device Web user interface or the device WebDAV server may be available with the IP address of the *WLAN_1* interface, instead of the one of the *LAN_1* interface
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -206,7 +206,7 @@ Before V9.10.10, the *LAN_1* interface had priority over *WLAN_1*. For `AQS` V9.
 	- deactivateApp()
 - Fix: the video and audio medias embedded inside MS-PowerPoint medias (.pptx, .ppsx) were not played
 
-##`2022-10-21` V9.10.10 [download](https://github.com/innes-labs/archives/downloads/amp300/aosp-amp300-setup-9.10.10.fqs)
+##`2022-10-21` V9.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/aosp-amp300-setup-9.10.10.fqs)
 >##### **IMPORTANT**
 Before V9.10.10, the *LAN_1* interface had priority over *WLAN_1*. For `AQS` V9.10.10 (or above), the *WLAN_1* interface is now priority. So after having upgraded the device with the `AQS` V9.10.10 (or above version), the device Web user interface or the device WebDAV server may be available with the IP address of the *WLAN_1* interface, instead of the one of the *LAN_1* interface
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**

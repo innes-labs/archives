@@ -3,7 +3,7 @@
 
 *Never make electric unplug on your player while software upgrade is in progress (green led enlightened for few minutes) else the player may not be able to work properly*
 
-##`2018-10-23` V3.12.57 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smt210/gekkota_os-smt210-setup-3.12.57.zip)
+##`2018-10-23` V3.12.57 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smt210/gekkota_os-smt210-setup-3.12.57.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for TLS 1.2 (Transport Layer Security)
 - Change: too many touch call back events could be raised when pressing the touch screen
@@ -21,27 +21,27 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- Installation guide (016G/FR) [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smt210/SMT210-guide-installation-016G_fr.pdf)
-- Installation guide (016G/EN) [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smt210/SMT210-installation-guide-016G_en.pdf)
-- Installation guide (016G/DE) [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smt210/SMT210-service-handbuch-016G_de.pdf)
+- Installation guide (016G/FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smt210/SMT210-guide-installation-016G_fr.pdf)
+- Installation guide (016G/EN) [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smt210/SMT210-installation-guide-016G_en.pdf)
+- Installation guide (016G/DE) [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smt210/SMT210-service-handbuch-016G_de.pdf)
 #### **SUPPORTED MEDIAS**
-- Gekkota supported medias and performances [download](https://github.com/innes-labs/archives/downloads/gekkota-supported-medias-and-performances.pdf)
+- Gekkota supported medias and performances [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-supported-medias-and-performances.pdf)
 #### **CASING OVERVIEW**
-- Casing overview [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smt210/DS-SMTDRP-B.pdf)
+- Casing overview [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smt210/DS-SMTDRP-B.pdf)
 
 #OLD VERSIONS HISTORY
 ***********************************************************************
 
-##`2018-01-12` V3.12.51 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smt210/gekkota_os-smt210-setup-3.12.51.zip)
+##`2018-01-12` V3.12.51 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smt210/gekkota_os-smt210-setup-3.12.51.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: sometimes content could be completely frozen after having played a same video media several times (rare)
 - Fix: GIF medias could freeze for a while when loading some specific PDF media at the same time
 
-##`2018-01-10` V3.12.50 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smt210/gekkota_os-smt210-setup-3.12.50.zip)
+##`2018-01-10` V3.12.50 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smt210/gekkota_os-smt210-setup-3.12.50.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: network interface was not working anymore when a smart card reader model OMNIKEY 5427CK was plugged on the USB connector
 
-##`2017-11-10` V3.12.49 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smt210/gekkota_os-smt210-setup-3.12.49.zip)
+##`2017-11-10` V3.12.49 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smt210/gekkota_os-smt210-setup-3.12.49.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for *NTLM V2* authentication
 - Add support for ```German``` language (WebUI)
@@ -70,7 +70,7 @@
 - Fix: SMTP without authentication did not work
 - Fix: email attachment was not supported
 
-##`2017-07-18` V3.12.44 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smt210/gekkota_os-smt210-setup-3.12.44.zip)
+##`2017-07-18` V3.12.44 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smt210/gekkota_os-smt210-setup-3.12.44.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: device reboot when sending an email containing a body image (image type CIS)
 - Fix: a device reboot could occur when publishing with Screen Composer or PlugnCast G2 (rare)
@@ -78,7 +78,7 @@
 - Fix: the canal could stop to be played after a while with scenes generated with old version of PlugnCast Studio (ex: V2.11.13)
 - Fix: (rare) audio track could be not rendered anymore after a while when playing audio playlist inside an audio channel (seen with PlugnCast G2 configuration)
 
-##`2017-03-29` V3.12.40 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smt210/gekkota_os-smt210-setup-3.12.40.zip)
+##`2017-03-29` V3.12.40 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smt210/gekkota_os-smt210-setup-3.12.40.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: restore value *Gekkota-3* for HTML tag *middleware* in Gekkota 3 device status.xml
 - Fix: content of remote directory was not properly updated (PlugnCast G3 configuration) in case renaming, adding or removing file (or directories)
@@ -393,7 +393,7 @@
 - Fix media playback loopback issue with video within audio duration is longer than video duration
 - Fix debug log name (playzilla.log)
 
-##`2014-01-09` V3.12.11 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smt210/gekkota_os-smt210-setup-3.12.11.zip)
+##`2014-01-09` V3.12.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smt210/gekkota_os-smt210-setup-3.12.11.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add DHCP timeout configuration in WebUI
 - Add support full WGT API (localization)

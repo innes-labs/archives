@@ -19,8 +19,8 @@
 #### **DOCUMENTATION**
 | Description                                                                      | Version |                 |
 | :------------------------------------------------------------------------------- | :-------| :-------------- |
-| Media player WebUI connexion and network configuration recovery user guide (EN)  | 002A    | [Download](https://github.com/innes-labs/archives/downloads/application-notes/Connection-guide-to-Web-UI-of-a-media-player-and-network-configuration-recovery_002A_en.pdf) |
-| Media player WebUI connexion and network configuration recovery user guide (FR)  | 002A    | [Download](https://github.com/innes-labs/archives/downloads/application-notes/Guide-de-connexion-à-la-WebUI-d’un-player-et-de-restauration-de-la-configuration-réseau-002A_fr.pdf) |
+| Media player WebUI connexion and network configuration recovery user guide (EN)  | 002A    | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/Connection-guide-to-Web-UI-of-a-media-player-and-network-configuration-recovery_002A_en.pdf) |
+| Media player WebUI connexion and network configuration recovery user guide (FR)  | 002A    | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/Guide-de-connexion-à-la-WebUI-d’un-player-et-de-restauration-de-la-configuration-réseau-002A_fr.pdf) |
 
 
 

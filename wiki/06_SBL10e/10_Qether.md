@@ -14,7 +14,7 @@ It allows to:
 
 **Before sending a `.js` configuration script on your device or using the discover Qether command, ensure that your application has been upgraded with a suitable application version shown in the compatibility chapter.**
 
-##`2021-09-29` Qether V1.12.10 [download (nt_ia32)](https://github.com/innes-labs/archives/downloads/sbl10e/qether/qether-nt_ia32-setup-1.12.10.exe)
+##`2021-09-29` Qether V1.12.10 [download (nt_ia32)](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/qether/qether-nt_ia32-setup-1.12.10.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for `discover` Qether command for SBL10e device embedding the application with version 1.10.15 (or above)
 - Add support for firmware version printing in the console when launching `discover` Qether command
@@ -42,7 +42,7 @@ It allows to:
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-- `Qether` user manual (1.12.10-001A/EN) [download](https://github.com/innes-labs/archives/downloads/sbl10e/qether/qether-user_manual-1.12.10-001A_en.pdf)
+- `Qether` user manual (1.12.10-001A/EN) [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/qether/qether-user_manual-1.12.10-001A_en.pdf)
 - In case using the `configuration` command, use the `.js` file suitable for your device.
 #### **ONE COMMAND AT A TIME**
 When using `Qether` tool to update the firmware version for several devices at a time, thanks to a MS-Windows batch, it is recommended to execute the `Qether` commands the one after the other.
@@ -60,7 +60,7 @@ Sending a `.js` configuration script on a older application version may imply fa
 #OLD VERSIONS HISTORY
 ***********************************************************************
 
-##`2020-01-08` Qether V1.11.13 [download (nt_ia32)](https://github.com/innes-labs/archives/downloads/sbl10e/qether/qether-nt_ia32-setup-1.11.13.exe)
+##`2020-01-08` Qether V1.11.13 [download (nt_ia32)](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/qether/qether-nt_ia32-setup-1.11.13.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for SAP10e devices (*0139* product type)
 >##### **COMPATIBILITIES**
@@ -75,7 +75,7 @@ Sending a `.js` configuration script on a older application version may imply fa
 - `.bin` firmware
 - `prefs.json` configuration script
 
-##`2020-10-01` Qether V1.11.12 [download (nt_ia32)](https://github.com/innes-labs/archives/downloads/sbl10e/qether/qether-nt_ia32-setup-1.11.12.exe)
+##`2020-10-01` Qether V1.11.12 [download (nt_ia32)](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/qether/qether-nt_ia32-setup-1.11.12.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for ```qether -l``` command to list all the network interfaces, sorted with a ```<ID>```
 - Add support for ```-i <ID>``` option allowing to specify the network interface ```<ID>``` when sending a `Qether` command
@@ -89,12 +89,12 @@ Sending a `.js` configuration script on a older application version may imply fa
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for the `C:\Program Files (x86)\Qeedji Qether` environment variable value setting in `Path` system variables at `Qether` installation to be able to launch `Qether` from any of your computer directories
 
-##`2020-06-23` Qether V1.11.10 [download (nt_ia32)](https://github.com/innes-labs/archives/downloads/sbl10e/qether/qether-nt_ia32-setup-1.11.10.exe)
+##`2020-06-23` Qether V1.11.10 [download (nt_ia32)](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/qether/qether-nt_ia32-setup-1.11.10.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for new commands:
 	- `info`
 	- `discover`
 
-##`2020-06-11` Qether V1.10.10 [download (nt_ia32)](https://github.com/innes-labs/archives/downloads/sbl10e/qether/qether-nt_ia32-setup-1.10.10.exe)
+##`2020-06-11` Qether V1.10.10 [download (nt_ia32)](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/qether/qether-nt_ia32-setup-1.10.10.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Initial version supporting the `configure`, `install` and `reboot` commands for SBL10e devices (*0132* product type)

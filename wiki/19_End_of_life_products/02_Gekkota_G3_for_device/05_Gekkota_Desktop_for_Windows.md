@@ -1,7 +1,7 @@
 # Gekkota Desktop
 *RELEASE NOTE*
 
-##`2019-03-08` V3.12.58 [download](https://github.com/innes-labs/archives/downloads/gekkota-desktop/gekkota_desktop-nt_ia32-setup-3.12.58.exe)
+##`2019-03-08` V3.12.58 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-desktop/gekkota_desktop-nt_ia32-setup-3.12.58.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: a video over UDP could not be played in case using a *DME204* encoder-streamer with the audio inactivated
 >##### **COMPATIBILITIES**
@@ -14,12 +14,12 @@
 - Fix: playing SlideMaker media containing objects with fading (inside zone with transition between media activated) makes reboot the player each time the media is played
 
 #### **SUPPORTED MEDIAS DOCUMENTATION**
-- Gekkota supported media and performances [download](https://github.com/innes-labs/archives/downloads/gekkota-supported-medias-and-performances.pdf)
+- Gekkota supported media and performances [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-supported-medias-and-performances.pdf)
 
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2018-03-19` V3.12.54 [download](https://github.com/innes-labs/archives/downloads/gekkota-desktop/gekkota_desktop-nt_ia32-setup-3.12.54.exe)
+##`2018-03-19` V3.12.54 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-desktop/gekkota_desktop-nt_ia32-setup-3.12.54.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: MS-PowerPoint media playback could lead to the display of the message *content temporarily unavailable* since a recent MS-Windows 10 system update
 - Fix: the content could be not displayed in full screen after having unplugged then plugged again HDMI cable (MS-Windows 10)

@@ -9,7 +9,7 @@
 
 *Never make electric unplug on your player while software upgrade is in progress (green led blinking 6 times every 4 seconds) else the player may not be able to work properly*
 
-##`2024-06-04` V5.11.14 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-5.11.14.zip)
+##`2024-06-04` V5.11.14 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-5.11.14.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for *2304x384 60 Hz NOVASTAR* display mode
 >##### **LIMITATIONS**
@@ -23,17 +23,17 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- User manual (5.11.14~001B_en) [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/dmb400-g5-user_manual-5.11.14~001B_en.pdf)
+- User manual (5.11.14~001B_en) [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/dmb400-g5-user_manual-5.11.14~001B_en.pdf)
 #### **SUPPORTED MEDIAS**
-- Devices supported medias and performances [download](https://github.com/innes-labs/archives/downloads/devices-supported-medias-and-performances.pdf)
+- Devices supported medias and performances [download](https://github.com/innes-labs/archives/blob/main/downloads/devices-supported-medias-and-performances.pdf)
 #### **QEEDJI POWERPOINT PUBLISHER FOR MEDIA PLAYERS**
-- [Link to Qeedji PowerPoint Publisher for Media Players](https://github.com/innes-labs/archives/downloads/http://www.innes.pro/en/support/index.php?DMB400/Application_notes_and_related_tools/Qeedji_PowerPoint_Publisher_for_media_player) [download (nt_ia64)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.15.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.15.10.msi)
+- [Link to Qeedji PowerPoint Publisher for Media Players](https://github.com/innes-labs/archives/blob/main/downloads/http://www.innes.pro/en/support/index.php?DMB400/Application_notes_and_related_tools/Qeedji_PowerPoint_Publisher_for_media_player) [download (nt_ia64)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.15.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.15.10.msi)
 #### **CONFIGURATION SCRIPT**
 - [Link to configuration script](http://www.innes.pro/en/support/index.php?DMB400/Application_notes_and_related_tools/Configuration_by_script)
 #### **POWERSHELL SCRIPTS FOR DEVICE MAINTENANCE**
-- PSDevice Powershell script V1.10.10 [download](https://github.com/innes-labs/archives/downloads/application-notes/scripts/powershell/Powershell_Innes_Device/delivery/Powershell_Innes_Device-1.10.10.zip)
+- PSDevice Powershell script V1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/scripts/powershell/Powershell_Innes_Device/delivery/Powershell_Innes_Device-1.10.10.zip)
 #### **POWERSHELL SCRIPTS FOR AZURE ACTIVE DIRECTORY APPLICATION SUPPORT**
-- PowerShell script for Azure Active Directory Application support 1.10.17 [download](https://github.com/innes-labs/archives/downloads/scripts/powershell/Powershell_Innes_AAD-1.10.17.zip) for
+- PowerShell script for Azure Active Directory Application support 1.10.17 [download](https://github.com/innes-labs/archives/blob/main/downloads/scripts/powershell/Powershell_Innes_AAD-1.10.17.zip) for
     - Power BI Online viewer application
     - Microsoft 365 URL launcher application
 #### **INFORMATION**
@@ -94,13 +94,13 @@
 #OLD VERSIONS HISTORY
 ***********************************************************************
 
-##`2024-01-19` V5.11.13 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-5.11.13.zip)
+##`2024-01-19` V5.11.13 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-5.11.13.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for additional logs for the *Power BI Online Viewer* built-in App
 - Change: the *Viewing time of the report pages* field value in the *Power BI Online Viewer* section in the *App* pane of the *Configuration* menu in the device configuration Web user interface is taken into account now to refresh the Power BI dashboards reports content as well
 - Fix: the displaying of some specific pages of *Power BI* reports could never end
 
-##`2023-11-30` V5.11.12 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-5.11.12.zip)
+##`2023-11-30` V5.11.12 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-5.11.12.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for the *identifier* and *password* fields self-filling and self-validation for Web page form in some condition
 - Add support for the *Identifier/password for a Web page form* authentication for the *Simple Web server* mode in the *URL launcher* App form of the *App* pane in the *Configuration* menu of the device configuration Web user interface
@@ -118,7 +118,7 @@
 - Fix: the DNS value was not displayed in the *Network* pane of the *Information* menu of the device configuration Web interface
 - Fix: the unsigned CA certificates was not supported
 
-##`2023-09-28` V5.11.11 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-5.11.11.zip)
+##`2023-09-28` V5.11.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-5.11.11.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for swap disk feature
 	- *Enable Virtual memory on this partition* checkbox in the *Tools* pane of the *Maintenance* tab of the device Web user interface allowing to activate swap disk feature
@@ -129,7 +129,7 @@
 - Fix: in some case, the URL launcher App could return an error message *Content temporarily unavailable (code 4)* when playing some images located in Web site sub directories
 - Fix: the unsigned CA certificates was not supported
 
-##`2023-04-19` V5.11.10 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-5.11.10.zip)
+##`2023-04-19` V5.11.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-5.11.10.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Initial version with Web engine based on Mozilla 92 and supporting these built-in App in the *App* pane in the *Configuration* menu of the device configuration Web user interface
 	- *Power BI Online viewer*

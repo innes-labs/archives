@@ -10,7 +10,7 @@
 #### **DOCUMENTATION**
 | Description                                                                      |               |
 | :------------------------------------------------------------------------------- | :------------ |
-| Windows 10 laptop configuration into Wifi Access Point (001B_fr) | [Download](https://github.com/innes-labs/archives/downloads/application-notes/tools/Configuration-PC-portable-Windows10-en-point-d-acces-wifi_001B_fr.pdf) |
+| Windows 10 laptop configuration into Wifi Access Point (001B_fr) | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/tools/Configuration-PC-portable-Windows10-en-point-d-acces-wifi_001B_fr.pdf) |
 
 
 

@@ -10,7 +10,7 @@
 #### **DOCUMENTATION**
 | Description                                                                      | Version |                 |
 | :------------------------------------------------------------------------------- | :-------| :-------------- |
-| Movement sensor user manual (FR)                                                | 001A    | [Download](https://github.com/innes-labs/archives/downloads/application-notes/movement-sensor/Guide-d'utilisation-du-capteur-de-mouvement-en-G3-001A_fr.pdf) |
+| Movement sensor user manual (FR)                                                | 001A    | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/movement-sensor/Guide-d'utilisation-du-capteur-de-mouvement-en-G3-001A_fr.pdf) |
 
 
 

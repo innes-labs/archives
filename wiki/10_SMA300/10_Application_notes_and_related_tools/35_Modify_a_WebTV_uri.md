@@ -8,7 +8,7 @@
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-Modify a WebTV uri (001A/EN) [Download](https://github.com/innes-labs/archives/downloads/application-notes/webtv-uri-modification-001A_en.pdf)
+Modify a WebTV uri (001A/EN) [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/webtv-uri-modification-001A_en.pdf)
 
 
 

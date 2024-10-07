@@ -5,7 +5,7 @@ The *smart_office_obs* application periodically connects to a data source server
 
 It is compatible only with datasource servers filling the requirements specified for **OBS (Orange Business Services) software editor**. For further information, refer to the *smart_office_obs* user manual.
 
-##`2023-02-22` V1.12.10 [download](https://github.com/innes-labs/archives/downloads/sbl10e/smart_office_obs/V1.12.10/bm0032_smart_office_obs-sbl10e-setup-1.12.10.bin)
+##`2023-02-22` V1.12.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/smart_office_obs/V1.12.10/bm0032_smart_office_obs-sbl10e-setup-1.12.10.bin)
 >##### **IMPORTANT**
 - Change: does support the *discover* command from only Qether V1.12.10 (and above)
 - Change: does support the *configure* command from only Qether V1.12.10 (and above)
@@ -27,17 +27,17 @@ It is compatible only with datasource servers filling the requirements specified
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-User manual 1.12.10~002A_en [download](https://github.com/innes-labs/archives/downloads/sbl10e/smart_office_obs/V1.12.10/sbl10e-smart-office-obs-user_manual-1.12.10~002A_en.pdf)
+User manual 1.12.10~002A_en [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/smart_office_obs/V1.12.10/sbl10e-smart-office-obs-user_manual-1.12.10~002A_en.pdf)
 #### **QETHER**
 [Link to Qether tool](http://www.innes.pro/en/support/index.php?SBL10e/Qether)
 #### **CONFIGURATION SCRIPT TEMPLATE**
-`000000000000.js` template 004A for `smart_office_obs` 1.12.10 (or above) [download](https://github.com/innes-labs/archives/downloads/sbl10e/smart_office_obs/V1.12.10/configuration-script-template/000000000000.js)
+`000000000000.js` template 004A for `smart_office_obs` 1.12.10 (or above) [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/smart_office_obs/V1.12.10/configuration-script-template/000000000000.js)
 
 
 #OLD VERSIONS HISTORY
 ***********************************************************************
 
-##`2022-05-20` V1.11.13 [download](https://github.com/innes-labs/archives/downloads/sbl10e/smart_office_obs/V1.11.13/bm0032_smart_office_obs-sbl10e-setup-1.11.13.bin)
+##`2022-05-20` V1.11.13 [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/smart_office_obs/V1.11.13/bm0032_smart_office_obs-sbl10e-setup-1.11.13.bin)
 >##### **IMPORTANT**
 - Change: does support the *discover* command from only Qether V1.12.10 (and above)
 - Change: does support the *configure* command from only Qether V1.12.10 (and above)
@@ -45,7 +45,7 @@ User manual 1.12.10~002A_en [download](https://github.com/innes-labs/archives/do
 - Fix: proxy server was not working anymore
 - Fix: in case using a proxy server, the domain value was transmitted already resolved to the proxy server
 
-##`2022-05-13` V1.11.12 [download](https://github.com/innes-labs/archives/downloads/sbl10e/smart_office_obs/V1.11.12/bm0032_smart_office_obs-sbl10e-setup-1.11.12.bin)
+##`2022-05-13` V1.11.12 [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/smart_office_obs/V1.11.12/bm0032_smart_office_obs-sbl10e-setup-1.11.12.bin)
 >##### **IMPORTANT**
 - Change: do not support the *discover* command from Qether V1.11.13 (and below)
 - Change: do not support the *configure* command from Qether V1.11.13 (and below)
@@ -111,9 +111,9 @@ User manual 1.12.10~002A_en [download](https://github.com/innes-labs/archives/do
 - SBL10e device
 - Qether 1.12.10 (or above)
 >#### **PREFS.JSON EXAMPLE**
-`prefs.json` example for `smart_office_obs` [download](https://github.com/innes-labs/archives/downloads/sbl10e/smart_office_obs/V1.10.15/prefs-json-example/prefs.json)
+`prefs.json` example for `smart_office_obs` [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/smart_office_obs/V1.10.15/prefs-json-example/prefs.json)
 
-##`2020-10-01` V1.10.12 [download](https://github.com/innes-labs/archives/downloads/sbl10e/smart_office_obs/V1.10.12/bm0032_smart_office_obs-sbl10e-setup-1.10.12.bin)
+##`2020-10-01` V1.10.12 [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/smart_office_obs/V1.10.12/bm0032_smart_office_obs-sbl10e-setup-1.10.12.bin)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: in DHCP configuration, in case the DHCP server was not available, the fail over to the static IP address was not working
 >##### **COMPATIBILITIES**
@@ -124,7 +124,7 @@ User manual 1.12.10~002A_en [download](https://github.com/innes-labs/archives/do
 - DNS suffix is not yet supported. So do enter the entire domain in the data source server.
 - Setting as static IP address, the same IP address value as the one previously given by DHCP prevent to connect to the device Web user interface after the device reboot
 
-##`2020-09-23` V1.10.11 [download](https://github.com/innes-labs/archives/downloads/sbl10e/smart_office_obs/V1.10.11/bm0032_smart_office_obs-sbl10e-setup-1.10.11.bin)
+##`2020-09-23` V1.10.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/smart_office_obs/V1.10.11/bm0032_smart_office_obs-sbl10e-setup-1.10.11.bin)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Initial version
 >##### **COMPATIBILITIES**

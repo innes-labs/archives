@@ -4,7 +4,7 @@ The *Matroska* standard offers the possibility to compress the headers (*Header 
 For further information about *Header stripping*, visit the [Matroska Web site https://www.matroska.org/news/compressed-headers.html](https://www.matroska.org/news/compressed-headers.html).
 
 ## Media info software and stripped header
-A video analysis with *MediaInfo* software allows to show that the video has *Header stripping* [MediaInfo analysis with a video example](https://github.com/innes-labs/archives/downloads/tools/Media_info-video_example_with_stripping.jpg)
+A video analysis with *MediaInfo* software allows to show that the video has *Header stripping* [MediaInfo analysis with a video example](https://github.com/innes-labs/archives/blob/main/downloads/tools/Media_info-video_example_with_stripping.jpg)
 
 ## Header stripping not supported by the DMB400
 Unfortunately, the DMB400 device, like several other competitor devices, do not support this aspect of Matroska standard. When these kind of video .mkv video with *Header stripping* is played, a decoding error is returned: *Content temporarily unavailable (code 4)*.

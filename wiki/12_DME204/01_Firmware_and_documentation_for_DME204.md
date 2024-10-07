@@ -3,7 +3,7 @@
 
 *Never make electric unplug on your player while software upgrade is in progress (green led blinking 6 times every 4 seconds) else the player may not be able to work properly*
 
-##`2020-03-28` V4.13.10 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dme204/gekkota_os-dme204-setup-4.13.10.zip)
+##`2020-03-28` V4.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dme204/gekkota_os-dme204-setup-4.13.10.zip)
 >##### **IMPORTANT IN CASE MIGRATION V2.50.91 TO V4.13.10**
 - Before upgrading to Gekkota G4 middleware:
 	- check that your current DME204 middleware version is `2.50.91` minimum
@@ -50,11 +50,11 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- User manual 4.13.10~003A_EN [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dme204/dme204-user_manual-4.13.10~003A_en.pdf)
+- User manual 4.13.10~003A_EN [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dme204/dme204-user_manual-4.13.10~003A_en.pdf)
 #### **SUPPORTED MEDIAS**
-- Devices supported medias and performances [download](https://github.com/innes-labs/archives/downloads/devices-supported-medias-and-performances.pdf)
+- Devices supported medias and performances [download](https://github.com/innes-labs/archives/blob/main/downloads/devices-supported-medias-and-performances.pdf)
 #### **QEEDJI POWERPOINT PUBLISHER FOR MEDIA PLAYERS**
-- [Link to Qeedji PowerPoint Publisher for Media Players](https://github.com/innes-labs/archives/downloads/http://www.innes.pro/en/support/index.php?DME204/Application_notes_and_related_tools/Qeedji_PowerPoint_Publisher_for_media_player) [download (nt_ia64)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.11.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.11.10.msi)
+- [Link to Qeedji PowerPoint Publisher for Media Players](https://github.com/innes-labs/archives/blob/main/downloads/http://www.innes.pro/en/support/index.php?DME204/Application_notes_and_related_tools/Qeedji_PowerPoint_Publisher_for_media_player) [download (nt_ia64)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.11.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.11.10.msi)
 #### **CONFIGURATION SCRIPT**
 - [Link to configuration script](http://www.innes.pro/en/support/index.php?DME204/Application_notes_and_related_tools/Configuration_by_script)
 #### **MOE**
@@ -106,7 +106,7 @@
 #OLD VERSIONS HISTORY
 ***********************************************************************
 
-##`2019-08-28` V4.12.10 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dme204/gekkota_os-dme204-setup-4.12.10.zip)
+##`2019-08-28` V4.12.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dme204/gekkota_os-dme204-setup-4.12.10.zip)
 >##### **IMPORTANT IN CASE MIGRATION V2.50.91 TO V4.11.10**
 - Before upgrading to Gekkota G4 middleware:
 	- check that your current DME204 middleware version is `2.50.91` minimum
@@ -165,7 +165,7 @@
 - Fix: the video could become jerky when receiving data on the WebDAV server
 - Fix: in some case, a playout content could be not played when 2 scenes was starting at the same time (rare)
 
-##`2019-04-10` V4.11.10 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dme204/gekkota_os-dme204-setup-4.11.10.zip)
+##`2019-04-10` V4.11.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dme204/gekkota_os-dme204-setup-4.11.10.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for a ```.playlog/``` directory in WebUI
 - Add support for ```Playlog``` capability
@@ -180,7 +180,7 @@
 - Fix: in some case, it was not possible to save the hostname value in the WebUI
 - Fix: when editing a integer user preference in the WebUI, the value 9999 was presented then could be saved after a device reboot
 
-##`2018-10-03` V4.10.15 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dme204/gekkota_os-dme204-setup-4.10.15.zip)
+##`2018-10-03` V4.10.15 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dme204/gekkota_os-dme204-setup-4.10.15.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for DASH MSE (```Media Source Extensions```)
     - The DASH MSE is activated by default (meaning the preference ```media.mediasource.enable``` is set to ```true```)
@@ -212,7 +212,7 @@
 - Fix: the URL pasting was not working in the WebUI was not working [DME204]
 - Fix: in some rare case, the DME204 boot could not end implying to unplug/plug the power supply to work around (very rare)
 
-##`2018-08-28` V4.10.14 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dme204/gekkota_os-dme204-setup-4.10.14.zip)
+##`2018-08-28` V4.10.14 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dme204/gekkota_os-dme204-setup-4.10.14.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for HTML5 WebUI
 - Add support for MS-PowerPoint media

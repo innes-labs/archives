@@ -3,7 +3,7 @@
 #### **SUMMARY**
 The goal of application note is to explain how to install and use the *Qeedji PowerPoint Publisher for Media Player* PowerPoint add-in.
 
-##`2022-01-10` V1.13.10 [download (nt_ia64)](https://github.com/innes-labs/archives/downloads/application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.13.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.13.10.msi)
+##`2022-01-10` V1.13.10 [download (nt_ia64)](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.13.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.13.10.msi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for DMB300 devices
 - Change: move the ticker configuration pane from the *Advanced* tab to the *Ticker* tab
@@ -37,7 +37,7 @@ The user settings are stored encrypted in this file `C:\Users\%username%\AppData
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2022-10-17` V1.12.11 [download (nt_ia64)](https://github.com/innes-labs/archives/downloads/application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.12.11.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.12.11.msi)
+##`2022-10-17` V1.12.11 [download (nt_ia64)](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.12.11.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.12.11.msi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: in some poor network condition, the publication of MS-Powerpoint medias having a huge size could fail
 >##### **COMPATIBILITIES**
@@ -51,11 +51,11 @@ The user settings are stored encrypted in this file `C:\Users\%username%\AppData
 	- AMP300
 	- TAB10s
 
-##`2022-10-05` V1.12.10 [download (nt_ia64)](https://github.com/innes-labs/archives/downloads/application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.12.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.12.10.msi)
+##`2022-10-05` V1.12.10 [download (nt_ia64)](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.12.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.12.10.msi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for scrolling text in an optional bottom banner
 - Fix: in some case, activating the `force for manual transitions an automatic progression of <m> min <n> sec` option was compressing the video medias inside the MS-PowerPoint media preventing them to be played back
 
-##`2019-09-03` V1.10.10 [download (nt_ia64)](https://github.com/innes-labs/archives/downloads/application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.10.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.10.10.msi)
+##`2019-09-03` V1.10.10 [download (nt_ia64)](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.10.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.10.10.msi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Initial version

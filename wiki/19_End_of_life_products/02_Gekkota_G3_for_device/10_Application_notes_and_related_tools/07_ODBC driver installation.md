@@ -13,8 +13,8 @@ The aim of this documentation is to explain why and how to install a driver ODBC
 #### **DOCUMENTATION**
 | Description                                                                      | Version |                 |
 | :------------------------------------------------------------------------------- | :-------| :-------------- |
-| ODBC driver installation guide (FR)                                       | 001A    | [Download](https://github.com/innes-labs/archives/downloads/application-notes/installation-d'un-driver-odbc-sur-une-plateforme-windows-note-d'application-001A_fr.pdf) |
-| ODBC driver installation guide (EN)                                              | 001A    | [Download](https://github.com/innes-labs/archives/downloads/application-notes/installation-of-ODBC-driver-on-Windows-platform-Application-note-001A_en.pdf) |
+| ODBC driver installation guide (FR)                                       | 001A    | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/installation-d'un-driver-odbc-sur-une-plateforme-windows-note-d'application-001A_fr.pdf) |
+| ODBC driver installation guide (EN)                                              | 001A    | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/installation-of-ODBC-driver-on-Windows-platform-Application-note-001A_en.pdf) |
 
 
 

@@ -10,7 +10,7 @@
 ***********************************************************************
 #### **DOCUMENTATION**
 - User guide to convert a MS-PowerPoint slide show into a HTML slide show
- (001A_en) [Download](https://github.com/innes-labs/archives/downloads/application-notes/tools/Conversion-MS-PowerPoint-slide-show-into-HTML-slide-show-with-iSpring_001A_en.pdf)
+ (001A_en) [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/tools/Conversion-MS-PowerPoint-slide-show-into-HTML-slide-show-with-iSpring_001A_en.pdf)
 #### **COMPATIBILITIES**
 - Screen Composer 3.20.11
 - PlugnCast 2.51.12

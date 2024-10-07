@@ -1,7 +1,7 @@
 # ICS CALENDAR REQUEA
 *RELEASE NOTE*
 
-##`2013-08-12` V1.10.16 [download](https://github.com/innes-labs/archives/downloads/applets/pcs-wa-requea-V1.10.17/ics-calendar-V1.10.16/ics-calendar-V1.10.16.saz)
+##`2013-08-12` V1.10.16 [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/pcs-wa-requea-V1.10.17/ics-calendar-V1.10.16/ics-calendar-V1.10.16.saz)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Change (optimization) attachment
 - Add security to not downloaded again when the file has not changed (Playzilla G3 only)
@@ -15,14 +15,14 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- User manual (EN) [download](https://github.com/innes-labs/archives/downloads/applets/pcs-wa-requea-V1.10.17/ics-calendar-V1.10.16/ics-calendar-user-manual-002A_en.pdf)
-- REQUEA getting started guide [download](https://github.com/innes-labs/archives/downloads/applets/pcs-wa-requea-V1.10.17/PCS.WA.REQUEA-getting-started-guide.txt)
-- REQUEA requirements [download](https://github.com/innes-labs/archives/downloads/applets/pcs-wa-requea-V1.10.17/requea-configuration/REQUEA-ics-calendars-specifications.pdf)
-- REQUEA xml configuration [download](https://github.com/innes-labs/archives/downloads/applets/pcs-wa-requea-V1.10.17/requea-configuration/configuration-files-examples/configuration.xml)
-- REQUEA rdf [download](https://github.com/innes-labs/archives/downloads/applets/pcs-wa-requea-V1.10.17/requea-configuration/configuration-files-examples/rooms.rdf)
+- User manual (EN) [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/pcs-wa-requea-V1.10.17/ics-calendar-V1.10.16/ics-calendar-user-manual-002A_en.pdf)
+- REQUEA getting started guide [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/pcs-wa-requea-V1.10.17/PCS.WA.REQUEA-getting-started-guide.txt)
+- REQUEA requirements [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/pcs-wa-requea-V1.10.17/requea-configuration/REQUEA-ics-calendars-specifications.pdf)
+- REQUEA xml configuration [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/pcs-wa-requea-V1.10.17/requea-configuration/configuration-files-examples/configuration.xml)
+- REQUEA rdf [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/pcs-wa-requea-V1.10.17/requea-configuration/configuration-files-examples/rooms.rdf)
 #### **MODELS PACKAGE**
-- Models package 3.10.16 [download](https://github.com/innes-labs/archives/downloads/applets/pcs-wa-requea-V1.10.17/models-V3.10.16/models-V3.10.16.zip)
-- Examples and documentation [download](https://github.com/innes-labs/archives/downloads/applets/pcs-wa-requea-V1.10.17/models-V3.10.16/examples-and-documentation.zip)
+- Models package 3.10.16 [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/pcs-wa-requea-V1.10.17/models-V3.10.16/models-V3.10.16.zip)
+- Examples and documentation [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/pcs-wa-requea-V1.10.17/models-V3.10.16/examples-and-documentation.zip)
 #### **MODELS PACKAGE VERSION VERSUS PLAYZILLA V3**
 - When using Playzilla V3.xx.yy, use models V1.10.30 (or above) according to
 

@@ -91,13 +91,13 @@ To work with the `SignWay Demo` App, refer to the `SignWay Demo` App release not
 #### **WORK WITH THE SIGNDOOR DEMO APP**
 To work with the `SignDoor Demo` App, refer to the `SignDoor Demo` App release note.
 #### **USER MANUAL**
-- User manual (011A/EN) [download](https://github.com/innes-labs/archives/downloads/screen-composer-g3/Screen-Composer-User-Manual-11A_en.pdf)
-- User manual (001L/FR) [download](https://github.com/innes-labs/archives/downloads/screen-composer-g3/Screen-Composer-G3-Manuel-Utilisateur-001L_fr.pdf)
-- User manual (011B/ES) [download](https://github.com/innes-labs/archives/downloads/screen-composer-g3/Screen-Composer-Manual-de-usuario-11B_es.pdf)
+- User manual (011A/EN) [download](https://github.com/innes-labs/archives/blob/main/downloads/screen-composer-g3/Screen-Composer-User-Manual-11A_en.pdf)
+- User manual (001L/FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/screen-composer-g3/Screen-Composer-G3-Manuel-Utilisateur-001L_fr.pdf)
+- User manual (011B/ES) [download](https://github.com/innes-labs/archives/blob/main/downloads/screen-composer-g3/Screen-Composer-Manual-de-usuario-11B_es.pdf)
 #### **GETTING STARTED**
-- Getting started (018A/EN) [download](https://github.com/innes-labs/archives/downloads/screen-composer-g3/screen-composer-with-gekkota-elinux-g3-getting-started-manual-018A_en.pdf)
-- Getting started (018A/FR) [download](https://github.com/innes-labs/archives/downloads/screen-composer-g3/screen-composer-avec-gekkota-elinux-g3-manuel-de-démarrage-rapide-018A_fr.pdf)
-- Getting started (018A/DE) [download](https://github.com/innes-labs/archives/downloads/screen-composer-g3/screen-composer-mit-gekotta-elinux-g3-wegweiser-schnellstart-018A_de.pdf)
+- Getting started (018A/EN) [download](https://github.com/innes-labs/archives/blob/main/downloads/screen-composer-g3/screen-composer-with-gekkota-elinux-g3-getting-started-manual-018A_en.pdf)
+- Getting started (018A/FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/screen-composer-g3/screen-composer-avec-gekkota-elinux-g3-manuel-de-démarrage-rapide-018A_fr.pdf)
+- Getting started (018A/DE) [download](https://github.com/innes-labs/archives/blob/main/downloads/screen-composer-g3/screen-composer-mit-gekotta-elinux-g3-wegweiser-schnellstart-018A_de.pdf)
 #### **PREVIEW**
 - WMA preview is not supported
 - When Screen Composer has just been opened, the first preview of a media can take until 40 seconds to start

@@ -1,7 +1,7 @@
 # SignMeeting CALDAV
 *RELEASE NOTE*
 
-##`2016-06-13` V1.12.19 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-caldav/signmeeting_caldav-screen_composer-setup-1.12.19.appi)
+##`2016-06-13` V1.12.19 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-caldav/signmeeting_caldav-screen_composer-setup-1.12.19.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support of vizualization of meeting scheduled accross several days, or all day long
 	- Note: In this case, SignMeeting is splitting the meeting accross several days as much as there is day to display the meeting from *working day start time* to *working day end time*.
@@ -61,24 +61,24 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- User manual (004A/EN) [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-caldav/signmeeting-caldav-user-manual-004A_en.pdf)
+- User manual (004A/EN) [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-caldav/signmeeting-caldav-user-manual-004A_en.pdf)
 
 #### **CSS FILE FOR TAB STYLE**
-- CSS File V1.10.12 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/theme_css_generic-V1.10.12.css)
+- CSS File V1.10.12 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/theme_css_generic-V1.10.12.css)
 #### **CALDAVZAP**
-- Config SOGO V1.10.10 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-caldav/Caldavzap_config/config_SOGO-V1.10.10.js)
-- Config KERIO V1.10.10 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-caldav/Caldavzap_config/config_KERIO-V1.10.10.js)
+- Config SOGO V1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-caldav/Caldavzap_config/config_SOGO-V1.10.10.js)
+- Config KERIO V1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-caldav/Caldavzap_config/config_KERIO-V1.10.10.js)
 #### **SOGO LDIF TO BE ABLE TO ADD RESOURCE**
 - CalEntry (LDIF file)
-	- calentry-schema-1 V1.10.10 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-caldav/calentry-schema-1-V1.10.10.ldif)
-	- calentry-schema-2 V1.10.10[download](https://github.com/innes-labs/archives/downloads/app-signmeeting-caldav/calentry-schema-2-V1.10.10.ldif)
+	- calentry-schema-1 V1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-caldav/calentry-schema-1-V1.10.10.ldif)
+	- calentry-schema-2 V1.10.10[download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-caldav/calentry-schema-2-V1.10.10.ldif)
 - CalResource (LDIF file)
-	- calresource-schema-1 V1.10.10 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-caldav/calresource-schema-1-V1.10.10.ldif)
-	- calresource-schema-2 V1.10.10 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-caldav/calresource-schema-2-V1.10.10.ldif)
-	- calresource-schema-3 V1.10.10 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-caldav/calresource-schema-3-V1.10.10.ldif)
+	- calresource-schema-1 V1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-caldav/calresource-schema-1-V1.10.10.ldif)
+	- calresource-schema-2 V1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-caldav/calresource-schema-2-V1.10.10.ldif)
+	- calresource-schema-3 V1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-caldav/calresource-schema-3-V1.10.10.ldif)
 #### **SOGO LDIF TO ADD RESOURCE**
 - Add a ressource (LDIF file)
-	- add-resourceroom6-resource V1.10.10 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-caldav/add-resourceroom6-V1.10.10.ldif)
+	- add-resourceroom6-resource V1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-caldav/add-resourceroom6-V1.10.10.ldif)
 #### **UPGRADE VERSION**
 - Version upgrading is only possible since 1.10.51
 - In order to upgrade:
@@ -130,7 +130,7 @@
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2016-04-26` V1.12.18 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-caldav/signmeeting_caldav-screen_composer-setup-1.12.18.appi)
+##`2016-04-26` V1.12.18 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-caldav/signmeeting_caldav-screen_composer-setup-1.12.18.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support of Sogo calendar system (with attachments)
 - Add support conflict detection by managing *busy*/*free* status (Sogo)

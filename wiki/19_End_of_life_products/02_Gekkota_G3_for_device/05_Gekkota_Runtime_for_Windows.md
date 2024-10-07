@@ -6,7 +6,7 @@
     - *Windows 7+* (for Windows 7, Windows 8.X, Windows 10)
 - To avoid any unexpected network trouble with Gekkota RT, it is recommended to inactivate all LAN interfaces of your player MS-Windows (LAN Bluetooth, virtual LAN...) except MS-Windows Ethernet LAN interface. For more information refer to Gekkota application note troubleshooting options.
 
-##`2019-03-15` V3.12.59 [download for Windows 7+](https://github.com/innes-labs/archives/downloads/gekkota-rt/gekkota_rt-nt_ia32-setup-3.12.59.exe) [download for Windows XP](gekkota-rt/gekkota_rt-nt5_ia32-setup-3.12.59.exe)
+##`2019-03-15` V3.12.59 [download for Windows 7+](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-rt/gekkota_rt-nt_ia32-setup-3.12.59.exe) [download for Windows XP](gekkota-rt/gekkota_rt-nt5_ia32-setup-3.12.59.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for the ```.playlog/``` directory in the WebUI
 - Add support for ```Playlog``` feature
@@ -17,7 +17,7 @@
 ***********************************************************************
 
 #### **SUPPORTED MEDIAS DOCUMENTATION**
-- Gekkota supported media and performances [download](https://github.com/innes-labs/archives/downloads/gekkota-supported-medias-and-performances.pdf)
+- Gekkota supported media and performances [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-supported-medias-and-performances.pdf)
 
 #### **RECOMMENDED CONFIGURATION**
 - MS-Windows 10 (or MS-Windows 7),
@@ -29,25 +29,25 @@
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2019-03-08` V3.12.58 [download for Windows 7+](https://github.com/innes-labs/archives/downloads/gekkota-rt/gekkota_rt-nt_ia32-setup-3.12.58.exe) [download for Windows XP](gekkota-rt/gekkota_rt-nt5_ia32-setup-3.12.58.exe)
+##`2019-03-08` V3.12.58 [download for Windows 7+](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-rt/gekkota_rt-nt_ia32-setup-3.12.58.exe) [download for Windows XP](gekkota-rt/gekkota_rt-nt5_ia32-setup-3.12.58.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: a message *content temporarily unavailable* was raised when a video was played over UDP multicast
 - Fix: a video over UDP could not be played in case using a *DME204* encoder-streamer with the audio inactivated
 
-##`2018-10-23` V3.12.57 [download for Windows 7+](https://github.com/innes-labs/archives/downloads/gekkota-rt/gekkota_rt-nt_ia32-setup-3.12.57.exe) [download for Windows XP](gekkota-rt/gekkota_rt-nt5_ia32-setup-3.12.57.exe)
+##`2018-10-23` V3.12.57 [download for Windows 7+](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-rt/gekkota_rt-nt_ia32-setup-3.12.57.exe) [download for Windows XP](gekkota-rt/gekkota_rt-nt5_ia32-setup-3.12.57.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for TLS 1.2 (Transport Layer Security)
 - Fix: attachments could be not properly attached in the email when containing some non-ASCII characters
 - Fix: the hardware acceleration was not detected anymore
 
-##`2018-03-19` V3.12.54 [download for Windows 7+](https://github.com/innes-labs/archives/downloads/gekkota-rt/gekkota_rt-nt_ia32-setup-3.12.54.exe) [download for Windows XP](gekkota-rt/gekkota_rt-nt5_ia32-setup-3.12.54.exe)
+##`2018-03-19` V3.12.54 [download for Windows 7+](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-rt/gekkota_rt-nt_ia32-setup-3.12.54.exe) [download for Windows XP](gekkota-rt/gekkota_rt-nt5_ia32-setup-3.12.54.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: MS-PowerPoint media playback could lead to the display of the message *content temporarily unavailable* since a recent MS-Windows 10 system update
 - Fix: black screen could be displayed infinitely after a publication (especially on MS-Windows 10 system)
 - Fix: the content could be not displayed in full screen after having unplugged then plugged again HDMI cable (MS-Windows 10)
 - Fix: audio could be jerky when playing some HTTP stream (Mpeg-TS container)
 
-##`2017-10-03` V3.12.47 [download for Windows 7+](https://github.com/innes-labs/archives/downloads/gekkota-rt/gekkota_rt-nt_ia32-setup-3.12.47.exe) [download for Windows XP](gekkota-rt/gekkota_rt-nt5_ia32-setup-3.12.47.exe)
+##`2017-10-03` V3.12.47 [download for Windows 7+](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-rt/gekkota_rt-nt_ia32-setup-3.12.47.exe) [download for Windows XP](gekkota-rt/gekkota_rt-nt5_ia32-setup-3.12.47.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add ```Overscan``` in *Output* menu (WebUI)
 - Add support for ```German``` language (WebUI)

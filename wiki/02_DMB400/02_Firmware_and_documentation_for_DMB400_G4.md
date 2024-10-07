@@ -3,7 +3,7 @@
 
 *Never make electric unplug on your player while software upgrade is in progress (green led blinking 6 times every 4 seconds) else the player may not be able to work properly*
 
-##`2023-11-29` V4.14.16 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.14.16.zip)
+##`2023-11-29` V4.14.16 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.14.16.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for the *identifier* and *password* fields self-filling and self-validation for Web page form in some condition
 - Fix: the unsigned CA certificates was not supported
@@ -12,17 +12,17 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- User manual (4.14.16~001C_en) [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/dmb400-user_manual-4.14.16~001C_en.pdf)
+- User manual (4.14.16~001C_en) [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/dmb400-user_manual-4.14.16~001C_en.pdf)
 #### **SUPPORTED MEDIAS DOCUMENTATION**
-- Devices supported medias and performances [download](https://github.com/innes-labs/archives/downloads/devices-supported-medias-and-performances.pdf)
+- Devices supported medias and performances [download](https://github.com/innes-labs/archives/blob/main/downloads/devices-supported-medias-and-performances.pdf)
 #### **QEEDJI POWERPOINT PUBLISHER FOR MEDIA PLAYERS**
-- [Link to Qeedji PowerPoint Publisher for Media Players](https://github.com/innes-labs/archives/downloads/http://www.innes.pro/en/support/index.php?DMB400/Application_notes_and_related_tools/Qeedji_PowerPoint_Publisher_for_media_player) [download (nt_ia64)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.15.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.15.10.msi)
+- [Link to Qeedji PowerPoint Publisher for Media Players](https://github.com/innes-labs/archives/blob/main/downloads/http://www.innes.pro/en/support/index.php?DMB400/Application_notes_and_related_tools/Qeedji_PowerPoint_Publisher_for_media_player) [download (nt_ia64)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.15.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.15.10.msi)
 #### **CONFIGURATION SCRIPT**
 - [Link to configuration script](http://www.innes.pro/en/support/index.php?DMB400/Application_notes_and_related_tools/Configuration_by_script)
 #### **SDK DEVELOPERS**
 - [Link to github SDK-G4 API](https://github.com/Qeedji/gekkota-os/tree/master/SDK-G4/API)
 #### **DEVICE MAINTENANCE WITH POWERSHELL**
-- PSDevice Powershell script V1.10.10 [download](https://github.com/innes-labs/archives/downloads/application-notes/scripts/powershell/Powershell_Innes_Device/delivery/Powershell_Innes_Device-1.10.10.zip)
+- PSDevice Powershell script V1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/scripts/powershell/Powershell_Innes_Device/delivery/Powershell_Innes_Device-1.10.10.zip)
 #### **INFORMATION**
 - Mouse pointer
     - The mouse pointer is only supported when working with a touch screen monitor
@@ -78,12 +78,12 @@
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2023-04-19` V4.14.15 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.14.15.zip)
+##`2023-04-19` V4.14.15 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.14.15.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: the *video* or *Cameo* inserted in the slidemaster template of MS-PowerPoint medias was not played
 - Fix: the video content coming from the HDMI-input was not played back when playing a MS-PowerPoint slide supporting a Cameo object after having hot plugged the HDMI cable connected to the HDMI-input connector
 
-##`2023-01-13` V4.14.14 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.14.14.zip)
+##`2023-01-13` V4.14.14 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.14.14.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: MS-Powerpoint medias playback
 	- the failover font loading from the Microsoft cloud was not working
@@ -106,7 +106,7 @@
 - Fix: after having previewed a calendar timeslot containing an UHD video, the video embedded in the following PowerPoint media could not start
 - Fix: changing an audio parameter value in the *Output* pane of the *Configuration* menu of the Web user interface was leading to an automatical validation of the other parameters without the user consent
 
-##`2022-12-20` V4.14.13 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.14.13.zip)
+##`2022-12-20` V4.14.13 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.14.13.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for HDMI-input playback in MS-PowerPoint slide thanks to the MS-PowerPoint's *Cameo* feature
 - Fix: MS-Powerpoint medias playback
@@ -115,12 +115,12 @@
 - Fix: in some cases, the device could finalize the App content downloading coming from *XPF* server only after a device reboot
 - Fix: after having pushed an App having a playfolder with service account M365, in some cases, the playfolder was not playing immediately the new content of the remote directory
 
-##`2022-09-14` V4.14.12 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.14.12.zip)
+##`2022-09-14` V4.14.12 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.14.12.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: the `_` character was not supported in the *Name* input of the *Logs* pane in the *Maintenance* menu of the device configuration Web interface
 - Fix: in some cases, the audio channel could start several dozens of seconds after the visual channel has started (App mode in *Pull WebDAV - xpf compatibility*)
 
-##`2022-06-24` V4.14.11 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.14.11.zip)
+##`2022-06-24` V4.14.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.14.11.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for Microsoft 365 services accounts
 - Change: after a reboot, the default URL entry for the Web page is now `http://<device_ip_addr>/`
@@ -129,7 +129,7 @@
 - Fix: in some cases, the date shown in the Web user interface was wrong
 - Fix: the *last modified time* status value was not available for files got through FTP
 
-##`2022-04-06` V4.14.10 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.14.10.zip)
+##`2022-04-06` V4.14.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.14.10.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for *1920x1200 60 Hz VESA* display mode
 - Add support for GAP App with a `.gap` extension in the URL field of the *Pull WebDAV* radio of the *App* pane of the *Configuration* menu of the Web user interface
@@ -154,7 +154,7 @@
 - Fix: some Web page could be not displayed anymore
 - Fix: after a App content updating by a USB mass storage insertion in the device, the state value of the launcher HTML tag in the device status was not updated with the right value
 
-##`2021-05-12` V4.13.15 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.13.15.zip)
+##`2021-05-12` V4.13.15 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.13.15.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Change the default value for the `innes.app-profile.manifest-downloader:g3.*.*.*.heartbeat` user preference to 45 seconds instead of 1 minute and change the default value for the `innes.app-profile.manifest-downloader:g3.*.*.*.heartbeat.max-startup-time` user preference to 30000 milliseconds instead of 200 milliseconds
 - Change the default value for the `innes.app-profile.manifest-downloader:g2.*.*.*.heartbeat` user preference to 45 seconds instead of 1 minute and change the default value for the `innes.app-profile.manifest-downloader:g2.*.*.*.heartbeat.max-startup-time` user preference to 30000 milliseconds instead of 200 milliseconds
@@ -163,7 +163,7 @@
 - Fix: in case using remote file inside playfolder, and the origin directory content is empty, the playfolder could play no media after one publication of two until the next playfolder update
 - Fix: when using some App, some image could be not displayed letting appear the background image
 
-##`2020-10-06` V4.13.12 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.13.12.zip)
+##`2020-10-06` V4.13.12 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.13.12.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for content update by USB with the pattern ```manifest.<MAC>.xml```
     - with ```<MAC>``` value matching with the *AA-BB-CC-DD-EE-FF* pattern
@@ -175,7 +175,7 @@
 - Fix: a message *content temporarily unavailable* was displayed when playing a video media with .wmv container containing a `WMA Pro` audio track (media generated from the last versions of MS-PowerPoint)
 - Fix: in *Pull WebDAV (xpf compatibility)* configuration, some unexpected empty content could be noticed when using an opt-out conditioned by a date variable
 
-##`2020-08-06` V4.13.11 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.13.11.zip)
+##`2020-08-06` V4.13.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.13.11.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for these printable characters in the security key value in the `WLAN` pane of the WebUI
 	- ```#$%&'()*+,-./:;<=>?@[]^_{} ~|```
@@ -192,7 +192,7 @@
 - Fix: in some case, a inconsistent reboot manager calendar value could make reboot the device
 - Fix: in some case, the HDMI-input media could be not played when played after a UDP playback
 
-##`2020-04-28` V4.13.10 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.13.10.zip)
+##`2020-04-28` V4.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.13.10.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for `802.1X` security for LAN network with the authentication methods:
     - *EAP MD5*
@@ -258,21 +258,21 @@
 - Fix: the opt-out was not working properly when the variable was containing non ASCII characters (mode Pull WebDAV - xpf compatibility)
 - Fix: was not able to play a media inside a container conditioned by a date variable (mode Pull WebDAV - xpf compatibility)
 
-##`2020-02-10` V4.12.13 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.12.13.zip)
+##`2020-02-10` V4.12.13 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.12.13.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: the audio of some Web radio was not working properly
 
-##`2020-01-29` V4.12.12 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.12.12.zip)
+##`2020-01-29` V4.12.12 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.12.12.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add a weak pull-up to force the GPIO level to logic 1
 - Fix: When using the `GPIO input` in a *two wires* configuration, an unexpected behavior could be noticed
 
-##`2019-11-04` V4.12.11 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.12.11.zip)
+##`2019-11-04` V4.12.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.12.11.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: the keys combinations with the ALT key was not working with *AZERTY* keyboards (for example `@`)
 - Fix: using manifest remote file with ```smb://``` scheme URL could make reboot the device each time the downloader timer expires
 
-##`2019-08-04` V4.12.10 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.12.10.zip)
+##`2019-08-04` V4.12.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.12.10.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for resolution modes
     - `768x2560 60Hz LINSN`
@@ -285,7 +285,7 @@
         - Dissolve, Clock, Flip, Cube, Box, Zoom
     - *Dynamic content* type:
         - Pan, Ferris Wheel, Rotate, Orbit
-    - View the supported transitions in your language [FR](https://github.com/innes-labs/archives/downloads/gekkota-os-sma300/transition_FR.jpg) [EN](gekkota-os-sma300/transition_EN.jpg) [DE](gekkota-os-sma300/transition_DE.jpg) [ES](gekkota-os-sma300/transition_ES.jpg)
+    - View the supported transitions in your language [FR](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-sma300/transition_FR.jpg) [EN](gekkota-os-sma300/transition_EN.jpg) [DE](gekkota-os-sma300/transition_DE.jpg) [ES](gekkota-os-sma300/transition_ES.jpg)
 - Add support for RTSP with authentication
 - Add support for remote bootstrap App
 - Add support for HEVC in Mpeg2-TS video media (*.ts container) used on the DVB-T network in Germany for example
@@ -353,7 +353,7 @@
 - Fix: the keys combinations with the ALT key was not working with *AZERTY* keyboards (for example `@`)
 - Fix: using manifest remote file with ```smb://``` scheme URL could make reboot the device each time the downloader timer expires
 
-##`2018-02-27` V4.11.10 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.11.10.zip)
+##`2018-02-27` V4.11.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.11.10.zip)
 >##### **IMPORTANT**
 - In case you need to use the CEC playout script, you have to set the user preference ```system.connector.*.*.cec.cec_1.enabled``` to the value `true`. Activating the CEC feature may imply some unexpected device reboots when using some monitor requiring a HDMI-DVI or a HDMI-VGA adapter
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -403,7 +403,7 @@
 - Fix: the very light grey or very dark grey could be displayed with the wrong grey color
 - Fix: some skip frames could be noticed on the played video media when a new content was pushed on the WebDAV directory at the same time
 
-##`2018-10-03` V4.10.15 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.10.15.zip)
+##`2018-10-03` V4.10.15 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.10.15.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for DASH MSE (```Media Source Extensions```)
     - The DASH MSE is activated by default (meaning the preference ```media.mediasource.enable``` is set to ```true```)
@@ -429,7 +429,7 @@
 - Fix: UDP stream could not be played in case using the streamer DME204 device whose the WebUI parameter ```Output > Ethernet > Audio ``` was unselected
 - Fix: the device could crash sometimes when starting to play an RTSP stream from the TERADEK Cube 105 encoder/streamer
 
-##`2018-07-31` V4.10.13 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.10.13.zip)
+##`2018-07-31` V4.10.13 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.10.13.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for multi-touch screen devices over USB
 	- These user preferences value must be set to ```true```:
@@ -443,7 +443,7 @@
 - Fix: a unexpected message *content temporarily unavailable* could be displayed when playing some video Mp4 with PCM audio
 - Fix: sometimes immediately after a publication, and when several video medias had to start at the same time, all the video medias could not start and the error message *content temporarily unavailable* was not displayed
 
-##`2018-04-24` V4.10.11 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.10.11.zip)
+##`2018-04-24` V4.10.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.10.11.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for new user preference `network.udp.recv-buffer-size` (in KBytes) to adjust the buffer size used when playing UDP stream
     - default value: `2048` (KBytes)
@@ -488,7 +488,7 @@
 - Fix: a message *content temporarily unavailable* could be displayed when playing video medias on HDMI-input with zone exit transition activated
 - Fix: a device reboot could occur when playing a specific Web page with *transition between media* activated
 
-##`2018-03-02` V4.10.10 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.10.10.zip)
+##`2018-03-02` V4.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.10.10.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Change: the default value for the user preference ```innes.video.decoding-group.enabled``` is now ```true```
 - Change for MS-PowerPoint media rendering

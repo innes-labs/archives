@@ -5,7 +5,7 @@
 - The INNES Briva-ldap server Belledone allows to offer LDAP API. It supports one plugin:
 	- Excel plugin (user&phone directory are stored in XLS file)
 - Each plugin is embedding a configurable JS file permitting to make the mapping between excel/xls file and INNES Briva-ldap server LDAP attributes
-##`2016-05-11` V3.10.12 [download](https://github.com/innes-labs/archives/downloads/briva-g3-ldap/briva_ldap_server_belledonne-nt_ia32-setup-3.10.12.exe)
+##`2016-05-11` V3.10.12 [download](https://github.com/innes-labs/archives/blob/main/downloads/briva-g3-ldap/briva_ldap_server_belledonne-nt_ia32-setup-3.10.12.exe)
 ##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Initial version
 ##### **COMPATIBILITIES**
@@ -16,7 +16,7 @@
 	- CSV plugin (user&phone directory are stored in CSV file)
 	- Excel plugin (user&phone directory are stored in XLS file)
 - Each plugin is embedding a configurable JS file permitting to make the mapping between excel/xls file and INNES Briva-ldap server LDAP attributes
-##`2015-10-29` V3.10.11 [download](https://github.com/innes-labs/archives/downloads/briva-g3-ldap/briva_ldap_server_tiltechnologies-nt_ia32-setup-3.10.11.exe)
+##`2015-10-29` V3.10.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/briva-g3-ldap/briva_ldap_server_tiltechnologies-nt_ia32-setup-3.10.11.exe)
 ##### **IMPORTANT**
 - In case a previous version 1.10.10 is installed, stop the service *innes_briva_server* before installing the new version 3.10.11
 ##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -28,7 +28,7 @@
 #INFORMATION
 ***********************************************************************
 #### **USER GUIDE**
-- User guide (003A/EN) [download](https://github.com/innes-labs/archives/downloads/briva-g3-ldap/briva_ldap_server-manual-003A_en.pdf)
+- User guide (003A/EN) [download](https://github.com/innes-labs/archives/blob/main/downloads/briva-g3-ldap/briva_ldap_server-manual-003A_en.pdf)
 #### **SERVER MACHINE PREREQUISITE**
 - Production date:
 	- 2017 (or more recent)

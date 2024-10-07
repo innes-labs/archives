@@ -3,7 +3,7 @@
 
 *Never make electric unplug on your player while software upgrade is in progress (green led enlightened for few minutes) else the player may not be able to work properly*
 
-##`2018-10-13` V3.12.57 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-sma200/gekkota_os-sma200-setup-3.12.57.zip)
+##`2018-10-13` V3.12.57 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-sma200/gekkota_os-sma200-setup-3.12.57.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for TLS 1.2 (Transport Layer Security)
 - Fix: attachments could be not properly attached in the email when containing some non-ASCII characters
@@ -20,20 +20,20 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- Installation Guide (012A/FR) [download](https://github.com/innes-labs/archives/downloads/gekkota-os-sma200/SMA200-guide-installation-012A_fr.pdf)
+- Installation Guide (012A/FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-sma200/SMA200-guide-installation-012A_fr.pdf)
 #### **SUPPORTED MEDIAS**
-- Gekkota supported medias and performances [download](https://github.com/innes-labs/archives/downloads/gekkota-supported-medias-and-performances.pdf)
+- Gekkota supported medias and performances [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-supported-medias-and-performances.pdf)
 
 #OLD VERSIONS HISTORY
 ***********************************************************************
 
-##`2018-01-12` V3.12.51 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-sma200/gekkota_os-sma200-setup-3.12.51.zip)
+##`2018-01-12` V3.12.51 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-sma200/gekkota_os-sma200-setup-3.12.51.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: sometimes content could be completely frozen after having played a same video media several times (rare)
 - Fix: network interface was not working anymore when a smart card reader model OMNIKEY 5427CK was plugged on the USB connector
 - Fix: GIF medias could freeze for a while when loading some specific PDF media at the same time
 
-##`2017-11-10` V3.12.49 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-sma200/gekkota_os-sma200-setup-3.12.49.zip)
+##`2017-11-10` V3.12.49 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-sma200/gekkota_os-sma200-setup-3.12.49.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for *NTLM V2* authentication
 - Add support for ```German``` language (WebUI)
@@ -62,7 +62,7 @@
 - Fix: SMTP without authentication did not work
 - Fix: email attachment was not supported
 
-##`2017-07-18` V3.12.44 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-sma200/gekkota_os-sma200-setup-3.12.44.zip)
+##`2017-07-18` V3.12.44 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-sma200/gekkota_os-sma200-setup-3.12.44.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: device reboot when sending an email containing a body image (image type CIS)
 - Fix: a device reboot could occur when publishing with Screen Composer or PlugnCast G2 (rare)
@@ -70,7 +70,7 @@
 - Fix: the canal could stop to be played after a while with scenes generated with old version of PlugnCast Studio (ex: V2.11.13)
 - Fix: (rare) audio track could be not rendered anymore after a while when playing audio playlist inside an audio channel (seen with PlugnCast G2 configuration)
 
-##`2017-03-29` V3.12.40 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-sma200/gekkota_os-sma200-setup-3.12.40.zip)
+##`2017-03-29` V3.12.40 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-sma200/gekkota_os-sma200-setup-3.12.40.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: restore value *Gekkota-3* for HTML tag *middleware* in Gekkota 3 device status.xml
 - Fix: content of remote directory was not properly updated (PlugnCast G3 configuration) in case renaming, adding or removing file (or directories)
@@ -165,11 +165,11 @@
 	- a player reboot having ethernet cable unplugged (PlugnCast G2 configuration)
 - Fix directory opening issue when the directory name is containig special characters (WebUI)
 
-##`2016-02-26` V3.12.28 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-sma200/gekkota_os-sma200-setup-3.12.28.zip)
+##`2016-02-26` V3.12.28 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-sma200/gekkota_os-sma200-setup-3.12.28.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: unexpected error message *content temporarily unavailable* when playing a same PDF media several times
 
-##`2016-02-03` V3.12.26 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-sma200/gekkota_os-sma200-setup-3.12.26.zip)
+##`2016-02-03` V3.12.26 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-sma200/gekkota_os-sma200-setup-3.12.26.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add display mode
 	- "1280x720 60Hz CEA-861"

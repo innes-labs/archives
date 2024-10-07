@@ -9,7 +9,7 @@
 
 *Never make electric unplug on your player while software upgrade is in progress (green led blinking 6 times every 4 seconds) else the player may not be able to work properly*
 
-##`2023-11-29` V5.12.11 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-5.12.11.zip)
+##`2023-11-29` V5.12.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-5.12.11.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for the *Identifier/password for a Web page form* authentication for the *Simple Web server* mode in the *URL launcher* App form of the *App* pane in the *Configuration* menu of the device configuration Web user interface
 - Add support for the *identifier* and *password* fields self-filling and self-validation for Web page form in some condition
@@ -35,13 +35,13 @@
 ***********************************************************************
 
 #### **SUPPORTED MEDIAS**
-- Devices supported medias and performances [download](https://github.com/innes-labs/archives/downloads/devices-supported-medias-and-performances.pdf)
+- Devices supported medias and performances [download](https://github.com/innes-labs/archives/blob/main/downloads/devices-supported-medias-and-performances.pdf)
 #### **QEEDJI POWERPOINT PUBLISHER FOR MEDIA PLAYERS**
-- [Link to Qeedji PowerPoint Publisher for Media Players](https://github.com/innes-labs/archives/downloads/http://www.innes.pro/en/support/index.php?DMB300/Application_notes_and_related_tools/Qeedji_PowerPoint_Publisher_for_media_player) [download (nt_ia64)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.15.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.15.10.msi)
+- [Link to Qeedji PowerPoint Publisher for Media Players](https://github.com/innes-labs/archives/blob/main/downloads/http://www.innes.pro/en/support/index.php?DMB300/Application_notes_and_related_tools/Qeedji_PowerPoint_Publisher_for_media_player) [download (nt_ia64)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.15.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.15.10.msi)
 #### **CONFIGURATION SCRIPT**
 - [Link to configuration script](http://www.innes.pro/en/support/index.php?DMB300/Application_notes_and_related_tools/Configuration_by_script)
 #### **POWERSHELL SCRIPTS FOR AZURE ACTIVE DIRECTORY APPLICATION SUPPORT**
-- PowerShell script for Azure Active Directory Application support 1.10.17 [download](https://github.com/innes-labs/archives/downloads/scripts/powershell/Powershell_Innes_AAD-1.10.17.zip)
+- PowerShell script for Azure Active Directory Application support 1.10.17 [download](https://github.com/innes-labs/archives/blob/main/downloads/scripts/powershell/Powershell_Innes_AAD-1.10.17.zip)
 #### **KNOWN LIMITATIONS**
 - Note for MS-PowerPoint bullets
     - Ensure that the appropriate fonts are properly embedded in the content
@@ -67,7 +67,7 @@
 #OLD VERSIONS HISTORY
 ***********************************************************************
 
-##`2023-09-05` V5.12.10 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-5.12.10.zip)
+##`2023-09-05` V5.12.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-5.12.10.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for swap disk feature
 	- Add support for *Enable Virtual memory on this partition* checkbox in the *Tools* pane of the *Maintenance* tab of the device Web user interface allowing to activate swap disk feature
@@ -76,7 +76,7 @@
 - Fix: in some case, the URL launcher App could return an error message *Content temporarily unavailable (code 4)* when playing some images located in Web site sub directories
 - Fix: the unsigned CA certificates was not supported
 
-##`2023-04-19` V5.11.10 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-5.11.10.zip)
+##`2023-04-19` V5.11.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-5.11.10.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for *URL launcher* App form of the *App* pane in the *Configuration* menu of the device configuration Web user interface
     - *Simple Web server*
@@ -97,7 +97,7 @@
 - Fix: it was possible to create a standby task with no recurring day
 - Fix: in some cases, when navigating with the Web user interface, the user could fall on the `http://<ip_address>/.playout/` page instead of falling on the applicative `http://<ip_address>/.admin/#/` Web page
 
-##`2023-02-01` V5.10.11 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-5.10.11.zip)
+##`2023-02-01` V5.10.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-5.10.11.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Change: the default value for the *innes.image.max_size* preference is now 4096 px
 - Fix: the UDP stream playback could stop after a couple of seconds with some specific streamer configuration

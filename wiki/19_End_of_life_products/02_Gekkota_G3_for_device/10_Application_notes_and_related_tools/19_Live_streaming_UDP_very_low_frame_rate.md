@@ -12,7 +12,7 @@
 #### **DOCUMENTATION**
 | Description                                                                      | Version |                 |
 | :------------------------------------------------------------------------------- | :-------| :-------------- |
-| Configuration of decoder to support live streaming UDP for AV stream whose frame rate is very low  | 001A    | [Download](https://github.com/innes-labs/archives/downloads/application-notes/Live-streaming-UDP-of-AV-stream-with-very-low-frame-rate_001A_en.pdf) |
+| Configuration of decoder to support live streaming UDP for AV stream whose frame rate is very low  | 001A    | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/Live-streaming-UDP-of-AV-stream-with-very-low-frame-rate_001A_en.pdf) |
 
 
 

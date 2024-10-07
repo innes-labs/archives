@@ -1,7 +1,7 @@
 # ZIMBRA CALENDAR
 *RELEASE NOTE*
 
-##`2015-11-20` V1.10.13 [download](https://github.com/innes-labs/archives/downloads/applets/connector-zimbra-V1.10.13/delivery/zimbra-calendar-V1.10.13.saz)
+##`2015-11-20` V1.10.13 [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/connector-zimbra-V1.10.13/delivery/zimbra-calendar-V1.10.13.saz)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add: debug option by URL option *&debug=YES*
 - Add: get the "Organizer display name"
@@ -24,7 +24,7 @@
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-- Installation guide (005A/FR) [download](https://github.com/innes-labs/archives/downloads/applets/connector-zimbra-V1.10.13/delivery/zimbra-calendar-user-manual-005A_en.pdf)
+- Installation guide (005A/FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/connector-zimbra-V1.10.13/delivery/zimbra-calendar-user-manual-005A_en.pdf)
 #### **MODELS PACKAGE**
 - Install Model package 3.23 to get the last version of Meeting Room
 ##### **NOTE FOR RECURRING MEETINGS**
@@ -41,7 +41,7 @@
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2015-05-19` V1.10.12 [download](https://github.com/innes-labs/archives/downloads/applets/bs-wa-zimbra-V1.10.12/zimbra-calendar-V1.10.12.saz)
+##`2015-05-19` V1.10.12 [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/bs-wa-zimbra-V1.10.12/zimbra-calendar-V1.10.12.saz)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support recurring meetings
 - Add security to not have UID doubloons
@@ -49,6 +49,6 @@
 - Change: set DTSTAMP to *start date* instead of default *current time* to avoid download data too often (monitor also DTSTAMP to set it to the modified date when possible)
 - Change: remove the location from the attendees
 
-##`2014-12-31` V1.10.10 [download](https://github.com/innes-labs/archives/downloads/applets/bs-wa-zimbra-V1.10.10/zimbra-calendar-V1.10.10.saz)
+##`2014-12-31` V1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/bs-wa-zimbra-V1.10.10/zimbra-calendar-V1.10.10.saz)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Initial release

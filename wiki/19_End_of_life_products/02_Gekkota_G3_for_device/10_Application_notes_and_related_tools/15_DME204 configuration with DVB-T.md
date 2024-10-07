@@ -9,7 +9,7 @@
 ***********************************************************************
 | Description                                                                      | Version |                 |
 | :------------------------------------------------------------------------------- | :-------| :-------------- |
-| DME204 configuration with DVB-T (EN)                                       | 001A    | [Download](https://github.com/innes-labs/archives/downloads/application-notes/DME204-configuration-in-DVB-T-mode-Application-note-001A_en.pdf)
+| DME204 configuration with DVB-T (EN)                                       | 001A    | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/DME204-configuration-in-DVB-T-mode-Application-note-001A_en.pdf)
 
 
 

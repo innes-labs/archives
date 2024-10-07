@@ -53,4 +53,4 @@ MyIframeWindow.postMessage(goToPageMessage, "*");
 ## Entire example
 Here is a entire HTML example to interact with a PDF file:
 
-- PDF interaction example.html [download](https://github.com/innes-labs/archives/downloads/application-notes/PDF%20interaction%20example.html)
+- PDF interaction example.html [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/PDF%20interaction%20example.html)

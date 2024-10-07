@@ -10,7 +10,7 @@
 #### **DOCUMENTATION**
 | Description                                                                      | Version |                 |
 | :------------------------------------------------------------------------------- | :-------| :-------------- |
-| Brigthness sensor user guide (FR)                                                | 001A    | [Download](https://github.com/innes-labs/archives/downloads/application-notes/Guide-d'utilisation-du-capteur-de-luminosité-en-G3-001A_fr.pdf) |
+| Brigthness sensor user guide (FR)                                                | 001A    | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/Guide-d'utilisation-du-capteur-de-luminosité-en-G3-001A_fr.pdf) |
 
 
 

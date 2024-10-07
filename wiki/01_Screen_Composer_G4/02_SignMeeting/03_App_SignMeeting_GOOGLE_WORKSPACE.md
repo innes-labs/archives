@@ -1,7 +1,7 @@
 # SignMeeting Google Workspace
 *RELEASE NOTE*
 
-##`2023-04-19` V2.12.11 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-google-workspace/signmeeting_google_workspace-screen_composer-addin-2.12.11.appi)
+##`2023-04-19` V2.12.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-google-workspace/signmeeting_google_workspace-screen_composer-addin-2.12.11.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for *Gekkota 5*
 - Add support for PDF media or MS-PowerPoint media as screen saver
@@ -60,20 +60,20 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- SignMeeting Google Workspace User manual 2.12.11~001A_en [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-google-workspace/screen-composer-signmeeting-google-workspace-usermanual-2.12.11~001A_en.pdf)
+- SignMeeting Google Workspace User manual 2.12.11~001A_en [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-google-workspace/screen-composer-signmeeting-google-workspace-usermanual-2.12.11~001A_en.pdf)
 #### **CSS FILE FOR THE DIFFERENT DISPLAY PROFILES**
-- CSS File for *Room Screen* display profile - Default dark theme [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_dark-001C.css)
-- CSS File for *Room Screen* display profile - Default light theme [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_light-001C.css)
-- CSS File for *Summary screen by event* display profile - Default theme [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/summary_screen_by_event/signmeeting_theme_summary_screen_by_event-001B.css)
-- CSS File for *Summary screen by resource* display profile - Default theme [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/summary_screen_by_resource/signmeeting_theme_summary_screen_by_resource-001B.css)
-- CSS File for *Room label* display profile - Default theme [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_label/signmeeting_theme_room_label-001B.css)
+- CSS File for *Room Screen* display profile - Default dark theme [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_dark-001C.css)
+- CSS File for *Room Screen* display profile - Default light theme [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_light-001C.css)
+- CSS File for *Summary screen by event* display profile - Default theme [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/summary_screen_by_event/signmeeting_theme_summary_screen_by_event-001B.css)
+- CSS File for *Summary screen by resource* display profile - Default theme [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/summary_screen_by_resource/signmeeting_theme_summary_screen_by_resource-001B.css)
+- CSS File for *Room label* display profile - Default theme [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_label/signmeeting_theme_room_label-001B.css)
 #### **CUSTOM SCRIPTS EXAMPLE FOR EXTERNAL DEVICES AVAILABLE BY ETHERNET**
-- meetingControlDistech 001A [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDistech_001A.js)
-- meetingControlDistechWithAuth 001A [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDistechWithAuth_001A.js)
+- meetingControlDistech 001A [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDistech_001A.js)
+- meetingControlDistechWithAuth 001A [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDistechWithAuth_001A.js)
 #### **CUSTOM SCRIPTS EXAMPLE FOR EXTERNAL DEVICES AVAILABLE BY GPIO**
-- meetingControlSM 001A [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlSM_001A.js)
+- meetingControlSM 001A [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlSM_001A.js)
 #### **CUSTOM SCRIPTS EXAMPLE FOR EXTERNAL DEVICES AVAILABLE BY BLUETOOTH**
-- meetingControlEnOceanMotionSensor 001A [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlEnOceanMotionSensor_001A.js)
+- meetingControlEnOceanMotionSensor 001A [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlEnOceanMotionSensor_001A.js)
 #### **NOTE WHEN USING PRIVATE NAVIGATION**
 - Open a Web browser in the private navigation mode may prevent the people to creating the meeting to access to room calendar
 #### **NOTE WHEN DISPLAYING ATTACHMENT**
@@ -88,14 +88,14 @@ In some rare case, after a reboot or after a screen composer publication, the ev
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2022-08-22` V2.11.12 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-google-workspace/signmeeting_google_workspace-screen_composer-addin-2.11.12.appi)
+##`2022-08-22` V2.11.12 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-google-workspace/signmeeting_google_workspace-screen_composer-addin-2.11.12.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for `AQS` for AMP300 media players
 - Fix: the event, taking place across several days, was not displayed the day before the last day when the end time was lower than the start time
 - Fix: the event, taking place across several days, was not displayed if the event start date was more than one month ago
 - Fix: the event was not displayed some specific days for the event taking place across several months
 
-##`2022-05-18` V2.11.11 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-google-workspace/signmeeting_google_workspace-screen_composer-addin-2.11.11.appi)
+##`2022-05-18` V2.11.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-google-workspace/signmeeting_google_workspace-screen_composer-addin-2.11.11.appi)
 >##### **IMPORTANT**
 - One SignMeeting license key is required per device
 - Migration from SignMeeting 1.13.11 to SignMeeting 2.11.zz is not yet supported
@@ -124,7 +124,7 @@ In some rare case, after a reboot or after a screen composer publication, the ev
 - Fix: a same meeting spread in two rooms resource located in two different buildings could not be displayed for each room calendar
 - Fix: in some case, after a publication or after a device reboot, some of the events could be not displayed until the next automatic refresh
 
-##`2022-02-04` V2.11.10 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-google-workspace/signmeeting_google_workspace-screen_composer-addin-2.11.10.appi)
+##`2022-02-04` V2.11.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-google-workspace/signmeeting_google_workspace-screen_composer-addin-2.11.10.appi)
 >##### **IMPORTANT**
 - One SignMeeting license key is required per device
 - Migration from SignMeeting 1.13.11 to SignMeeting 2.11.zz is not yet supported

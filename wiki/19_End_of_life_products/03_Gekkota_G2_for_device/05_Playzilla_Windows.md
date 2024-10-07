@@ -1,7 +1,7 @@
 # Playzilla Windows
 *RELEASE NOTE*
 
-##`2014-08-20` V2.50.90 [download](https://github.com/innes-labs/archives/downloads/playzilla-g2-win32/playzilla-box%20win32-setup-2.50.90.exe)
+##`2014-08-20` V2.50.90 [download](https://github.com/innes-labs/archives/blob/main/downloads/playzilla-g2-win32/playzilla-box%20win32-setup-2.50.90.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Installer accepts firmware whose platform_label is 'nt5_ia32', so upgrade to G3 version is possible for windows XP
 - Add support to model MAFF 'Texte défilant horizontal'
@@ -18,8 +18,8 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- Stick USB loading (FR) [download](https://github.com/innes-labs/archives/downloads/playzilla-g2-win32/Playzilla-chargement-par-clé-usb-003A_fr.pdf)
-- Multiple screen (FR) [download](https://github.com/innes-labs/archives/downloads/playzilla-g2-win32/playzilla-windows-prise-en-charge-des-écrans-multiples.pdf)
+- Stick USB loading (FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/playzilla-g2-win32/Playzilla-chargement-par-clé-usb-003A_fr.pdf)
+- Multiple screen (FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/playzilla-g2-win32/playzilla-windows-prise-en-charge-des-écrans-multiples.pdf)
 #### **NOTE FOR NEC DISPLAY: STANDBY WITH EMBEDDED OPS MODULE**
 - When Playzilla enters in standby mode, the module powers OFF the display, so impossible to automatically standby off. To workaround this expected behaviour, go to OSD menu and set to ON the variable ```option power``` (OSD/ADVANCED/OPTION SETTINGS/OPTION POWER)
 #### **IMPORTANT NOTE FOR SAMSUNG MODELS**

@@ -1,7 +1,7 @@
 # INNES Screen Composer G4
 *RELEASE NOTE*
 
-##`2023-11-29` V4.12.10 [download nt-ia32](https://github.com/innes-labs/archives/downloads/screen-composer-g4/screen_composer-nt_ia32-setup-4.12.10.exe)
+##`2023-11-29` V4.12.10 [download nt-ia32](https://github.com/innes-labs/archives/blob/main/downloads/screen-composer-g4/screen_composer-nt_ia32-setup-4.12.10.exe)
 >##### **IMPORTANT**
 A core license key is required to use `Screen Composer G4`.
 Projects migration from `Screen Composer G3` projects to `Screen Composer G4` projects is not yet supported.
@@ -110,7 +110,7 @@ The supported languages are:
 #OLD VERSIONS HISTORY
 ***********************************************************************
 
-##`2023-06-13` V4.11.14 [download nt-ia32](https://github.com/innes-labs/archives/downloads/screen-composer-g4/screen_composer-nt_ia32-setup-4.11.14.exe)
+##`2023-06-13` V4.11.14 [download nt-ia32](https://github.com/innes-labs/archives/blob/main/downloads/screen-composer-g4/screen_composer-nt_ia32-setup-4.11.14.exe)
 >##### **IMPORTANT**
 A core license key is required to use `Screen Composer G4`.
 Projects migration from `Screen Composer G3` projects to `Screen Composer G4` projects is not yet supported.
@@ -125,7 +125,7 @@ Projects migration from `Screen Composer G3` projects to `Screen Composer G4` pr
 - Fix: the publication retrying in case publication failure was not working
 - Fix: in some case, the *App loading* popup was displayed infinitely preventing Screen Composer to the finalize the project opening
 
-##`2023-04-04` V4.11.13 [download nt-ia32](https://github.com/innes-labs/archives/downloads/screen-composer-g4/screen_composer-nt_ia32-setup-4.11.13.exe)
+##`2023-04-04` V4.11.13 [download nt-ia32](https://github.com/innes-labs/archives/blob/main/downloads/screen-composer-g4/screen_composer-nt_ia32-setup-4.11.13.exe)
 >##### **IMPORTANT**
 A core license key is required to use `Screen Composer G4`.
 Projects migration from `Screen Composer G3` projects to `Screen Composer G4` projects is not yet supported.
@@ -133,7 +133,7 @@ Projects migration from `Screen Composer G3` projects to `Screen Composer G4` pr
 - Add support for *services account* values drag'n drop from the *Services accounts* tab to the App form
 - Change: modify the label into the *Services account* pane from *Files/Folders, Directory, Contact, Calendar, Email, Web site* to *Files/Folders, Identity, Contact, Calendar, Email, Web site*
 
-##`2023-03-14` V4.11.12 [download nt-ia32](https://github.com/innes-labs/archives/downloads/screen-composer-g4/screen_composer-nt_ia32-setup-4.11.12.exe)
+##`2023-03-14` V4.11.12 [download nt-ia32](https://github.com/innes-labs/archives/blob/main/downloads/screen-composer-g4/screen_composer-nt_ia32-setup-4.11.12.exe)
 >##### **IMPORTANT**
 A core license key is required to use `Screen Composer G4`.
 Projects migration from `Screen Composer G3` projects to `Screen Composer G4` projects is not yet supported.
@@ -143,7 +143,7 @@ Projects migration from `Screen Composer G3` projects to `Screen Composer G4` pr
 	- *SignWay*
 - Fix: the video inserted in the slidemaster template of MS-PowerPoint medias was not played
 
-##`2023-01-11` V4.11.11 [download nt-ia32](https://github.com/innes-labs/archives/downloads/screen-composer-g4/screen_composer-nt_ia32-setup-4.11.11.exe)
+##`2023-01-11` V4.11.11 [download nt-ia32](https://github.com/innes-labs/archives/blob/main/downloads/screen-composer-g4/screen_composer-nt_ia32-setup-4.11.11.exe)
 >##### **IMPORTANT**
 A core license key is required to use `Screen Composer G4`.
 Projects migration from `Screen Composer G3` projects to `Screen Composer G4` projects is not yet supported.
@@ -191,7 +191,7 @@ Projects migration from `Screen Composer G3` projects to `Screen Composer G4` pr
 - Fix: the *custom* variable and *deviceInfo* variable could not work on Qeedji System AOSP device when inserted in playfolder with *Microsoft 365* or *CIFS* services accounts
 - Fix: it was possible to create a standby task with no selected day making that the other consistent standby tasks could not work
 
-##`2022-06-24` V4.11.10 [download nt-ia32](https://github.com/innes-labs/archives/downloads/screen-composer-g4/screen_composer-nt_ia32-setup-4.11.10.exe)
+##`2022-06-24` V4.11.10 [download nt-ia32](https://github.com/innes-labs/archives/blob/main/downloads/screen-composer-g4/screen_composer-nt_ia32-setup-4.11.10.exe)
 >##### **IMPORTANT**
 A core license key is required to use `Screen Composer G4`.
 Projects migration from `Screen Composer G3` projects to `Screen Composer G4` projects is not yet supported.
@@ -220,7 +220,7 @@ Projects migration from `Screen Composer G3` projects to `Screen Composer G4` pr
 - Fix: after an import of xlsx file, containing a devices configuration, some devices could appear in doubloon in case the device MAC address value in upper case was set in the xlsx file
 - Fix: in some case, the middleware upgrade could fail on AOSP device
 
-##`2022-03-18` V4.10.12 [download nt-ia32](https://github.com/innes-labs/archives/downloads/screen-composer-g4/screen_composer-nt_ia32-setup-4.10.12.exe)
+##`2022-03-18` V4.10.12 [download nt-ia32](https://github.com/innes-labs/archives/blob/main/downloads/screen-composer-g4/screen_composer-nt_ia32-setup-4.10.12.exe)
 >##### **IMPORTANT**
 A core license key is required to use `Screen Composer G4`.
 Projects migration from `Screen Composer G3` projects to `Screen Composer G4` projects is not yet supported.
@@ -276,7 +276,7 @@ Projects migration from `Screen Composer G3` projects to `Screen Composer G4` pr
 - Fix: add support for .svg drag'n drop in content model forms
 - Fix: the App content generated on an USB storage device after a publication order done on a directory was not compatible with Gekkota 3 devices
 
-##`2021-12-09` V4.10.11 [download nt-ia32](https://github.com/innes-labs/archives/downloads/screen-composer-g4/screen_composer-nt_ia32-setup-4.10.11.exe)
+##`2021-12-09` V4.10.11 [download nt-ia32](https://github.com/innes-labs/archives/blob/main/downloads/screen-composer-g4/screen_composer-nt_ia32-setup-4.10.11.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: the *license e-mail* value was not supporting identifier having letters in uppercase, numbers or special characters
 >##### **KNOWN LIMITATIONS**
@@ -289,7 +289,7 @@ Projects migration from `Screen Composer G3` projects to `Screen Composer G4` pr
 - Not supported:
     - preview of these video/audio containers: .asf, .wmv, .vob, .mpg, .mpeg, .m2v, .avi, .ts, .wma
 
-##`2021-11-30` V4.10.10 [download nt-ia32](https://github.com/innes-labs/archives/downloads/screen-composer-g4/screen_composer-nt_ia32-setup-4.10.10.exe)
+##`2021-11-30` V4.10.10 [download nt-ia32](https://github.com/innes-labs/archives/blob/main/downloads/screen-composer-g4/screen_composer-nt_ia32-setup-4.10.10.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for `SignCom` App
 - Add support for button to install URI models pack (.zip) and content models pack (.zip) for Screen Composer G4

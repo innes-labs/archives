@@ -40,9 +40,9 @@ Voici pour revue le markdown Tested peripherals
         - ```http://<IP_adress>```:5004/auto/v```<channel number>```
     - In case the signal is too low, a message *video can't be played because the file is corrupted* is displayed. After the signal comes back, the video is not displayed again. You need to publish again or play again the url
 - About the `TERADEK CUBE-105 Encoder/streamer`
-    - TERADEK CUBE-105 Encoder/streamer user guide 001A/EN [Download](https://github.com/innes-labs/archives/downloads/third-part-tools/Teradec-Cube105-configuration_001A_en.pdf)
+    - TERADEK CUBE-105 Encoder/streamer user guide 001A/EN [Download](https://github.com/innes-labs/archives/blob/main/downloads/third-part-tools/Teradec-Cube105-configuration_001A_en.pdf)
 - About the `TERACUE ENC-300-DVI-PORTABLE`
-    - TERACUE Encoder/streamer user guide 001A/EN [Download](https://github.com/innes-labs/archives/downloads/third-part-tools/teracue_encoder_configuration-001A_en.pdf)
+    - TERACUE Encoder/streamer user guide 001A/EN [Download](https://github.com/innes-labs/archives/blob/main/downloads/third-part-tools/teracue_encoder_configuration-001A_en.pdf)
 - About the `DAHUA IPC-HFW2300R-Z`, launch the RTSP URL containing the login/password for the RTSP authentication
     - ```rtsp://<user>:<password>@<nvr4208_ip_addr>:554/cam/realmonitor?channel=<m>&subtype=<n>```
         - with ```<m>```: for ethernet input <m> of the 8 possible video channels
@@ -52,11 +52,11 @@ Voici pour revue le markdown Tested peripherals
 - About the `Pi 4 Model B  & DVB TV µHAT`
     - Waiting that TVheadend is supporting officially the DVB-T to UDP gateway feature, Innes is proposing a temporary software solution [TVheadend_4.3-InnesPatched1](https://www.innes.pro/en/support/index.php?Third_part_documentation_and_tools/TVHeadend_4.3-Innespatched1) which is supporting it.
 - About the `Mediastar 783 DVB-T/T2 LAN-Caster`
-    - Mediastar 783 DVB-T/T2 LAN-Caster 001A/EN [Download](https://github.com/innes-labs/archives/downloads/third-part-tools/783-DVB-T-T2-LAN-Caster-configuration.pdf)
+    - Mediastar 783 DVB-T/T2 LAN-Caster 001A/EN [Download](https://github.com/innes-labs/archives/blob/main/downloads/third-part-tools/783-DVB-T-T2-LAN-Caster-configuration.pdf)
 - About the `TP-LINK TL-EAP225`
-    - TP-LINK TL-EAP225 WPA-Enterprise configuration 001A/EN) [Download](https://github.com/innes-labs/archives/downloads/third-part-tools/tl_eap225-802_1X-configuration-001A_en.pdf)
+    - TP-LINK TL-EAP225 WPA-Enterprise configuration 001A/EN) [Download](https://github.com/innes-labs/archives/blob/main/downloads/third-part-tools/tl_eap225-802_1X-configuration-001A_en.pdf)
 - About the `TP-LINK TL-T1500G`
-    - TP-LINK TL-T1500G 802.1X configuration 001A/EN [Download](https://github.com/innes-labs/archives/downloads/third-part-tools/tl_t1500g-802_1X-configuration-001A_en.pdf)
+    - TP-LINK TL-T1500G 802.1X configuration 001A/EN [Download](https://github.com/innes-labs/archives/blob/main/downloads/third-part-tools/tl_t1500g-802_1X-configuration-001A_en.pdf)
 - About the `USB to WPAN adapter`
     - set the appropriate value for the `innes.adapters.serial.uart_1.syspath` user preference in the Qeedji Gekkota OS device:
 | Qeedji device | default value | value to support USB to WPAN peripheral

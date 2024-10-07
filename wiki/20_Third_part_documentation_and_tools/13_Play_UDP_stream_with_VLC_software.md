@@ -10,7 +10,7 @@
 #### **DOCUMENTATION**
 | Description                                                                      | Version |                 |
 | :------------------------------------------------------------------------------- | :-------| :-------------- |
-| Play UDP stream with VLC software - user guide (EN)                              | 001A    | [Download](https://github.com/innes-labs/archives/downloads/application-notes/tools/play-UDP_stream-with-VLC_software-001A_en.pdf) |
+| Play UDP stream with VLC software - user guide (EN)                              | 001A    | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/tools/play-UDP_stream-with-VLC_software-001A_en.pdf) |
 
 
 

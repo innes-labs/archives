@@ -11,7 +11,7 @@ The **NAPOE109ft** is a Ethernet PoE RJ45F to POGO adapter able to hang the TAB1
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-User manual 1.10.12~005B/EN [download](https://github.com/innes-labs/archives/downloads/napoe/napoe109ft/V1.10.12/napoe109ft-user_manual-1.10.12~005B_en.pdf)
+User manual 1.10.12~005B/EN [download](https://github.com/innes-labs/archives/blob/main/downloads/napoe/napoe109ft/V1.10.12/napoe109ft-user_manual-1.10.12~005B_en.pdf)
 
 #OLD VERSIONS HISTORY
 ***********************************************************************

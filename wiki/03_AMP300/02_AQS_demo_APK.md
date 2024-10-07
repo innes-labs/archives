@@ -4,11 +4,11 @@
 *Never make electric unplug on your device while APK installation is in progress*
 
 ##`2024-01-12` Demo APK for AMP300 device
-- `device_power_standby` 1.10.11 [download](https://github.com/innes-labs/archives/downloads/amp300/APK/device_power_standby-qeedjisystem_aosp-setup-1.10.11.apk)
-- `system_button` 1.11.10 [download](https://github.com/innes-labs/archives/downloads/amp300/APK/system_button-qeedjisystem_aosp-setup-1.11.10.apk)
-- `power_manager_calendar` 1.10.10 [download](https://github.com/innes-labs/archives/downloads/amp300/APK/power_manager_calendar-qeedjisystem_aosp-setup-1.10.10.apk)
-- `webui_extension` 1.10.10 [download](https://github.com/innes-labs/archives/downloads/amp300/APK/webui_extension-qeedjisystem_aosp-setup-1.10.10.apk)
-- `url_webview` 1.10.10 [download](https://github.com/innes-labs/archives/downloads/amp300/APK/url_webview-qeedjisystem_aosp-setup-1.10.10.apk)
+- `device_power_standby` 1.10.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/APK/device_power_standby-qeedjisystem_aosp-setup-1.10.11.apk)
+- `system_button` 1.11.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/APK/system_button-qeedjisystem_aosp-setup-1.11.10.apk)
+- `power_manager_calendar` 1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/APK/power_manager_calendar-qeedjisystem_aosp-setup-1.10.10.apk)
+- `webui_extension` 1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/APK/webui_extension-qeedjisystem_aosp-setup-1.10.10.apk)
+- `url_webview` 1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/APK/url_webview-qeedjisystem_aosp-setup-1.10.10.apk)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - `power_manager_calendar`
@@ -35,20 +35,20 @@
 *********************************************************************************************************
 
 ##`2023-01-25` Demo APK for AMP300 device
-- `device_power_standby` 1.10.11 [download](https://github.com/innes-labs/archives/downloads/amp300/APK/device_power_standby-qeedjisystem_aosp-setup-1.10.11.apk)
-- `system_button` 1.11.10 [download](https://github.com/innes-labs/archives/downloads/amp300/APK/system_button-qeedjisystem_aosp-setup-1.11.10.apk)
+- `device_power_standby` 1.10.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/APK/device_power_standby-qeedjisystem_aosp-setup-1.10.11.apk)
+- `system_button` 1.11.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/APK/system_button-qeedjisystem_aosp-setup-1.11.10.apk)
 
 ##`2022-09-12` Demo APK for AMP300 device
-- `device_power_standby` 1.10.11 [download](https://github.com/innes-labs/archives/downloads/amp300/APK/device_power_standby-amp300-setup-1.10.11.apk)
-- `system_button` 1.11.10 [download](https://github.com/innes-labs/archives/downloads/amp300/APK/system_button-amp300-setup-1.11.10.apk)
+- `device_power_standby` 1.10.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/APK/device_power_standby-amp300-setup-1.10.11.apk)
+- `system_button` 1.11.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/APK/system_button-amp300-setup-1.11.10.apk)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Change: this APK requiring now *system user* execution rights to be executed are signed with a Qeedji Java KeyStore
     - `system_button`
 
 ##`2022-07-25` Demo APK for AMP300 device
-- `device_power_standby` 1.10.11 [download](https://github.com/innes-labs/archives/downloads/amp300/APK/device_power_standby-amp300-setup-1.10.11.apk)
-- `system_button` 1.10.11 [download](https://github.com/innes-labs/archives/downloads/amp300/APK/system_button-amp300-setup-1.10.11.apk)
+- `device_power_standby` 1.10.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/APK/device_power_standby-amp300-setup-1.10.11.apk)
+- `system_button` 1.10.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/APK/system_button-amp300-setup-1.10.11.apk)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Initial version

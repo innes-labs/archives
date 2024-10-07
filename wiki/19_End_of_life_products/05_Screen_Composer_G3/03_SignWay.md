@@ -3,7 +3,7 @@
 
 **With these version, the Excel resources needs to be downloaded and dropped again in your manifest**
 
-##`2021-05-03` V1.10.17 [download](https://github.com/innes-labs/archives/downloads/app-signway/signway_demo-screen_composer-setup-1.10.17.appi)
+##`2021-05-03` V1.10.17 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signway/signway_demo-screen_composer-setup-1.10.17.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Remove support for license for Demo App
 >##### **COMPATIBILITIES**
@@ -14,10 +14,10 @@
 ***********************************************************************
 #### **EXCEL RESOURCES**
 - People_directory 002A
-	- FR [download](https://github.com/innes-labs/archives/downloads/app-signway/002A/FR/signway_demo-people_directory.xlsx)
-	- DE [download](https://github.com/innes-labs/archives/downloads/app-signway/002A/DE/signway_demo-people_directory.xlsx)
-- Room_directory 002A [download](https://github.com/innes-labs/archives/downloads/app-signway/002A/signway_demo-room_directory.xlsx)
-- Keywords 002A [download](https://github.com/innes-labs/archives/downloads/app-signway/002A/signway_demo-keywords.xlsx)
+	- FR [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signway/002A/FR/signway_demo-people_directory.xlsx)
+	- DE [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signway/002A/DE/signway_demo-people_directory.xlsx)
+- Room_directory 002A [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signway/002A/signway_demo-room_directory.xlsx)
+- Keywords 002A [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signway/002A/signway_demo-keywords.xlsx)
 #### **PC REQUIREMENTS TO RUN GEKKOTA RT**
 - MS-Windows computer
 	- Intel Core i7
@@ -71,7 +71,7 @@
 #PREVIOUS VERSIONS
 ***********************************************************************
 
-##`2018-12-11` V1.10.13 beta12 [download](https://github.com/innes-labs/archives/downloads/app-signway/signway_demo-screen_composer-setup-1.10.13_beta12.appi)
+##`2018-12-11` V1.10.13 beta12 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signway/signway_demo-screen_composer-setup-1.10.13_beta12.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for resolution responsivity in landscape mode
 	- minimal: 1200x800 (for example touch tablet devices)
@@ -84,11 +84,11 @@
 - Screen Composer G3 V3.20.15 (or above)
 - Gekkota RT 4.10.18 beta3 (demo version)
 
-##`2018-09-27` V1.10.13 beta5 (demo) [download](https://github.com/innes-labs/archives/downloads/app-signway/signway_demo-screen_composer-setup-1.10.13_beta5.appi)
+##`2018-09-27` V1.10.13 beta5 (demo) [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signway/signway_demo-screen_composer-setup-1.10.13_beta5.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Change the license format
 
-##`2018-09-06` V1.10.13 beta3 (demo) [download](https://github.com/innes-labs/archives/downloads/app-signway/signway_demo-screen_composer-setup-1.10.13beta3.appi)
+##`2018-09-06` V1.10.13 beta3 (demo) [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signway/signway_demo-screen_composer-setup-1.10.13beta3.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Inital version for demo
 >##### **COMPATIBILITIES**

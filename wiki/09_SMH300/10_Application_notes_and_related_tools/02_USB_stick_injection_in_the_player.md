@@ -13,7 +13,7 @@
 #### **DOCUMENTATION**
 | Description                                                                      | Version |                 |
 | :------------------------------------------------------------------------------- | :-------| :-------------- |
-| Chargement de script et mise à jour de playout ou de firmware par injection de clé USB | 007C    | [Download](https://github.com/innes-labs/archives/downloads/application-notes/Chargement-de-script-et-mise-a-jour-de-playout-ou-de-firmware-par-injection-de-clé-USB-007C_fr.pdf) |
+| Chargement de script et mise à jour de playout ou de firmware par injection de clé USB | 007C    | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/Chargement-de-script-et-mise-a-jour-de-playout-ou-de-firmware-par-injection-de-clé-USB-007C_fr.pdf) |
 
 
 

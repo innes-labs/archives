@@ -5,7 +5,7 @@
 
 *RELEASE NOTE*
 
-##`2015-10-14` V1.10.10 [download](https://github.com/innes-labs/archives/downloads/tools/LDAP-Tool-V1.10.10.zip)
+##`2015-10-14` V1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/tools/LDAP-Tool-V1.10.10.zip)
 
 #INFORMATION
 ***********************************************************************

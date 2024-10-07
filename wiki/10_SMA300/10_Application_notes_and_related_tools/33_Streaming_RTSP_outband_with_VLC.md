@@ -10,7 +10,7 @@
 #### **DOCUMENTATION**
 | Description                                                                      | Version |                 |
 | :------------------------------------------------------------------------------- | :-------| :-------------- |
-| Stream RTSP in outband mode with VLC - user guide (EN)                            | 001B    | [Download](https://github.com/innes-labs/archives/downloads/application-notes/streaming-RTSP-outband-with-VLC/Streaming-RTSP-outband-with-VLC-001B_en.pdf) |
+| Stream RTSP in outband mode with VLC - user guide (EN)                            | 001B    | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/streaming-RTSP-outband-with-VLC/Streaming-RTSP-outband-with-VLC-001B_en.pdf) |
 
 
 

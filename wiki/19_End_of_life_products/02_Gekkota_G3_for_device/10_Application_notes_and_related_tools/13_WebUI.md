@@ -8,7 +8,7 @@
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-- Player WebUI user guide 001N/EN [Download](https://github.com/innes-labs/archives/downloads/application-notes/WebUI/Gekkota-WebUI-user-guide-001N_en.pdf)
+- Player WebUI user guide 001N/EN [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/WebUI/Gekkota-WebUI-user-guide-001N_en.pdf)
 
 #### **DOCUMENTATION**
 - Suitable for

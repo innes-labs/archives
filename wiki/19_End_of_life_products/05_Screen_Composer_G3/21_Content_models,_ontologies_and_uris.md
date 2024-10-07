@@ -3,7 +3,7 @@
 
 *To update your content model pack, download the archive models-V3.5X.zip available just below, open Screen Composer G3, click on menu ```Import templates or app```, then select the archive downloaded. For more information about the content model pack installation, refer to the Screen-composer user manual.*
 
-##`2021-05-11` V3.65 [download](https://github.com/innes-labs/archives/downloads/models-package/content-models-ontologies-and-uris.models-screen_composer_g3-setup-3.65.zip)
+##`2021-05-11` V3.65 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/content-models-ontologies-and-uris.models-screen_composer_g3-setup-3.65.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "MeetingRoom Mono - Landscape"
 	- Add support for `Playzilla` 4.XX.YY when running on `Gekkota OS 3.XX.YY` or `Gekkota RT 3.XX.YY`
@@ -125,26 +125,26 @@
 #### **EXAMPLES AND DOCUMENTATION**
 | Model name                                            |      Description/version          |    Download      |
 | :---------------------------------------------------- | :-------------------- | :--------------- |
-| Agenda                                              | User manual (001A/EN)      | [download](https://github.com/innes-labs/archives/downloads/models-package/Agenda-1.10.10-001A-fr.pdf) |
-| Facebook                                              | User manual (001B/FR)      | [download](https://github.com/innes-labs/archives/downloads/models-package/ManuelUtilisateur-001B_fr.pdf) |
-| Facebook                                              | User manual (001B/EN)      | [download](https://github.com/innes-labs/archives/downloads/models-package/Facebook-001B_en.pdf) |
-| ESII Vertical banner                                  | User manual (003A/EN)      | [download](https://github.com/innes-labs/archives/downloads/models-package/ESII-Vertical-Banner-user-guide-003A.pdf) |
-| ESII Vertical banner                                  | EGESTAT EDS UDP Installation Guide (001A/EN) | [download](https://github.com/innes-labs/archives/downloads/models-package/egestat-eds-upd-http-server-001A_en.pdf) |
-| ESII Vertical banner                                  | EGESTAT EDS UDP V1.10.10 exe | [download](https://github.com/innes-labs/archives/downloads/models-package/egestat_eds_udp-setup-1.10.10.exe) |
-| Meeting Room       | User manual 1.20.10_001C_en  | [download](https://github.com/innes-labs/archives/downloads/models-package/meetingroom-usermanual-1.20.10-001C_en.pdf) |
-| Meeting Room       | White and brown signalization pictograms  | [download](https://github.com/innes-labs/archives/downloads/models-package/MeetingRoom_signalization_pictograms.zip) |
-| Menu de la semaine                                    | Linked medias example | [download](https://github.com/innes-labs/archives/downloads/models-package/menu_semaine_11.xls) |
-| Menu du jour - Large                                  | Linked medias example | [download](https://github.com/innes-labs/archives/downloads/models-package/excel97Date.xls)
-| Menu du jour - Large	                                | Menu picture examples (photo n°1) | [download](https://github.com/innes-labs/archives/downloads/models-package/photo1.jpg) |
-| Menu du jour - Large	                                | Menu picture examples (photo n°2) | [download](https://github.com/innes-labs/archives/downloads/models-package/photo2.jpg) |
-| Menu du jour - Large	                                | Menu picture examples (photo n°3) | [download](https://github.com/innes-labs/archives/downloads/models-package/photo3.jpg) |
-| Menu du jour - Large	                                | Menu picture examples (photo n°4) | [download](https://github.com/innes-labs/archives/downloads/models-package/photo4.jpg) |
-| Nombre de jours sans accident - Fonctionnement des compteurs | User manual (001B/FR) | [download](https://github.com/innes-labs/archives/downloads/models-package/Masque-Nombre-de-jours-sans-accident-Fonctionnement-des-compteurs-001B_fr.pdf) |
-| Nos engagements                                       | Linked medias example | [download](https://github.com/innes-labs/archives/downloads/models-package/nos_engagements.xls) |
-| No VNC                                                | NoVNC Server V1.10.10          |[download](https://github.com/innes-labs/archives/downloads/models-package/DemoVNC-V1.10.11.zip) |
-| No VNC                                                | NoVNC Server User Guide (001A/EN) | [download](https://github.com/innes-labs/archives/downloads/models-package/NoVNC-Server-User-Guide-001A_en.pdf) |
-| QLite - Banner                                        | QLite - Banner User Guide (003A/EN) | [download](https://github.com/innes-labs/archives/downloads/models-package/QLite-User-Guide-003A_en.pdf) |
-| HID interactivity detection                           | HID application note (001A/EN) | [Download](https://github.com/innes-labs/archives/downloads/models-package/Configuring-HID-interactivity-SCG3_001A_en.pdf) |
+| Agenda                                              | User manual (001A/EN)      | [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/Agenda-1.10.10-001A-fr.pdf) |
+| Facebook                                              | User manual (001B/FR)      | [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/ManuelUtilisateur-001B_fr.pdf) |
+| Facebook                                              | User manual (001B/EN)      | [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/Facebook-001B_en.pdf) |
+| ESII Vertical banner                                  | User manual (003A/EN)      | [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/ESII-Vertical-Banner-user-guide-003A.pdf) |
+| ESII Vertical banner                                  | EGESTAT EDS UDP Installation Guide (001A/EN) | [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/egestat-eds-upd-http-server-001A_en.pdf) |
+| ESII Vertical banner                                  | EGESTAT EDS UDP V1.10.10 exe | [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/egestat_eds_udp-setup-1.10.10.exe) |
+| Meeting Room       | User manual 1.20.10_001C_en  | [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/meetingroom-usermanual-1.20.10-001C_en.pdf) |
+| Meeting Room       | White and brown signalization pictograms  | [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/MeetingRoom_signalization_pictograms.zip) |
+| Menu de la semaine                                    | Linked medias example | [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/menu_semaine_11.xls) |
+| Menu du jour - Large                                  | Linked medias example | [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/excel97Date.xls)
+| Menu du jour - Large	                                | Menu picture examples (photo n°1) | [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/photo1.jpg) |
+| Menu du jour - Large	                                | Menu picture examples (photo n°2) | [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/photo2.jpg) |
+| Menu du jour - Large	                                | Menu picture examples (photo n°3) | [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/photo3.jpg) |
+| Menu du jour - Large	                                | Menu picture examples (photo n°4) | [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/photo4.jpg) |
+| Nombre de jours sans accident - Fonctionnement des compteurs | User manual (001B/FR) | [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/Masque-Nombre-de-jours-sans-accident-Fonctionnement-des-compteurs-001B_fr.pdf) |
+| Nos engagements                                       | Linked medias example | [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/nos_engagements.xls) |
+| No VNC                                                | NoVNC Server V1.10.10          |[download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/DemoVNC-V1.10.11.zip) |
+| No VNC                                                | NoVNC Server User Guide (001A/EN) | [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/NoVNC-Server-User-Guide-001A_en.pdf) |
+| QLite - Banner                                        | QLite - Banner User Guide (003A/EN) | [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/QLite-User-Guide-003A_en.pdf) |
+| HID interactivity detection                           | HID application note (001A/EN) | [Download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/Configuring-HID-interactivity-SCG3_001A_en.pdf) |
 #### **HOW TO INSTALL MODELS WITH SCREEN COMPOSER**
 - Screen Composer >= V3.10.16: open Screen Composer and import zip models package with "import models and app" button
 - Screen Composer < V3.10.16: Unzip zip models package and copy-paste on your PC under:
@@ -181,17 +181,17 @@
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2021-02-10` V3.64 [download](https://github.com/innes-labs/archives/downloads/models-package/content-models-ontologies-and-uris.models-screen_composer_g3-setup-3.64.zip)
+##`2021-02-10` V3.64 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/content-models-ontologies-and-uris.models-screen_composer_g3-setup-3.64.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "News feeds 16-9"
 - "News feeds horizontal banner"
 
-##`2020-03-09` V3.63 [download](https://github.com/innes-labs/archives/downloads/models-package/content-models-ontologies-and-uris.models-screen_composer_g3-setup-3.63.zip)
+##`2020-03-09` V3.63 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/content-models-ontologies-and-uris.models-screen_composer_g3-setup-3.63.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "MeetingRoom - Mono - Landscape"
  	- Add support multiple calendar
 
-##`2020-03-09` V3.62 [download](https://github.com/innes-labs/archives/downloads/models-package/content-models-ontologies-and-uris.models-screen_composer_g3-setup-3.62.zip)
+##`2020-03-09` V3.62 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/content-models-ontologies-and-uris.models-screen_composer_g3-setup-3.62.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "MeetingRoom - Summarization - Landscape" and "MeetingRoom - Summarization - Portrait"
 	- Add support for `Playzilla` 4.XX.YY when running on `Gekkota OS 3.XX.YY` or `Gekkota RT 3.XX.YY`
@@ -222,14 +222,14 @@
 - "Facebook"
 	- Removed
 
-##`2018-10-23` V3.61 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.61.zip)
+##`2018-10-23` V3.61 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.61.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Remove these WebTV URI:
 	- EuroNews - FR
 	- EuroNews - EN
 	- EuroNews - DE
 
-##`2018-10-09` V3.60 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.60.zip)
+##`2018-10-09` V3.60 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.60.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Real Estate Ads AC3 - France
 	- Initial version
@@ -238,7 +238,7 @@
 - Scrolling text from file
 	- Change: when a variable was used in the text input, all the files situated on the parent directory situated just before the variable was wrongly loaded in the mask. Now it is required to add manually the resource in the playout manifest
 
-##`2018-10-08` V3.59 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.59.zip)
+##`2018-10-08` V3.59 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.59.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add the Web TV channels
     - France24 - EN
@@ -254,33 +254,33 @@
 	- SkyNews - EN (instead of SkyNews)
 - Fix: the Web TV channels URI was not working except after having changed its URI type from *video* to *iframe*
 
-##`2018-10-03` V3.58 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.58.zip)
+##`2018-10-03` V3.58 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.58.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add the Web TV channels
     - France24
     - SkyNews
 - Change: the France TV channels thumbnails have now a watermark *TNT*
 
-##`2018-08-10` V3.57 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.57.zip)
+##`2018-08-10` V3.57 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.57.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - News feeds horizontal banner
 	- Variables with the format ```{$custom:<varname>}``` was not supported in the form input
 - `Audio/video input` URI
 	- Change URI format to ```urn:innes:av-input```
 
-##`2018-04-09` V3.55 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.55.zip)
+##`2018-04-09` V3.55 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.55.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Onthology
 	- "Sound"
 		- Initial release
 
-##`2018-02-05` V3.54 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.54.zip)
+##`2018-02-05` V3.54 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.54.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Onthology
 	- "DetectionHID"
 		- Fix: was not working on DMB400
 
-##`2018-02-02` V3.53 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.53.zip)
+##`2018-02-02` V3.53 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.53.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "Agenda"
     - Initial release
@@ -309,7 +309,7 @@
 - "RichText Area"
     - *Model has been removed*
 
-##`2018-01-17` V3.52 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.52.zip)
+##`2018-01-17` V3.52 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.52.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "Audio-video input"
 	- Change value to ```urn:innes:av-input```
@@ -319,11 +319,11 @@
 	- Thursday content and Tuesday content could be wrong
     - School building name could be shortened sometimes
 
-##`2017-08-30` V3.51 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.51.zip)
+##`2017-08-30` V3.51 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.51.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Change: removed SWF models
 
-##`2017-08-02` V3.50 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.50.zip)
+##`2017-08-02` V3.50 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.50.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "Scrolling text"
 	- Removed (deprecated)
@@ -347,7 +347,7 @@
 - "Display"
 	- Device could keep device awoken when a standby task was programmed around the current time
 
-##`2017-07-07` V3.49 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.49.zip)
+##`2017-07-07` V3.49 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.49.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "Education - Exams"
 	- Initial release, based on HTML5
@@ -373,7 +373,7 @@
 - "Slideshow - Image and text"
 	- Initial release, based on HTML5
 
-##`2017-05-04` V3.48 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.48.zip)
+##`2017-05-04` V3.48 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.48.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Onthologies: add support for German language
 	- "AppColorLed"
@@ -404,14 +404,14 @@
 		- XpfFileMonitor.rdf,
 		- XpfAVCommand.rdf
 
-##`2017-04-24` V3.47 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.47.zip)
+##`2017-04-24` V3.47 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.47.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "Scrolling text"
 	- Add support for German language
 - "News feeds horizontal banner"
 	- Add support for German language
 
-##`2017-04-14` V3.46 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.46.zip)
+##`2017-04-14` V3.46 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.46.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "Information bloc"
 	- Add support for German language
@@ -420,18 +420,18 @@
 - "Richtext area"
 	- Add support for German language
 
-##`2017-04-10` V3.45 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.45.zip)
+##`2017-04-10` V3.45 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.45.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "Info Trafic Sytadin"
 	- Fix: map overlap at the right of the screen in time slot preview (PlugnCast G3 configuration)
 	- Fix: was not working properly with DMB400 (Gekkota 4)
 
-##`2017-03-15` V3.44 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.44.zip)
+##`2017-03-15` V3.44 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.44.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "Texte défilant horizontal par fichier"
 	- Removed
 
-##`2017-02-08` V3.43 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.43.zip)
+##`2017-02-08` V3.43 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.43.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "ESII Banner vertical"
 	- Add an option to display only the popup (hiding of the information for services and lines)
@@ -441,13 +441,13 @@
 	- "Phoenix"
 		- Fix: was not supported on Gekkota 4
 
-##`2017-01-09` V3.42 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.42.zip)
+##`2017-01-09` V3.42 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.42.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Onthologies
 	- "AVCommand"
 		- Fix: was not supported on Gekkota 4
 
-##`2017-01-03` V3.41 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.41.zip)
+##`2017-01-03` V3.41 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.41.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Onthologies
 	- Restore publication functionnality on Screen Composer with Playzilla4/DMB400
@@ -479,7 +479,7 @@
 			-  number of accident
 		-  Add possibility to change text format
 
-##`2016-12-29` V3.40 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.40.zip)
+##`2016-12-29` V3.40 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.40.zip)
 >##### **IMPORTANT**
 - When imported with Screen Composer 3.20.XX, the ontologies are rewritten implying publication issue on DMB400. To restore the publication, install the next model pack
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -490,7 +490,7 @@
 - "Free feeds Sytadin"
 	- Deletion
 
-##`2016-10-17` V3.39 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.39.zip)
+##`2016-10-17` V3.39 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.39.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "Fil d'actualités bandeau horizontal"
 	- Change: spinner place (displayed when loading the RSS)
@@ -501,7 +501,7 @@
 	- Fix: base URI was not working (local RSS)
 	- Fix: when RSS name can be found, display usual error message *content temporarily unavailable (code 0)*
 
-##`2016-10-14` V3.38 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.38.zip)
+##`2016-10-14` V3.38 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.38.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "MeetingRoom - Mono - Landscape"
     - Add optional room prefix (in the banner)
@@ -538,14 +538,14 @@
     - Fix: when changing the column title centring, the width of several columns could change unexpectedly
     - Fix: could stop getting properly the meetings properly when played n times after having displayed no meeting
 
-##`2016-10-10` V3.37 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.37.zip)
+##`2016-10-10` V3.37 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.37.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "ESII Banner vertical"
 	- Fix: in some case, the media ESII was not displaying all the information contained in the UDP message
 	- Change: error message for the avaiable space for the service title
 	- Change: prevent touch screen selection (SMT210)
 
-##`2016-09-28` V3.36 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.36.zip)
+##`2016-09-28` V3.36 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.36.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "Fil d'actualités 16-9"
 	- Modification due to source code review
@@ -589,7 +589,7 @@
     - Fix: HTTP server (type Briva) was not working on Gekkota G2
     - Fix: no event message could be displayed sometimes after a while when displaying meeting on several pages
 
-##`2016-09-19` V3.35 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.35.zip)
+##`2016-09-19` V3.35 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.35.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "Meetingroom - Mono - Landscape"
 	- Add support of format option for Time an Date
@@ -620,7 +620,7 @@
              - ex: for applet name Gesroom installed on ```C:\Users\Public\Documents\Innes Briva\Server\.accounts\innes_domaine\.applets\.gesroom-calendar```, the name to enter is ```gesroom-calendar```
     - Fix: restore support of attachment (working with CalendarUI applet only)
 
-##`2016-09-08` V3.34 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.34.zip)
+##`2016-09-08` V3.34 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.34.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "Fil d'actualités 16/9"
     - Initial version (HTML technology in MAFF container)
@@ -635,7 +635,7 @@
 	    	- note: with behaviour 1X, pass to next media afterwards
     	- Support base URI (rss file has to be inserted as linked media)
 
-##`2016-09-07` V3.33 [download](https://github.com/innes-labs/archives/downloads/models-package/models-V3.33.zip)
+##`2016-09-07` V3.33 [download](https://github.com/innes-labs/archives/blob/main/downloads/models-package/models-V3.33.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "Fil d'actualités bandeau horizontal"
 	- Add: dash character between title and description

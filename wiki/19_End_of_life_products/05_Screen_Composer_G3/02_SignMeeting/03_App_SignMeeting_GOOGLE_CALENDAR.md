@@ -12,7 +12,7 @@ Since October 2020, due to some changes in **Google Workspace** calendar, the le
     - Open your existing SignMeeting project, import the new App `SignMeeting version 1.13.XX`
     - To complete the migration, **edit the SignMeeting's form** as usual. Save the form by pressing on the `Finish` button and close the form.
     - Edit the SignMeeting's form once again to check the version shown in the form:
-        - The label version **V1.13.XX** on the top right corner of the form indicates that the migration has been completed [see the version](https://github.com/innes-labs/archives/downloads/SignMeeting_upgrade_to_V1.13.11.jpg)
+        - The label version **V1.13.XX** on the top right corner of the form indicates that the migration has been completed [see the version](https://github.com/innes-labs/archives/blob/main/downloads/SignMeeting_upgrade_to_V1.13.11.jpg)
         - In case the version is still 1.12.XX, go in the Screen Composer menu ```Settings > Preferences > Project and App``` and click on the App version ```Upgrade``` button. For further information, contact support@innes.pro
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: any new calendar resource was not supported anymore
@@ -119,18 +119,18 @@ The checkout feature with meeting shortening only works when the meeting has bee
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- User manual 1.13.11-001F/EN [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-google/signmeeting-google-calendar-user-manual-1.13.11-001F_en.pdf)
+- User manual 1.13.11-001F/EN [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-google/signmeeting-google-calendar-user-manual-1.13.11-001F_en.pdf)
 #### **CSS FILE FOR THE DIFFERENT DISPLAY PROFILS**
-- CSS File V1.13.11 for *Room Screen* display profil  [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_1.13.11.css)
-- CSS File V1.13.10 for *Room Label* display profil [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_label/signmeeting_theme_room_label_1.13.10.css)
-- CSS File V1.13.10 for *Summary screen by resource* display profil [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/summary_screen_by_resource/signmeeting_theme_summarization_by_resource_1.13.10.css)
+- CSS File V1.13.11 for *Room Screen* display profil  [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_1.13.11.css)
+- CSS File V1.13.10 for *Room Label* display profil [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_label/signmeeting_theme_room_label_1.13.10.css)
+- CSS File V1.13.10 for *Summary screen by resource* display profil [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/summary_screen_by_resource/signmeeting_theme_summarization_by_resource_1.13.10.css)
 #### **CUSTOM SCRIPTS FOR EXTRA BUTTONS EXAMPLE**
-- meetingControlDistech V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDistech_1.13.10.js)
-- meetingControlDistechWithAuth V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDistechWithAuth_1.13.10.js)
-- meetingControlDoor V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDoor_1.13.10.js)
-- meetingControlSM V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlSM_1.13.10.js)
+- meetingControlDistech V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDistech_1.13.10.js)
+- meetingControlDistechWithAuth V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDistechWithAuth_1.13.10.js)
+- meetingControlDoor V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDoor_1.13.10.js)
+- meetingControlSM V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlSM_1.13.10.js)
 #### **CUSTOM SCRIPTS TO SUPPORT E500 638 ENOCEAN MOTION SENSOR**
-- meetingControlEnOceanMotionSensor V1.13.11 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlEnOceanMotionSensor_1.13.11.js)
+- meetingControlEnOceanMotionSensor V1.13.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlEnOceanMotionSensor_1.13.11.js)
 	- the script is suitable for *RoomLabel* display profil (SMH300) and is not suitable for tablet and media players.
 	- when meeting confirmation is supported your calendar system, it allows to check in automatically a meeting when people are detected in the room.
 	- the check in by script can work only when the meeting is really pending (does not work inside the anticipated display period)
@@ -143,7 +143,7 @@ The checkout feature with meeting shortening only works when the meeting has bee
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2016-06-13` V1.12.19 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-google/signmeeting_google-screen_composer-setup-1.12.19.appi)
+##`2016-06-13` V1.12.19 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-google/signmeeting_google-screen_composer-setup-1.12.19.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support of vizualization of meeting scheduled accross several days, or all day long
 	- Note: In this case, SignMeeting is splitting the meeting accross several days as much as there is day to display the meeting from *working day start time* to *working day end time*.
@@ -207,7 +207,7 @@ The checkout feature with meeting shortening only works when the meeting has bee
 - LDAP V3 (used by Windows Server 2000/Active directory and above Windows Server version)
 - Briva LDAP
 
-##`2015-12-07` V1.12.13 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-google/signmeeting_google-screen_composer-setup-1.12.13.appi)
+##`2015-12-07` V1.12.13 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-google/signmeeting_google-screen_composer-setup-1.12.13.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add attendees list display with scrolling
 - Add support of a signs library (72 icons) or signs importation (for resources in summary screen)
@@ -268,7 +268,7 @@ The checkout feature with meeting shortening only works when the meeting has bee
 - Fix: pressing "room is emptied" the second time was doing nothing (in case reccurent meeting)
 - Fix: attendees could be displayed on 2 lines instead be scrolled on 1 line (Room screen)
 
-##`2015-06-09` V1.11.17 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-google/signmeeting_google-screen_composer-setup-1.11.17.appi)
+##`2015-06-09` V1.11.17 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-google/signmeeting_google-screen_composer-setup-1.11.17.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add confirmation screen when pressing "Room is empty" button
 - Add support "book now"
@@ -284,7 +284,7 @@ The checkout feature with meeting shortening only works when the meeting has bee
 - Fix "Book now" button availability issue when playing with navigation menu
 - Add possibility to set position of the banner at the top (or at the bottom) of the screen.
 
-##`2014-10-17` V1.10.51 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-google/signmeeting_google-screen_composer-setup-1.10.51.appi)
+##`2014-10-17` V1.10.51 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-google/signmeeting_google-screen_composer-setup-1.10.51.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Compatibility with Screen Composer 3.11.x
 

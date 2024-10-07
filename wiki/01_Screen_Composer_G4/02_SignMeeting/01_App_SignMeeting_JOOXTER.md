@@ -1,7 +1,7 @@
 # SignMeeting Jooxter
 *RELEASE NOTE*
 
-##`2023-04-19` V2.12.11 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-jooxter/signmeeting_jooxter-screen_composer-addin-2.12.11.appi)
+##`2023-04-19` V2.12.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-jooxter/signmeeting_jooxter-screen_composer-addin-2.12.11.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for *Gekkota 5*
 - Add support for PDF media or MS-PowerPoint media as screen saver
@@ -51,29 +51,29 @@
 #INFORMATION
 ***********************************************************************
 #### **USER MANUAL**
-- SignMeeting Jooxter user manual 2.12.11~001A_en [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-jooxter/screen-composer-signmeeting-jooxter-usermanual-2.12.11~001A_en.pdf)
+- SignMeeting Jooxter user manual 2.12.11~001A_en [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-jooxter/screen-composer-signmeeting-jooxter-usermanual-2.12.11~001A_en.pdf)
 #### **CSS FILE FOR THE DIFFERENT DISPLAY PROFILES**
-- CSS File for *Room Screen* display profile - Default dark theme [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_dark-001C.css)
-- CSS File for *Room Screen* display profile - Default light theme [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_light-001C.css)
-- CSS File for *Summary screen by event* display profile - Default theme [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/summary_screen_by_event/signmeeting_theme_summary_screen_by_event-001B.css)
-- CSS File for *Summary screen by resource* display profile - Default theme [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/summary_screen_by_resource/signmeeting_theme_summary_screen_by_resource-001B.css)
-- CSS File for *Room label* display profile - Default theme [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_label/signmeeting_theme_room_label-001B.css)
+- CSS File for *Room Screen* display profile - Default dark theme [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_dark-001C.css)
+- CSS File for *Room Screen* display profile - Default light theme [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_light-001C.css)
+- CSS File for *Summary screen by event* display profile - Default theme [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/summary_screen_by_event/signmeeting_theme_summary_screen_by_event-001B.css)
+- CSS File for *Summary screen by resource* display profile - Default theme [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/summary_screen_by_resource/signmeeting_theme_summary_screen_by_resource-001B.css)
+- CSS File for *Room label* display profile - Default theme [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_label/signmeeting_theme_room_label-001B.css)
 #### **CUSTOM SCRIPTS EXAMPLE FOR EXTERNAL DEVICES AVAILABLE BY ETHERNET**
-- meetingControlDistech 001A [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDistech_001A.js)
-- meetingControlDistechWithAuth 001A [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDistechWithAuth_001A.js)
+- meetingControlDistech 001A [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDistech_001A.js)
+- meetingControlDistechWithAuth 001A [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDistechWithAuth_001A.js)
 #### **CUSTOM SCRIPTS EXAMPLE FOR EXTERNAL DEVICES AVAILABLE BY GPIO**
-- meetingControlSM 001A [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlSM_001A.js)
+- meetingControlSM 001A [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlSM_001A.js)
 #### **CUSTOM SCRIPTS EXAMPLE FOR EXTERNAL DEVICES AVAILABLE BY BLUETOOTH**
-- meetingControlEnOceanMotionSensor 001A [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlEnOceanMotionSensor_001A.js)
+- meetingControlEnOceanMotionSensor 001A [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlEnOceanMotionSensor_001A.js)
 
 # HISTORY
 ***********************************************************************
 
-##`2022-08-22` V2.11.12 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-jooxter/signmeeting_jooxter-screen_composer-addin-2.11.12.appi)
+##`2022-08-22` V2.11.12 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-jooxter/signmeeting_jooxter-screen_composer-addin-2.11.12.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for `AQS` for AMP300 media players
 
-##`2022-05-18` V2.11.11 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-jooxter/signmeeting_jooxter-screen_composer-addin-2.11.11.appi)
+##`2022-05-18` V2.11.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-jooxter/signmeeting_jooxter-screen_composer-addin-2.11.11.appi)
 >##### **IMPORTANT**
 - One SignMeeting license key is required per device
 - Once this SignMeeting version is installed, in case you had to install the previous SignMeeting version afterwards, contact support@innes.pro

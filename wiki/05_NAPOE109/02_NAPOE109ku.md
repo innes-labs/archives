@@ -12,7 +12,7 @@ It is intended to be fixed inside an electrical junction box or inside a cable t
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-User manual 1.10.12~003A/EN [download](https://github.com/innes-labs/archives/downloads/napoe/napoe109ku/V1.10.12/napoe109ku-user_manual-1.10.12~003A_en.pdf)
+User manual 1.10.12~003A/EN [download](https://github.com/innes-labs/archives/blob/main/downloads/napoe/napoe109ku/V1.10.12/napoe109ku-user_manual-1.10.12~003A_en.pdf)
 
 #OLD VERSIONS HISTORY
 ***********************************************************************

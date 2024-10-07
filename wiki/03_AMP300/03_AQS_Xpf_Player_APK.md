@@ -2,7 +2,7 @@
 
 Once installed and configured on the **Qeedji System AOSP 9** device, The *Xpf Player* APK allows the device to work with PlugnCast Server G2.
 
-##`2024-09-28` V1.10.16 [download](https://github.com/innes-labs/archives/downloads/app-xpf_player/xpf_player-qeedjisystem_aosp-setup-1.10.16.apk)
+##`2024-09-28` V1.10.16 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-xpf_player/xpf_player-qeedjisystem_aosp-setup-1.10.16.apk)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Change: remove support for license input in the App form
 >##### **COMPATIBILITIES**
@@ -16,11 +16,11 @@ Once installed and configured on the **Qeedji System AOSP 9** device, The *Xpf P
 ***********************************************************************
 Once downloaded, follow the user manual to install and configure once the `Xpf Player` APK on the device to initiate the communication with `PlugnCast Server G2`:
 
-- `Xpf Player` APK user manual 1.10.16~001A [download](https://github.com/innes-labs/archives/downloads/app-xpf_player/xpf_player-qeedjisystem_aosp-user-manual-1.10.16~001A_en.pdf)
+- `Xpf Player` APK user manual 1.10.16~001A [download](https://github.com/innes-labs/archives/blob/main/downloads/app-xpf_player/xpf_player-qeedjisystem_aosp-user-manual-1.10.16~001A_en.pdf)
 
 A configuration script allows to configure the `Xpf Player` APK:
 
-- configuration script 001A for `Xpf Player` APK  [download](https://github.com/innes-labs/archives/downloads/app-xpf_player/000000000000.js)
+- configuration script 001A for `Xpf Player` APK  [download](https://github.com/innes-labs/archives/blob/main/downloads/app-xpf_player/000000000000.js)
 
 It is possible to install and configure the `Xpf Player` APK on a device by inserting a USB storage device containing the APK and a suitable configuration script:
 
@@ -30,13 +30,13 @@ It is possible to install and configure the `Xpf Player` APK on a device by inse
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2024-06-06` V1.10.15 [download](https://github.com/innes-labs/archives/downloads/app-xpf_player/xpf_player-qeedjisystem_aosp-setup-1.10.15.apk)
+##`2024-06-06` V1.10.15 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-xpf_player/xpf_player-qeedjisystem_aosp-setup-1.10.15.apk)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Change: a device reboot is now issued in case the App is stopped with an unexpected way. These prerequisites must be filled to support this feature
 	- the *kiosk* mode must be activated
 	- the *Start the App after boot completed* option must be checked
 
-##`2023-05-10` V1.10.14 [download](https://github.com/innes-labs/archives/downloads/app-xpf_player/xpf_player-qeedjisystem_aosp-setup-1.10.14.apk)
+##`2023-05-10` V1.10.14 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-xpf_player/xpf_player-qeedjisystem_aosp-setup-1.10.14.apk)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: in some case, the App could stop. To work around, the App needed then to be restarted with the device Web user interface or with a new publication with PlugnCast Studio
 - Fix: in some cases, after a scene transition in a visual channel, the content of the previous scene was not stopped right immediately, so more than one media could be played at the same time, resulting in a jerky effect on the played medias

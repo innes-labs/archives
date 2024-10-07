@@ -10,7 +10,7 @@
 #### **DOCUMENTATION**
 | Description                                                                      | Version |                 |
 | :------------------------------------------------------------------------------- | :-------| :-------------- |
-| Widget generation with Hippo software user guide (FR)                            | 001A    | [Download](https://github.com/innes-labs/archives/downloads/application-notes/Guide-de-génération-de-media-widget-avec-le-logiciel-Hippo-à-partir-de-démo_001A_fr.pdf) |
+| Widget generation with Hippo software user guide (FR)                            | 001A    | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/Guide-de-génération-de-media-widget-avec-le-logiciel-Hippo-à-partir-de-démo_001A_fr.pdf) |
 
 
 

@@ -12,7 +12,7 @@ It is intended to be fixed inside a wall flush-mounted box.
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-User manual 1.10.12~005A/EN [download](https://github.com/innes-labs/archives/downloads/napoe/napoe109kt/V1.10.12/napoe109kt-user_manual-1.10.12~005A_en.pdf)
+User manual 1.10.12~005A/EN [download](https://github.com/innes-labs/archives/blob/main/downloads/napoe/napoe109kt/V1.10.12/napoe109kt-user_manual-1.10.12~005A_en.pdf)
 
 #OLD VERSIONS HISTORY
 ***********************************************************************

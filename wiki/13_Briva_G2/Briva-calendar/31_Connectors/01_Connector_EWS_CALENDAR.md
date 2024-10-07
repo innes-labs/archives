@@ -1,7 +1,7 @@
 # EWS CALENDAR
 *RELEASE NOTE*
 
-##`2023-01-17` V1.11.11 [download](https://github.com/innes-labs/archives/downloads/applets/connector-EWS-calendar-V1.11.11/delivery/ews-calendar-1.11.11.saz)
+##`2023-01-17` V1.11.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/connector-EWS-calendar-V1.11.11/delivery/ews-calendar-1.11.11.saz)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: in some case, when the working range was applied, some of the events were missing in the .ics calendar
 - Fix: the meeting from 11.00 PM to 00.00 AM of the day before could be displayed the current day in the .xml day calendar file
@@ -19,9 +19,9 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- Briva Calendar EWS user manual 1.11.11~001A_en [download](https://github.com/innes-labs/archives/downloads/applets/connector-EWS-calendar-V1.11.11/delivery/briva_calendar_ews-user_manual-1.11.11~001A_en.pdf)
+- Briva Calendar EWS user manual 1.11.11~001A_en [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/connector-EWS-calendar-V1.11.11/delivery/briva_calendar_ews-user_manual-1.11.11~001A_en.pdf)
 #### **POWERSHELL SCRIPTS FOR AZURE ACTIVE DIRECTORY APPLICATION SUPPORT**
-- PowerShell script for Azure Active Directory Application support 1.10.15 [download](https://github.com/innes-labs/archives/downloads/scripts/powershell/Powershell_Innes_AAD-1.10.15.zip)
+- PowerShell script for Azure Active Directory Application support 1.10.15 [download](https://github.com/innes-labs/archives/blob/main/downloads/scripts/powershell/Powershell_Innes_AAD-1.10.15.zip)
 - For further information, refer to the Briva Calendar EWS user manual
 #### **INFORMATION**
 - URL to get the current *.ics* calendar file output by the connector:
@@ -32,20 +32,20 @@
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2022-12-16` V1.11.10 [download](https://github.com/innes-labs/archives/downloads/applets/connector-EWS-calendar-V1.11.10/delivery/ews-calendar-V1.11.10.saz)
+##`2022-12-16` V1.11.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/connector-EWS-calendar-V1.11.10/delivery/ews-calendar-V1.11.10.saz)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for *.xml* day calendar output format available with the URL
 	- ```http://<briva_calendar_server_domain>/plugnCast/.applets/.ews-calendar/2xml-daycalendar.php?id=<calendarId>```
 - Add support for *workingday* tag in the *configuration.xml* file allowing to define the the start time and the end time of the working day
 - Add support for *Azure AD* authentication (OAuth 2)
 
-##`2020-03-09` V1.10.21 [download](https://github.com/innes-labs/archives/downloads/applets/connector-EWS-calendar-V1.10.21/delivery/ews-calendar-V1.10.21.saz)
+##`2020-03-09` V1.10.21 [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/connector-EWS-calendar-V1.10.21/delivery/ews-calendar-V1.10.21.saz)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Change: to decrease network bandwidth, the .ics calendar file can now be downloaded by the device only when the cache persistency has expired. It is recommended to use this connector version when using cache persistency with the newest versions of *MeetingRoom*:
     - MeetingRoom Summarization Landscape 1.20.10 (and above)
     - MeetingRoom Summarization Portrait 1.20.10 (and above)
 
-##`2016-09-21` V1.10.20 [download](https://github.com/innes-labs/archives/downloads/applets/connector-EWS-calendar-V1.10.20/delivery/ews-calendar-V1.10.20.saz)
+##`2016-09-21` V1.10.20 [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/connector-EWS-calendar-V1.10.20/delivery/ews-calendar-V1.10.20.saz)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: In case no meeting was present in EWS calendar, MeetingRoom EWS could not working properly (message *Content temporarily unavailable (code 0)* was displayed) due to bad behaviour of applet
 	- In this case when testing applet with test URL ```http://<domain>/plugnCast/.applets/.ews-calendar/2ical.php?calendarId=<roomId>```, erreur HTTP 500 was replied

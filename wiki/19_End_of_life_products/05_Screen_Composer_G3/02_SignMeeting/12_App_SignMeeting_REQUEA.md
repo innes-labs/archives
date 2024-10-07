@@ -1,7 +1,7 @@
 # SignMeeting REQUEA
 *RELEASE NOTE*
 
-##`2023-08-02` V1.13.13 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-requea/signmeeting_requea-screen_composer-setup-1.13.13.appi)
+##`2023-08-02` V1.13.13 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-requea/signmeeting_requea-screen_composer-setup-1.13.13.appi)
 >##### **IMPORTANT**
 - For users having existing `SignMeeting` pro
 - jects in the previous version `SignMeeting 1.11.XX`,
@@ -152,18 +152,18 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- User manual 1.13.13~001A_en [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-requea/signmeeting-requea-user-manual-1.13.13~001A_en.pdf)
+- User manual 1.13.13~001A_en [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-requea/signmeeting-requea-user-manual-1.13.13~001A_en.pdf)
 #### **CSS FILE FOR THE DIFFERENT DISPLAY PROFILS**
-- CSS File V1.13.11 for *Room Screen* display profil [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_1.13.11.css)
-- CSS File V1.13.10 for *Room Label* display profil [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_label/signmeeting_theme_room_label_1.13.10.css)
-- CSS File V1.13.10 for *Summary screen by resource* display profil [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/summary_screen_by_resource/signmeeting_theme_summarization_by_resource_1.13.10.css)
+- CSS File V1.13.11 for *Room Screen* display profil [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_1.13.11.css)
+- CSS File V1.13.10 for *Room Label* display profil [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_label/signmeeting_theme_room_label_1.13.10.css)
+- CSS File V1.13.10 for *Summary screen by resource* display profil [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/summary_screen_by_resource/signmeeting_theme_summarization_by_resource_1.13.10.css)
 #### **CUSTOM SCRIPTS FOR EXTRA BUTTONS EXAMPLES**
-- meetingControlDistech V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDistech_1.13.10.js)
-- meetingControlDistechWithAuth V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDistechWithAuth_1.13.10.js)
-- meetingControlDoor V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDoor_1.13.10.js)
-- meetingControlGIDE V1.13.11 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlGIDE_1.13.11.js)
+- meetingControlDistech V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDistech_1.13.10.js)
+- meetingControlDistechWithAuth V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDistechWithAuth_1.13.10.js)
+- meetingControlDoor V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDoor_1.13.10.js)
+- meetingControlGIDE V1.13.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlGIDE_1.13.11.js)
 #### **CUSTOM SCRIPTS TO SUPPORT BLE PERIPHERALS**
-- meetingControlEnOceanMotionSensor V1.13.11 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlEnOceanMotionSensor_1.13.11.js)
+- meetingControlEnOceanMotionSensor V1.13.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlEnOceanMotionSensor_1.13.11.js)
 #### **UPGRADE VERSION**
 - In order to upgrade:
 	- open Screen Composer,

@@ -1,7 +1,7 @@
 # Playzilla eLinux boxpc DMC200
 *RELEASE NOTE*
 
-##`2015-03-03` V2.50.91 [download](https://github.com/innes-labs/archives/downloads/playzilla-g2-dmc200/playzilla-dmc200-setup-2.50.91.zip)
+##`2015-03-03` V2.50.91 [download](https://github.com/innes-labs/archives/blob/main/downloads/playzilla-g2-dmc200/playzilla-dmc200-setup-2.50.91.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support of model MAFF 'Texte défilant horizontal'
 - Fix extremely rare Black screen with 'Rien a diffuser', after playing an html media with a pop-up
@@ -17,9 +17,9 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- Installation Guide (FR) [download](https://github.com/innes-labs/archives/downloads/playzilla-g2-dmc200/DMC200-guide-installation-011C_fr.pdf)
-- USB stick loading (FR) [download](https://github.com/innes-labs/archives/downloads/playzilla-g2-dmc200/playzilla-chargement-par-clé-usb-003A_fr.pdf)
-- Log activation (FR) [download](https://github.com/innes-labs/archives/downloads/playzilla-g2-dmc200/Playzilla-log-activation-001A_en.pdf)
+- Installation Guide (FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/playzilla-g2-dmc200/DMC200-guide-installation-011C_fr.pdf)
+- USB stick loading (FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/playzilla-g2-dmc200/playzilla-chargement-par-clé-usb-003A_fr.pdf)
+- Log activation (FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/playzilla-g2-dmc200/Playzilla-log-activation-001A_en.pdf)
 #### **NOTE TO CHANGE VIDEO DEINTERLACED MODE**
 - deinterlace mode is controlled by the preference ```innes.video.deinterlace-mode``` (Web UI / Maintenance / Preferences)
 - deinterlace mode is active only with software decoding. If you use hardware video accelerator, the preference has no effect

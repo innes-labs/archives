@@ -3,7 +3,7 @@
 
 The *generic_server* application periodically connects to a custom data source server to retrieve and display the appropriate light state and colour.
 
-##`2023-06-22` V1.12.10 [download](https://github.com/innes-labs/archives/downloads/sbl10e/generic_server/V1.12.10/bm0032_generic_server-sbl10e-setup-1.12.10.bin)
+##`2023-06-22` V1.12.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/generic_server/V1.12.10/bm0032_generic_server-sbl10e-setup-1.12.10.bin)
 >##### **IMPORTANT**
 - Change: does support the *discover* command from only Qether V1.12.10 (and above)
 - Change: does support the *configure* command from only Qether V1.12.10 (and above)
@@ -25,16 +25,16 @@ The *generic_server* application periodically connects to a custom data source s
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-User manual 1.12.10~002A_en [download](https://github.com/innes-labs/archives/downloads/sbl10e/generic_server/V1.12.10/sbl10e-generic-server-user_manual-1.12.10~002A_en.pdf)
+User manual 1.12.10~002A_en [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/generic_server/V1.12.10/sbl10e-generic-server-user_manual-1.12.10~002A_en.pdf)
 #### **QETHER**
 [Link to Qether tool](http://www.innes.pro/en/support/index.php?SBL10e/Qether)
 #### **CONFIGURATION SCRIPT TEMPLATE**
-`000000000000.js` template 004A for `generic_server` V1.12.10 (or above) [download](https://github.com/innes-labs/archives/downloads/sbl10e/generic_server/V1.12.10/configuration-script-template/000000000000.js)
+`000000000000.js` template 004A for `generic_server` V1.12.10 (or above) [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/generic_server/V1.12.10/configuration-script-template/000000000000.js)
 
 #OLD VERSIONS HISTORY
 ***********************************************************************
 
-##`2022-05-20` V1.11.13 [download](https://github.com/innes-labs/archives/downloads/sbl10e/generic_server/V1.11.13/bm0032_generic_server-sbl10e-setup-1.11.13.bin)
+##`2022-05-20` V1.11.13 [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/generic_server/V1.11.13/bm0032_generic_server-sbl10e-setup-1.11.13.bin)
 >##### **IMPORTANT**
 - Change: does support the *discover* command from only Qether V1.12.10 (and above)
 - Change: does support the *configure* command from only Qether V1.12.10 (and above)
@@ -42,7 +42,7 @@ User manual 1.12.10~002A_en [download](https://github.com/innes-labs/archives/do
 - Fix: proxy server was not working anymore
 - Fix: in case using a proxy server, the domain value was transmitted already resolved to the proxy server
 
-##`2022-05-13` V1.11.12 [download](https://github.com/innes-labs/archives/downloads/sbl10e/generic_server/V1.11.12/bm0032_generic_server-sbl10e-setup-1.11.12.bin)
+##`2022-05-13` V1.11.12 [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/generic_server/V1.11.12/bm0032_generic_server-sbl10e-setup-1.11.12.bin)
 >##### **IMPORTANT**
 - Change: do not support the *discover* command from Qether V1.11.13 (and below)
 - Change: do not support the *configure* command from Qether V1.11.13 (and below)
@@ -111,7 +111,7 @@ User manual 1.12.10~002A_en [download](https://github.com/innes-labs/archives/do
 - SBL10e device
 - Qether 1.12.10 (or above)
 >#### **PREFS.JSON EXAMPLE**
-`prefs.json` example for `generic_server` [download](https://github.com/innes-labs/archives/downloads/sbl10e/generic_server/V1.10.15/prefs-json-example/prefs.json)
+`prefs.json` example for `generic_server` [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/generic_server/V1.10.15/prefs-json-example/prefs.json)
 
 ##`2021-09-09` V1.10.14
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**

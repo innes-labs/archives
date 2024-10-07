@@ -4,14 +4,14 @@
 *Never make electric unplug on your device while APK installation is in progress*
 
 ##`2024-01-12` Demo APK for TAB10 device
-- `device_power_standby` 1.10.11 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/device_power_standby-qeedjisystem_aosp-setup-1.10.11.apk)
-- `power_manager_calendar` 1.10.10 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/power_manager_calendar-qeedjisystem_aosp-setup-1.10.10.apk)
-- `proximity_sensor` 1.10.11 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/proximity_sensor-tab10-setup-1.10.11.apk)
-- `rfid_reader` 1.11.10 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/rfid_reader-tab10-setup-1.11.10.apk)
-- `surround_light` 1.11.10 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/surround_light-tab10-setup-1.11.10.apk)
-- `system_button` 1.11.10 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/system_button-qeedjisystem_aosp-setup-1.11.10.apk)
-- `url_webview` 1.10.10 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/url_webview-qeedjisystem_aosp-setup-1.10.10.apk)
-- `webui_extension` 1.10.10 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/webui_extension-qeedjisystem_aosp-setup-1.10.10.apk)
+- `device_power_standby` 1.10.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/device_power_standby-qeedjisystem_aosp-setup-1.10.11.apk)
+- `power_manager_calendar` 1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/power_manager_calendar-qeedjisystem_aosp-setup-1.10.10.apk)
+- `proximity_sensor` 1.10.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/proximity_sensor-tab10-setup-1.10.11.apk)
+- `rfid_reader` 1.11.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/rfid_reader-tab10-setup-1.11.10.apk)
+- `surround_light` 1.11.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/surround_light-tab10-setup-1.11.10.apk)
+- `system_button` 1.11.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/system_button-qeedjisystem_aosp-setup-1.11.10.apk)
+- `url_webview` 1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/url_webview-qeedjisystem_aosp-setup-1.10.10.apk)
+- `webui_extension` 1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/webui_extension-qeedjisystem_aosp-setup-1.10.10.apk)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - `power_manager_calendar`
@@ -40,11 +40,11 @@
 *********************************************************************************************************
 
 ##`2023-01-25` Demo APK for TAB10 device
-- `device_power_standby` 1.10.11 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/device_power_standby-qeedjisystem_aosp-setup-1.10.11.apk)
-- `proximity_sensor` 1.10.11 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/proximity_sensor-tab10-setup-1.10.11.apk)
-- `rfid_reader` 1.11.10 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/rfid_reader-tab10-setup-1.11.10.apk)
-- `surround_light` 1.11.10 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/surround_light-tab10-setup-1.11.10.apk)
-- `system_button` 1.11.10 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/system_button-qeedjisystem_aosp-setup-1.11.10.apk)
+- `device_power_standby` 1.10.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/device_power_standby-qeedjisystem_aosp-setup-1.10.11.apk)
+- `proximity_sensor` 1.10.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/proximity_sensor-tab10-setup-1.10.11.apk)
+- `rfid_reader` 1.11.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/rfid_reader-tab10-setup-1.11.10.apk)
+- `surround_light` 1.11.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/surround_light-tab10-setup-1.11.10.apk)
+- `system_button` 1.11.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/system_button-qeedjisystem_aosp-setup-1.11.10.apk)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Change the file name of these APK by replacing the *tab10* suffix by the *qeedjisystem_aosp* suffix:

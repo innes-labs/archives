@@ -7,7 +7,7 @@ Once the SLATE106 device is paired to the mobile phone, the `Slate Maintainer` m
 - to set the device time,
 - to reset the WPAN2 PIN code.
 
-##`2020-01-15` Slate Maintainer V1.10.10 [download for Android](https://github.com/innes-labs/archives/downloads/slate106/slate-maintainer/slate-maintainer-setup-1.10.10.apk)
+##`2020-01-15` Slate Maintainer V1.10.10 [download for Android](https://github.com/innes-labs/archives/blob/main/downloads/slate106/slate-maintainer/slate-maintainer-setup-1.10.10.apk)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Initial version
 >##### **COMPATIBILITIES**
@@ -29,7 +29,7 @@ Once the SLATE106 device is paired to the mobile phone, the `Slate Maintainer` m
         - If you can't see the application on your mobile device, contact your mobile device support to activate the discovering and the viewing of the APK applications file.
 - For further information about how to use the `Slate Maintainer` application, read the SLATE106 user manual
 - The execution of the `Slate Maintainer` application requires that BlueTooth is activated and the mobile OS may need to know your current location.
-- Slate Maintainer interface on a mobile [view screen shot](https://github.com/innes-labs/archives/downloads/slate106/slate-maintainer/slate106-slate-maintainer-connected.jpg)
+- Slate Maintainer interface on a mobile [view screen shot](https://github.com/innes-labs/archives/blob/main/downloads/slate106/slate-maintainer/slate106-slate-maintainer-connected.jpg)
 
 #### **APPLICATION FOR iOS MOBILES**
 - The `Slate Maintainer` mobile application exists for iOS mobiles. For further information, contact support@qeedji.tech

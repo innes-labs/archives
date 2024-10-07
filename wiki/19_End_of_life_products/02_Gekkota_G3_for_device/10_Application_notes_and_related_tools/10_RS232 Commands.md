@@ -8,7 +8,7 @@
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-RS232 command DMB300 & DMC200 001A/EN [Download](https://github.com/innes-labs/archives/downloads/application-notes/RS232-command-list-001A_en.pdf)
+RS232 command DMB300 & DMC200 001A/EN [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/RS232-command-list-001A_en.pdf)
 
 
 

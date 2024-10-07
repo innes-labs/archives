@@ -40,20 +40,20 @@
 ***********************************************************************
 ##`2016-10-26` V1.10.11
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
-- HTML Date & time V1.10.11 [Download](https://github.com/innes-labs/archives/downloads/application-notes/tools/date-et-heure-V1.10.11.zip)
+- HTML Date & time V1.10.11 [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/tools/date-et-heure-V1.10.11.zip)
 	- Add display option: day in letter (French language)
-- HTML Date V1.10.11 [Download](https://github.com/innes-labs/archives/downloads/application-notes/tools/date-V1.10.11.zip)
+- HTML Date V1.10.11 [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/tools/date-V1.10.11.zip)
 	- Add display option: day in letter (French language)
 
 #OLD VERSION
 ***********************************************************************
 ##`2016-10-24` V1.10.10
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
-- HTML Date & time V1.10.10 [Download](https://github.com/innes-labs/archives/downloads/application-notes/tools/date-et-heure-V1.10.10.zip)
+- HTML Date & time V1.10.10 [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/tools/date-et-heure-V1.10.10.zip)
 	- Initial version
-- HTML Date V1.10.10 [Download](https://github.com/innes-labs/archives/downloads/application-notes/tools/date-V1.10.10.zip)
+- HTML Date V1.10.10 [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/tools/date-V1.10.10.zip)
 	- Initial version
-- HTML Time V1.10.10 [Download](https://github.com/innes-labs/archives/downloads/application-notes/tools/heure-V1.10.10.zip)
+- HTML Time V1.10.10 [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/tools/heure-V1.10.10.zip)
 	- Initial version
 
 

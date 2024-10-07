@@ -1,14 +1,14 @@
 # SignMeeting ROOMING IT
 *RELEASE NOTE*
 
-##`2019-06-17` V1.13.10 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-roomingit/signmeeting_roomingit-screen_composer-setup-1.13.10.appi)
+##`2019-06-17` V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-roomingit/signmeeting_roomingit-screen_composer-setup-1.13.10.appi)
 >##### **IMPORTANT**
 - For users having existing `SignMeeting` projects in the previous version `SignMeeting 1.12.XX`,
     - Install `Screen Composer V3.20.15`
     - Open your existing SignMeeting project, import the new App `SignMeeting version 1.13.10`
     - To complete the migration, **edit the SignMeeting's form** as usual. Save the form by pressing on the `Finish` button and close the form.
     - Edit the SignMeeting's form once again to check the version shown in the form.
-        - The label version **V1.13.10** on the top right corner of the form indicates that the migration has been completed [see the version](https://github.com/innes-labs/archives/downloads/SignMeeting_upgrade_to_V1.13.10.jpg)
+        - The label version **V1.13.10** on the top right corner of the form indicates that the migration has been completed [see the version](https://github.com/innes-labs/archives/blob/main/downloads/SignMeeting_upgrade_to_V1.13.10.jpg)
         - In case the version is still 1.12.XX, go in the Screen Composer menu ```Settings > Preferences > Project and App``` and click on the App version ```Upgrade``` button. For further information, contact support@innes.pro
 	- Warning: some legacy custom-script V1.12.XX which are allowing for some customer to create some custom button may be not compatible with the SignMeeting V1.13.10 because some of them are using some deprecated xpf function. The customers which are using custom scripts are invited to use the new ones in the version 1.13.10 available for download below in the part **CUSTOM SCRIPTS FOR EXTRA BUTTONS EXAMPLE**. . In case your script is not available here, contact support@innes.pro to get the custom script in the new version 1.13.10.
     	- Custom buttons examples :
@@ -90,16 +90,16 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- SignMeeting Rooming IT User manual (1.13.10-021A/EN) [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-roomingit/signmeeting-roomingit-user-manual-1.13.10-021A_en.pdf)
+- SignMeeting Rooming IT User manual (1.13.10-021A/EN) [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-roomingit/signmeeting-roomingit-user-manual-1.13.10-021A_en.pdf)
 #### **CSS FILE FOR SIGNMEETING 1.13.XX**
-- CSS File V1.13.10 for *Room Screen* layout  [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_1.13.10.css)
-- CSS File V1.13.10 for *Room Label* layout [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_label/signmeeting_theme_room_label_1.13.10.css)
-- CSS File V1.13.10 for *Summary screen by resource* layout [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/summary_screen_by_resource/signmeeting_theme_summarization_by_resource_1.13.10.css)
+- CSS File V1.13.10 for *Room Screen* layout  [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_1.13.10.css)
+- CSS File V1.13.10 for *Room Label* layout [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_label/signmeeting_theme_room_label_1.13.10.css)
+- CSS File V1.13.10 for *Summary screen by resource* layout [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/summary_screen_by_resource/signmeeting_theme_summarization_by_resource_1.13.10.css)
 #### **CUSTOM SCRIPTS FOR EXTRA BUTTONS - EXAMPLE**
-- meetingControlDistech V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDistech_1.13.10.js)
-- meetingControlDistechWithAuth V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDistechWithAuth_1.13.10.js)
-- meetingControlDoor V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDoor_1.13.10.js)
-- meetingControlSM V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlSM_1.13.10.js)
+- meetingControlDistech V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDistech_1.13.10.js)
+- meetingControlDistechWithAuth V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDistechWithAuth_1.13.10.js)
+- meetingControlDoor V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDoor_1.13.10.js)
+- meetingControlSM V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlSM_1.13.10.js)
 
 
 

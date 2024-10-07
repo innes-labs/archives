@@ -1,7 +1,7 @@
 # SignMeeting LOTUS DOMINO 8.5
 *RELEASE NOTE*
 
-##`2015-12-28` V1.12.14 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-domino-8.5/signmeeting_domino85-screen_composer-setup-1.12.14.appi)
+##`2015-12-28` V1.12.14 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-domino-8.5/signmeeting_domino85-screen_composer-setup-1.12.14.appi)
 >##### **IMPORTANT**
 - The previous signmeet.nsf has to be uninstalled and the new one needs to be installed on the Domino 8.5 server (the previous version is not compatible)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -27,14 +27,14 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- User manual (009A_EN) [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-domino-8.5/signmeeting-domino-8-5-user-manual-009A_en.pdf)
-- User manual (002A FR) [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-domino-8.5/signmeeting-domino-8.5-manuel-utilisateur-002A_fr.pdf)
+- User manual (009A_EN) [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-domino-8.5/signmeeting-domino-8-5-user-manual-009A_en.pdf)
+- User manual (002A FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-domino-8.5/signmeeting-domino-8.5-manuel-utilisateur-002A_fr.pdf)
 #### **CSS FILE FOR TAB STYLE**
-- CSS File [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/theme_css_generic_V1.10.11.css)
+- CSS File [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/theme_css_generic_V1.10.11.css)
 #### **IMPORTANT NOTICE WHEN UPGRADING TO A NEW VERSION**
 - Install 'signmeet.nsf'
-	- V1.10.10 for SignMeeting V1.12.13 (and below) [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-domino-8.5/webservices/V1.10.10/signmeet.nsf)
-	- V1.10.11 for SignMeeting V1.12.14 (and above) [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-domino-8.5/webservices/V1.10.11/signmeet.nsf)
+	- V1.10.10 for SignMeeting V1.12.13 (and below) [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-domino-8.5/webservices/V1.10.10/signmeet.nsf)
+	- V1.10.11 for SignMeeting V1.12.14 (and above) [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-domino-8.5/webservices/V1.10.11/signmeet.nsf)
 - Secondly the app is installed in ScreenComposer
 #### **BASIC VERSUS SESSION AUTHENTICATION**
 http://www-10.lotus.com/ldd/ddwiki.nsf/dx/Authenticating_Domino_REST_Service_Requests
@@ -81,7 +81,7 @@ http://www-10.lotus.com/ldd/ddwiki.nsf/dx/Authenticating_Domino_REST_Service_Req
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2015-12-07` V1.12.13 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-domino-8.5/signmeeting_domino85-screen_composer-setup-1.12.13.appi)
+##`2015-12-07` V1.12.13 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-domino-8.5/signmeeting_domino85-screen_composer-setup-1.12.13.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support of *display agent activity in Domino console*
 - Add attendees list display with scrolling

@@ -4,9 +4,9 @@
 ##`2013-04-05` V3.10.10
 |              Platform                             |    Patch Install    |
 | :------------------------------------------------ | :------------------ |
-| DMC200 | [download](https://github.com/innes-labs/archives/downloads/patch-remove-upnp/remove%20upnp-dmc200-patch-3.10.10.frm) |
-| RMP200 | [download](https://github.com/innes-labs/archives/downloads/patch-remove-upnp/remove%20upnp-rmp200-patch-3.10.10.frm) |
-| DME204 | [download](https://github.com/innes-labs/archives/downloads/patch-remove-upnp/remove%20upnp-dme204-patch-3.10.10.frm) |
+| DMC200 | [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-remove-upnp/remove%20upnp-dmc200-patch-3.10.10.frm) |
+| RMP200 | [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-remove-upnp/remove%20upnp-rmp200-patch-3.10.10.frm) |
+| DME204 | [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-remove-upnp/remove%20upnp-dme204-patch-3.10.10.frm) |
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 

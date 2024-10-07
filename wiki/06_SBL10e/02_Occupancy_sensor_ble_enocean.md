@@ -6,7 +6,7 @@ The *occupancy_sensor_ble_enocean* application periodically connects to a EasyFi
 - *Red* when the sensor has detected some presence,
 - *Green* when the sensor has detected no presence.
 
-##`2023-06-22` V1.12.10 [download](https://github.com/innes-labs/archives/downloads/sbl10e/occupancy_sensor_ble_enocean/V1.12.10/bm0032_occupancy_sensor_ble_enocean-sbl10e-setup-1.12.10.bin)
+##`2023-06-22` V1.12.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/occupancy_sensor_ble_enocean/V1.12.10/bm0032_occupancy_sensor_ble_enocean-sbl10e-setup-1.12.10.bin)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Initial version
 >##### **COMPATIBILITIES**
@@ -17,11 +17,11 @@ The *occupancy_sensor_ble_enocean* application periodically connects to a EasyFi
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-User manual 1.12.10~002A_en [download](https://github.com/innes-labs/archives/downloads/sbl10e/occupancy_sensor_ble_enocean/V1.12.10/sbl10e-occupancy-sensor-ble-enocean-user_manual-1.12.10~002A_en.pdf)
+User manual 1.12.10~002A_en [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/occupancy_sensor_ble_enocean/V1.12.10/sbl10e-occupancy-sensor-ble-enocean-user_manual-1.12.10~002A_en.pdf)
 #### **QETHER**
 [Link to Qether tool](http://www.innes.pro/en/support/index.php?SBL10e/Qether)
 #### **CONFIGURATION SCRIPT TEMPLATE**
-`000000000000.js` template 004A for application `occupancy_sensor_ble_enocean` V1.12.10 (or above) [download](https://github.com/innes-labs/archives/downloads/sbl10e/occupancy_sensor_ble_enocean/V1.12.10/configuration-script-template/000000000000.js)
+`000000000000.js` template 004A for application `occupancy_sensor_ble_enocean` V1.12.10 (or above) [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/occupancy_sensor_ble_enocean/V1.12.10/configuration-script-template/000000000000.js)
 
 #OLD VERSIONS HISTORY
 ***********************************************************************

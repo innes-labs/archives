@@ -4,11 +4,11 @@
 To ensure that a widget has properly been upgraded, install the content model in your `Screen Composer G4`, edit the form of each appropriate widget and press on the **Save** button.
 
 ##`2023-02-17` Content models packs
-- `Education` 001F [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001F.zip)
-- `General` 001L [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001L.zip)
-- `Signage` 002H [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002H.zip)
-- `Tourism information` 001C [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_tourism_information-screen_composer_g4-setup-001C.zip)
-- `Traffic Info France` 001D [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001D.zip)
+- `Education` 001F [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001F.zip)
+- `General` 001L [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001L.zip)
+- `Signage` 002H [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002H.zip)
+- `Tourism information` 001C [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_tourism_information-screen_composer_g4-setup-001C.zip)
+- `Traffic Info France` 001D [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001D.zip)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "MeetingRoom Summarization - Landscape"
@@ -78,11 +78,11 @@ To ensure that a widget has properly been upgraded, install the content model in
 #### **EXAMPLES AND DOCUMENTATION**
 | Model name         |      Type             |    Download      |
 | :---------------   | :-------------------- | :--------------- |
-| MeetingRoom (all)            | User manual 1.20.11_001A_en  | [download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/meetingroom-usermanual-1.20.11-001A_en.pdf) |
-| MeetingRoom Summarization    | Orientation pictograms 001B | [download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/MeetingRoom_signalization_pictograms~001B.zip) |
-| ESII - vertical banner       | User manual 1.20.10~002B_fr  | [download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/esii-vertical-banner-usermanual-1.20.10~002B_fr.pdf) |
-| ESII - vertical banner       | User manual 1.20.10~002B_en  | [download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/esii-vertical-banner-usermanual-1.20.10~002B_en.pdf) |
-| ESII - vertical banner       | User manual 1.20.10~002B_de  | [download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/esii-vertical-banner-usermanual-1.20.10~002B_de.pdf) |
+| MeetingRoom (all)            | User manual 1.20.11_001A_en  | [download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/meetingroom-usermanual-1.20.11-001A_en.pdf) |
+| MeetingRoom Summarization    | Orientation pictograms 001B | [download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/MeetingRoom_signalization_pictograms~001B.zip) |
+| ESII - vertical banner       | User manual 1.20.10~002B_fr  | [download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/esii-vertical-banner-usermanual-1.20.10~002B_fr.pdf) |
+| ESII - vertical banner       | User manual 1.20.10~002B_en  | [download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/esii-vertical-banner-usermanual-1.20.10~002B_en.pdf) |
+| ESII - vertical banner       | User manual 1.20.10~002B_de  | [download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/esii-vertical-banner-usermanual-1.20.10~002B_de.pdf) |
 #### **REGIONALITY**
 Some content models may requires to set the appropriate regionality in the device Web user interface so that:
 
@@ -115,7 +115,7 @@ For a weather forecast off-line demo:
 
 | Model name         |      Type             |    Download      |
 | :---------------   | :-------------------- | :--------------- |
-| Weather | `weather.zip` example  | [download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/weather.zip) |
+| Weather | `weather.zip` example  | [download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/weather.zip) |
 
 #### CALENDAR COUNTDOWN
 The *Calendar countdown* displays a time countdown value, with one second accuracy, when the next event occurrence is in less than 365 days in the future.
@@ -140,22 +140,22 @@ It is advised that the device is on time, with its system clock synchronized thr
 *********************************************************************************************************
 
 ##`2023-02-01` Content models packs
-- `Education` 001F [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001F.zip)
-- `General` 001L [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001L.zip)
-- `Signage` 002G [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002G.zip)
-- `Tourism information` 001C [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_tourism_information-screen_composer_g4-setup-001C.zip)
-- `Traffic Info France` 001D [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001D.zip)
+- `Education` 001F [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001F.zip)
+- `General` 001L [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001L.zip)
+- `Signage` 002G [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002G.zip)
+- `Tourism information` 001C [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_tourism_information-screen_composer_g4-setup-001C.zip)
+- `Traffic Info France` 001D [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001D.zip)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "Education - Exams"
 	- In some case, after a migration from the version 1.10.12 (or below) to the version 1.10.13, the widget could not run anymore on Gekkota 3 middleware
 
 ##`2023-01-25` Content models packs
-- `Education` 001E [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001E.zip)
-- `General` 001L [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001L.zip)
-- `Signage` 002G [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002G.zip)
-- `Tourism information` 001C [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_tourism_information-screen_composer_g4-setup-001C.zip)
-- `Traffic Info France` 001D [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001D.zip)
+- `Education` 001E [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001E.zip)
+- `General` 001L [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001L.zip)
+- `Signage` 002G [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002G.zip)
+- `Tourism information` 001C [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_tourism_information-screen_composer_g4-setup-001C.zip)
+- `Traffic Info France` 001D [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001D.zip)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "Festivals and events - tourinsoft - Landscape"
@@ -164,11 +164,11 @@ It is advised that the device is on time, with its system clock synchronized thr
     - Initial version supporting tourism information for the fourteen next days for these departments of France: 33, 40, 64
 
 ##`2022-12-20` Content models packs
-- `Education` 001E [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001E.zip)
-- `General` 001L [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001L.zip)
-- `Signage` 002G [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002G.zip)
+- `Education` 001E [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001E.zip)
+- `General` 001L [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001L.zip)
+- `Signage` 002G [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002G.zip)
 
-- `Traffic Info France` 001D [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001D.zip)
+- `Traffic Info France` 001D [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001D.zip)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "ESII - Vertical banner"
@@ -188,10 +188,10 @@ It is advised that the device is on time, with its system clock synchronized thr
 	- Fix: the file with upper case extension could not be dropped in the form
 
 ##`2022-09-05` Content models packs
-- `Education` 001D [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001D.zip)
-- `General` 001L [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001L.zip)
-- `Signage` 002F [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002F.zip)
-- `Traffic Info France` 001D [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001D.zip)
+- `Education` 001D [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001D.zip)
+- `General` 001L [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001L.zip)
+- `Signage` 002F [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002F.zip)
+- `Traffic Info France` 001D [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001D.zip)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "Scrolling text from file"
@@ -227,10 +227,10 @@ It is advised that the device is on time, with its system clock synchronized thr
 	- Fix: change the log function to match the logs name *widget.meteored_weather*
 
 ##`2022-08-19` Content models packs
-- `Education` 001D [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001D.zip)
-- `General` 001K [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001K.zip)
-- `Signage` 002F [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002F.zip)
-- `Traffic Info France` 001D [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001D.zip)
+- `Education` 001D [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001D.zip)
+- `General` 001K [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001K.zip)
+- `Signage` 002F [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002F.zip)
+- `Traffic Info France` 001D [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001D.zip)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "Number of days without accident"
@@ -240,11 +240,11 @@ It is advised that the device is on time, with its system clock synchronized thr
     - Fix: it was not possible to drop an image as embedded image
 
 ##`2022-06-30` Content models packs
-- `Education` 001D [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001D.zip)
-- `General` 001J [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001J.zip)
-- `Signage` 002F [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002F.zip)
-- `Tourism information` 001B [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_tourism_information-screen_composer_g4-setup-001B.zip)
-- `Traffic Info France` 001D [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001D.zip)
+- `Education` 001D [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001D.zip)
+- `General` 001J [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001J.zip)
+- `Signage` 002F [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002F.zip)
+- `Tourism information` 001B [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_tourism_information-screen_composer_g4-setup-001B.zip)
+- `Traffic Info France` 001D [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001D.zip)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "MeetingRoom Summarization - Landscape" and "MeetingRoom Summarization - Portrait"
@@ -267,10 +267,10 @@ It is advised that the device is on time, with its system clock synchronized thr
         - the uri basis has been changed
 
 ##`2022-06-17` Content models packs
-- `Education` 001D [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001D.zip)
-- `General` 001J [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001J.zip)
-- `Signage` 002E [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002E.zip)
-- `Traffic Info France` 001D [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001D.zip)
+- `Education` 001D [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001D.zip)
+- `General` 001J [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001J.zip)
+- `Signage` 002E [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002E.zip)
+- `Traffic Info France` 001D [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001D.zip)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "AC3 - Real Estate"
@@ -303,10 +303,10 @@ It is advised that the device is on time, with its system clock synchronized thr
     - Fix: the meeting could not be displayed when only the date without the time was displayed in the banner
 
 ##`2022-03-15` Content models packs
-- `Education` 001C [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001C.zip)
-- `General` 001H [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001H.zip)
-- `Signage` 002D [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002D.zip)
-- `Traffic Info France` 001C [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001C.zip)
+- `Education` 001C [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001C.zip)
+- `General` 001H [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001H.zip)
+- `Signage` 002D [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002D.zip)
+- `Traffic Info France` 001C [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001C.zip)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - "Calendar countdown"
@@ -314,40 +314,40 @@ It is advised that the device is on time, with its system clock synchronized thr
 	- Fix: when a variable was dropped in a form input, the text *{$custom:variable_name}* was not pasted at the right place in the character string
 
 ##`2022-03-04` Content models packs
-- `Education` 001C [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001C.zip)
-- `General` 001G [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001G.zip)
-- `Traffic Info France` 001C [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001C.zip)
-- `Signage` 002D [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002D.zip)
+- `Education` 001C [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001C.zip)
+- `General` 001G [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001G.zip)
+- `Traffic Info France` 001C [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001C.zip)
+- `Signage` 002D [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002D.zip)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - `Digital clock`
 	- Initial version
 
 ##`2022-01-18` Content models packs
-- `Education` 001C [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001C.zip)
-- `General` 001G [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001G.zip)
-- `Traffic Info France` 001C [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001C.zip)
-- `Signage` 002D [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002D.zip)
+- `Education` 001C [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001C.zip)
+- `General` 001G [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001G.zip)
+- `Traffic Info France` 001C [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001C.zip)
+- `Signage` 002D [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002D.zip)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - `ESII - Vertical banner`
 	- Initial version
 
 ##`2022-01-18` Content models packs
-- `Education` 001C [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001C.zip)
-- `General` 001F [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001F.zip)
-- `Traffic Info France` 001C [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001C.zip)
-- `Signage` 002D [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002D.zip)
+- `Education` 001C [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001C.zip)
+- `General` 001F [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001F.zip)
+- `Traffic Info France` 001C [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001C.zip)
+- `Signage` 002D [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002D.zip)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - `ESII - Vertical banner`
 	- Initial version
 
 ##`2021-12-01` Content models packs
-- `Education` 001C [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001C.zip)
-- `General` 001F [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001F.zip)
-- `Traffic Info France` 001C [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001C.zip)
-- `Signage` 002C [Download](https://github.com/innes-labs/archives/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002C.zip)
+- `Education` 001C [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_education-screen_composer_g4-setup-001C.zip)
+- `General` 001F [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_general-screen_composer_g4-setup-001F.zip)
+- `Traffic Info France` 001C [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_traffic_info_france-screen_composer_g4-setup-001C.zip)
+- `Signage` 002C [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/content_models_packs/content_models_signage-screen_composer_g4-setup-002C.zip)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Initial version

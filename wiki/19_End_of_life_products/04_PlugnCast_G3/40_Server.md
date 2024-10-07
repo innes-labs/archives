@@ -8,14 +8,14 @@ Since the version `PlugnCast` V3.11.10, only the 64 bits version is available. T
 
 **Consequently, you may have to authorize again `PlugnCast` application ```C:\Program Files\Innes Plugncast Server\plugncast-container.exe``` to communicate through your Windows firewall.**
 
-## `2022-12-21` V3.12.18 [download nt_ia64](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast_server-nt_ia64-setup-3.12.18.exe)
+## `2022-12-21` V3.12.18 [download nt_ia64](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast_server-nt_ia64-setup-3.12.18.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: the DMB300 device models with *Gekkota 5* middleware could not be detected as phantom devices
 - Fix: the *Qeedji System AOSP 9* device models couldn't be detected as phantom devices
 >##### **USER MANUAL**
-- User manual 3.12.18~002A_fr [download](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast-on-premises-usermanual-3.12.18~002A_fr.pdf)
-- User manual 3.12.18~002A_en [download](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast-on-premises-usermanual-3.12.18~002A_en.pdf)
-- User manual 3.12.18~002A_de [download](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast-on-premises-usermanual-3.12.18~002A_de.pdf)
+- User manual 3.12.18~002A_fr [download](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast-on-premises-usermanual-3.12.18~002A_fr.pdf)
+- User manual 3.12.18~002A_en [download](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast-on-premises-usermanual-3.12.18~002A_en.pdf)
+- User manual 3.12.18~002A_de [download](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast-on-premises-usermanual-3.12.18~002A_de.pdf)
 >##### **COMPATIBILITIES**
 - Playzilla 4.13.13 (or above)
 - Gekkota G4 for device
@@ -71,14 +71,14 @@ Since the version `PlugnCast` V3.11.10, only the 64 bits version is available. T
 - ```plugncast.exe -k resetacls```:
     - allow to remove all the ACL for all the resources
 #### **SSL Server test**
-PlugnCast Server SSL over-rating, powered by Qualys SSL Labs [view report](https://github.com/innes-labs/archives/downloads/plugncast-g3/PlugnCast-Server-3.12.17-demo.plugncast.com-SSLLabs-report.pdf)
+PlugnCast Server SSL over-rating, powered by Qualys SSL Labs [view report](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/PlugnCast-Server-3.12.17-demo.plugncast.com-SSLLabs-report.pdf)
 #### **LG WebOS Signage 3.0, LG WebOS Signage 3.2, LG WebOS Signage 4.0, LG WebOS Signage 4.1**
 - For any rendering issue or video decoding issue with ```LG WebOS Signage 3.0```, ```LG WebOS Signage 3.2```, ```LG WebOS Signage 4.0``` or ```LG WebOS Signage 4.1```, you are invited to read first the monitor user manual and check the monitor capabilities. For further information, contact your LG support.
 #### **SAMSUNG Tizen SSSP 4, SAMSUNG Tizen SSSP 5, SAMSUNG Tizen SSSP 6**
 - For any rendering issues or video decoding issue with ```SAMSUNG Tizen SSSP 4```, ```SAMSUNG Tizen SSSP 5```, or ```SAMSUNG Tizen SSSP 6``` smart monitors, you are invited to read first the monitor user manual. For further information, contact your Samsung support.
     - [Example of SAMSUNG Tizen SSSP 5 release note](https://displaysolutions.samsung.com/pdf/manual/3336/DBJ_QBH_QHH_QMH_EU_WebManual_Eng_for_Europe-03_20180801.0.pdf)
 #### **MEDIAS MIGRATION GUIDE FROM PLUGNCAST G2 TO PLUGNCAST G3**
-- Documentation (FR) [download](https://github.com/innes-labs/archives/downloads/plugncast-g3/medias-migration-guide-from-plugncast-g2-to-g3-001a_fr.pdf)
+- Documentation (FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/medias-migration-guide-from-plugncast-g2-to-g3-001a_fr.pdf)
 #### **IMPORTANT NOTE WHEN MIGRATE TO MS-WINDOWS 10**
 - In case migration from MS Windows 8.X to MS Windows 10, in order to avoid losing all your PlugnCast data, save the PlugnCast G3 server file system before the migration and restore it after migration (default path ```C:\Users\Public\Documents\Innes PlugnCast Server```)
 - In case using any version MS-Windows 10, it is recommended also to inactivate MS-Windows upgrade service
@@ -107,14 +107,14 @@ PlugnCast Server SSL over-rating, powered by Qualys SSL Labs [view report](https
 - ```plugncast.exe -k resetacls```:
     - allow to remove all the ACL for all the resources
 #### **SSL Server test**
-PlugnCast Server SSL over-rating, powered by Qualys SSL Labs [view report](https://github.com/innes-labs/archives/downloads/plugncast-g3/PlugnCast-Server-3.12.17-demo.plugncast.com-SSLLabs-report.pdf)
+PlugnCast Server SSL over-rating, powered by Qualys SSL Labs [view report](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/PlugnCast-Server-3.12.17-demo.plugncast.com-SSLLabs-report.pdf)
 #### **LG WebOS Signage 3.0, LG WebOS Signage 3.2, LG WebOS Signage 4.0, LG WebOS Signage 4.1**
 - For any rendering issue or video decoding issue with ```LG WebOS Signage 3.0```, ```LG WebOS Signage 3.2```, ```LG WebOS Signage 4.0``` or ```LG WebOS Signage 4.1```, you are invited to read first the monitor user manual and check the monitor capabilities. For further information, contact your LG support.
 #### **SAMSUNG Tizen SSSP 4, SAMSUNG Tizen SSSP 5, SAMSUNG Tizen SSSP 6**
 - For any rendering issues or video decoding issue with ```SAMSUNG Tizen SSSP 4```, ```SAMSUNG Tizen SSSP 5```, or ```SAMSUNG Tizen SSSP 6``` smart monitors, you are invited to read first the monitor user manual. For further information, contact your Samsung support.
     - [Example of SAMSUNG Tizen SSSP 5 release note](https://displaysolutions.samsung.com/pdf/manual/3336/DBJ_QBH_QHH_QMH_EU_WebManual_Eng_for_Europe-03_20180801.0.pdf)
 #### **MEDIAS MIGRATION GUIDE FROM PLUGNCAST G2 TO PLUGNCAST G3**
-- Documentation (FR) [download](https://github.com/innes-labs/archives/downloads/plugncast-g3/medias-migration-guide-from-plugncast-g2-to-g3-001a_fr.pdf)
+- Documentation (FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/medias-migration-guide-from-plugncast-g2-to-g3-001a_fr.pdf)
 #### **IMPORTANT NOTE WHEN MIGRATE TO MS-WINDOWS 10**
 - In case migration from MS Windows 8.X to MS Windows 10, in order to avoid losing all your PlugnCast data, save the PlugnCast G3 server file system before the migration and restore it after migration (default path ```C:\Users\Public\Documents\Innes PlugnCast Server```)
 - In case using any version MS-Windows 10, it is recommended also to inactivate MS-Windows upgrade service
@@ -130,7 +130,7 @@ PlugnCast Server SSL over-rating, powered by Qualys SSL Labs [view report](https
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-## `2022-02-23` V3.12.17 [download nt_ia64](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast_server-nt_ia64-setup-3.12.17.exe)
+## `2022-02-23` V3.12.17 [download nt_ia64](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast_server-nt_ia64-setup-3.12.17.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Change: when an event is created inside a new .ics calendar file, it is added now without the optional *METHOD:PUBLISH* line
 - Change: updated the root trust certificates database
@@ -148,12 +148,12 @@ PlugnCast Server SSL over-rating, powered by Qualys SSL Labs [view report](https
 - Fix: special characters in the HTTP URL input of the content model form was not handled properly in preview
 - Fix: in some case, the duration per page intrinsic to the .pptx media could be not taken into account when changed manually modified with PlugnCast
 
-## `2021-08-10` V3.12.16 [download nt_ia64](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast_server-nt_ia64-setup-3.12.16.exe)
+## `2021-08-10` V3.12.16 [download nt_ia64](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast_server-nt_ia64-setup-3.12.16.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Change: the dependency between  ```cms.targets.digitalsignage.view```, ```cms.targets.digitalsignage.publication.publish```, and ```cms.targets.digitalsignage.publication.playout.edit``` permissions have been removed
 - Fix: *.svg* file was removed from the *.ics* calendar file after its edition
 
-## `2021-07-01` V3.12.15 [download nt_ia64](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast_server-nt_ia64-setup-3.12.15.exe)
+## `2021-07-01` V3.12.15 [download nt_ia64](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast_server-nt_ia64-setup-3.12.15.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for an option to associate an image for each event of a calendar file (`.ics`)
 - Add support for a *Delete the past events* button to remove all the past events from a calendar file (`.ics`)
@@ -162,13 +162,13 @@ PlugnCast Server SSL over-rating, powered by Qualys SSL Labs [view report](https
 - Fix: the outline of the form input was not visible when the input was greyed when using the *Mozilla Firefox* Web browser
 - Fix: in some case, on the off-premises PlugnCast solution, the devices-status.xml could not be detected on some frontals after several days
 
-## `2021-05-25` V3.12.14 [download nt_ia64](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast_server-nt_ia64-setup-3.12.14.exe)
+## `2021-05-25` V3.12.14 [download nt_ia64](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast_server-nt_ia64-setup-3.12.14.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: when an external frontal was created with an URL containing a publicly routable (but not ping-able) IP address, the device status could be not detected on the built-in frontal
 - Fix: some unexpected user preferences values was stored in the `frontals.js` file of the user profile
 - Change: the outline of the text inputs inactivated in the content model forms had a style with a too dark grey color
 
-## `2021-05-04` V3.12.13 [download nt_ia64](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast_server-nt_ia64-setup-3.12.13.exe)
+## `2021-05-04` V3.12.13 [download nt_ia64](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast_server-nt_ia64-setup-3.12.13.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: when several hundred devices was registered on several domains and several users was using the server, in some cases, the CPU bandwidth of the server could stay stuck to 100% forever. In this case, the server could restart or it was very difficult to connect to the server
 - Fix: in some rare case, the server could restart unintentionally
@@ -177,7 +177,7 @@ PlugnCast Server SSL over-rating, powered by Qualys SSL Labs [view report](https
 - Fix: some Russian label was not translated properly
 - Change: the opening and closing parenthesis characters are not written anymore by default in a new json file
 
-## `2021-03-03` V3.12.12 [download nt_ia64](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast_server-nt_ia64-setup-3.12.12.exe)
+## `2021-03-03` V3.12.12 [download nt_ia64](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast_server-nt_ia64-setup-3.12.12.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for a form to edit new .ics calendar file
 - Add support for Russian language
@@ -227,7 +227,7 @@ PlugnCast Server SSL over-rating, powered by Qualys SSL Labs [view report](https
 - Fix: the save button was appearing each time an URI or playfolder containing a variable was edited
 - Fix: multiple selection using the SHIFT + DOWN key was not working in the ACL dialog
 
-## `2020-07-23` V3.12.11 [download nt_ia64](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast_server-nt_ia64-setup-3.12.11.exe)
+## `2020-07-23` V3.12.11 [download nt_ia64](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast_server-nt_ia64-setup-3.12.11.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for the `calendar` variable type
 - Add support for `variable validity` metadata for the library medias
@@ -254,7 +254,7 @@ PlugnCast Server SSL over-rating, powered by Qualys SSL Labs [view report](https
 - Fix: the playfolder preview could not work when a same fallback media name was defined when the directory does not exist and when the directory is empty
 - Fix: the ACL was not applied properly after a server reboot
 
-## `2020-02-10` V3.11.11 [download nt_ia64](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast_server-nt_ia64-setup-3.11.11.exe)
+## `2020-02-10` V3.11.11 [download nt_ia64](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast_server-nt_ia64-setup-3.11.11.exe)
 >##### **IMPORTANT**
 - This version is supporting the required optimizations to support projects handling more than one thousand devices and more than one hundred domains.
 - In case you had to downgrade from `PlugnCast` nt_ia64 (64 bits) to `PlugnCast` nt_ia32 (32 bits), you have to uninstall first the `PlugnCast` nt_ia64 (64 bits) software.
@@ -278,7 +278,7 @@ PlugnCast Server SSL over-rating, powered by Qualys SSL Labs [view report](https
         - Dissolve, Clock, Flip, Cube, Box, Zoom
     - *Dynamic content* type:
         - Pan, Ferris Wheel, Rotate, Orbit
-    - View the supported transitions in your language [FR](https://github.com/innes-labs/archives/downloads/gekkota-os-sma300/transition_FR.jpg) [EN](gekkota-os-sma300/transition_EN.jpg) [DE](gekkota-os-sma300/transition_DE.jpg) [ES](gekkota-os-sma300/transition_ES.jpg)
+    - View the supported transitions in your language [FR](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-sma300/transition_FR.jpg) [EN](gekkota-os-sma300/transition_EN.jpg) [DE](gekkota-os-sma300/transition_DE.jpg) [ES](gekkota-os-sma300/transition_ES.jpg)
 - Add support for variable picker with variable type filtering in content model form
 - Add support for new user preferences to add password constraints (applied to new passwords only)
 	- For further information read the PlugnCast user manual
@@ -358,7 +358,7 @@ PlugnCast Server SSL over-rating, powered by Qualys SSL Labs [view report](https
 - Fix: when an URI or a playfolder was edited, the input to enter the path file was shifted just the line below
 - Fix: when importing a file in the library, the upper case characters of the filename was transformed in lower case characters
 
-## `2019-04-05` V3.10.51 [download nt_ia32](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast_server-nt_ia32-setup-3.10.51.exe)
+## `2019-04-05` V3.10.51 [download nt_ia32](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast_server-nt_ia32-setup-3.10.51.exe)
 >##### **IMPORTANT**
 - For users having installed the version PlugnCast Server 3.10.48 or 3.10.49, it is highly recommended to upgrade your PlugnCast server with the version 3.10.51
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -404,7 +404,7 @@ PlugnCast Server SSL over-rating, powered by Qualys SSL Labs [view report](https
 - Fix: the server could not stop rebooting as soon as a device is trying to access to the frontal (seen on MS-Windows 2008 server and MS-Windows 7 pro)
 - Fix: selecting a variable of type date in the menu *Library > Variables and functions > Date and Time* could lead to a unexpected blank screen on the edition screen
 
-## `2018-07-17` V3.10.47 [download nt_ia32](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast_server-nt_ia32-setup-3.10.47.exe)
+## `2018-07-17` V3.10.47 [download nt_ia32](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast_server-nt_ia32-setup-3.10.47.exe)
 **`Warning`**: Licenses validity detection is now activated since PlugnCast version 3.10.39. Please request to Innes, as soon as possible, and before the evaluation licenses validity ends (```30 days```):
 
 - Your licence key for the main domain of your PlugnCast server
@@ -440,7 +440,7 @@ PlugnCast Server SSL over-rating, powered by Qualys SSL Labs [view report](https
 - Fix: blank screen could be noticed when using MS-Edge Web browser
 - Fix: when editing a model, the file picker could not work when using non-ASCII characters in path filename
 
-## `2018-05-23` V3.10.45 [download nt_ia32](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast_server-nt_ia32-setup-3.10.45.exe)
+## `2018-05-23` V3.10.45 [download nt_ia32](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast_server-nt_ia32-setup-3.10.45.exe)
 **`Warning`**: Licenses validity detection is now activated since PlugnCast version 3.10.39. Please request to Innes, as soon as possible, and before the evaluation license validity end (```30 days```):
 
 - Your licence key for the main domain of your PlugnCast server
@@ -560,11 +560,11 @@ PlugnCast Server SSL over-rating, powered by Qualys SSL Labs [view report](https
 	- `Portrait 3/4`
 - Fix: when logged as an account profile other than `Super administrator`, the MS-PowerPoint medias preview was leading to PlugnCast serveur log out
 
-## `2017-11-08` V3.10.42 [download nt_ia32](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast_server-nt_ia32-setup-3.10.42.exe)
+## `2017-11-08` V3.10.42 [download nt_ia32](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast_server-nt_ia32-setup-3.10.42.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: PDF duration property was no longer displayed
 
-## `2017-10-27` V3.10.41 [download nt_ia32](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast_server-nt_ia32-setup-3.10.41.exe)
+## `2017-10-27` V3.10.41 [download nt_ia32](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast_server-nt_ia32-setup-3.10.41.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add playzilla-4.10.17 (default App for new installations)
 - Add support for .srt resource file (in library and in manifest)
@@ -619,12 +619,12 @@ PlugnCast Server SSL over-rating, powered by Qualys SSL Labs [view report](https
 - Fix: some resource added in a calendar event could lead to the message *content temporarily unavailable*
 - Fix: connected in localhost, the frontal URL could be empty after having changed your computer network configuration (http://localhost)
 
-## `2017-08-31` V3.10.40 [download nt_ia32](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast_server-nt_ia32-setup-3.10.40.exe)
+## `2017-08-31` V3.10.40 [download nt_ia32](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast_server-nt_ia32-setup-3.10.40.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: z-Index for floating zones was not working
 - Fix: Web browser refresh (*F5* key) was required to be able to continue to change layout after a drag'n drop of a floating zone over another one
 
-## `2017-07-05` V3.10.39 [download nt_ia32](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast_server-nt_ia32-setup-3.10.39.exe)
+## `2017-07-05` V3.10.39 [download nt_ia32](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast_server-nt_ia32-setup-3.10.39.exe)
 >##### **IMPORTANT**
 - Licenses validity detection is now activated in PlugnCast version 3.10.39 (and above)
 >##### **MODELS PACKAGE TO INSTALL**
@@ -699,8 +699,8 @@ PlugnCast Server SSL over-rating, powered by Qualys SSL Labs [view report](https
 - Fix: Gekkota RT nt5-ia32 (for MS-Windows XP or MS-Windows XP Embedded) firmware version could not be updated by the PlugnCast G3
 - Fix: device status (donwload status, playout names) could not be fetched properly in case using the Gekkota middleware V3.12.38
 >##### **USER MANUAL**
-- User manual 3.10.39 (001E/FR) [download](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast-manual-3.10.39-001E_fr.pdf)
-- User manual 3.10.39 (001E/DE) [download](https://github.com/innes-labs/archives/downloads/plugncast-g3/plugncast-manual-3.10.39-001E_de.pdf)
+- User manual 3.10.39 (001E/FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast-manual-3.10.39-001E_fr.pdf)
+- User manual 3.10.39 (001E/DE) [download](https://github.com/innes-labs/archives/blob/main/downloads/plugncast-g3/plugncast-manual-3.10.39-001E_de.pdf)
 
 ##`2017-03-21` V3.10.38
 >##### **IMPORTANT**

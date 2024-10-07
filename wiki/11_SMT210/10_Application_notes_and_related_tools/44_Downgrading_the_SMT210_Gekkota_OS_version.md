@@ -19,12 +19,12 @@ Consequently, it is highly recommended to save all the required parameters to be
 - network configuration
 - servers configuration
 - license key
-	- In the device configuration Web interface, go in the menu ```Configuration``` the n ```License``` and copy the license key value [View](https://github.com/innes-labs/archives/downloads/application-notes/smt210_downgrade_to_gekkota-os_3/qeedji-license.jpg)
+	- In the device configuration Web interface, go in the menu ```Configuration``` the n ```License``` and copy the license key value [View](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/smt210_downgrade_to_gekkota-os_3/qeedji-license.jpg)
 - regionality language
 
 It is possible also to prepare a configuration script which can be injected then by USB when the migration will be completed.
 
-##`2019-10-24` Gekkota OS 3.12.57 ISO Image for SMT210 [download](https://github.com/innes-labs/archives/downloads/application-notes/smt210_downgrade_to_gekkota-os_3/gekkota_os_smt210-3.12.57.iso)
+##`2019-10-24` Gekkota OS 3.12.57 ISO Image for SMT210 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/smt210_downgrade_to_gekkota-os_3/gekkota_os_smt210-3.12.57.iso)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Initial version
     - File extension: .iso
@@ -68,12 +68,12 @@ Screen
 
 Install for example `BalenaEtcher` software and execute it:
 
-- Click on the `Select image` button [View](https://github.com/innes-labs/archives/downloads/application-notes/smt210_downgrade_to_gekkota-os_3/balenaEtcher_select_image.jpg)
+- Click on the `Select image` button [View](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/smt210_downgrade_to_gekkota-os_3/balenaEtcher_select_image.jpg)
     - Select the file ```gekkota_os_smt210-3.12.57.iso```
-- Press on the `Select target` button [View](https://github.com/innes-labs/archives/downloads/application-notes/smt210_downgrade_to_gekkota-os_3/balenaEtcher_select_target.jpg)
+- Press on the `Select target` button [View](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/smt210_downgrade_to_gekkota-os_3/balenaEtcher_select_target.jpg)
     - Select carefully the storage media letter corresponding to your SD card
 - Press on the `Flash!` button.
-- Wait that the SD card flashing is completed [View](https://github.com/innes-labs/archives/downloads/application-notes/smt210_downgrade_to_gekkota-os_3/balenaEtcher_flashing.jpg) to write the ISO image on the SD card.
+- Wait that the SD card flashing is completed [View](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/smt210_downgrade_to_gekkota-os_3/balenaEtcher_flashing.jpg) to write the ISO image on the SD card.
 - Remove the `ISO image SD card` from your Windows computer.
 
 #### **GEKKOTA OS MAJOR VERSION DOWNGRADING**

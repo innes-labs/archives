@@ -10,7 +10,7 @@ The goal of this document is to explain how to install and configure a movement 
 #### **DOCUMENTATION**
 | Description                                                                      | Version |                 |
 | :------------------------------------------------------------------------------- | :-------| :-------------- |
-| Movement sensor user manual (002D/EN)                                                | 002D    | [Download](https://github.com/innes-labs/archives/downloads/application-notes/movement-sensor/movement-sensor-user-manual-002D_en.pdf) |
+| Movement sensor user manual (002D/EN)                                                | 002D    | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/movement-sensor/movement-sensor-user-manual-002D_en.pdf) |
 
 
 

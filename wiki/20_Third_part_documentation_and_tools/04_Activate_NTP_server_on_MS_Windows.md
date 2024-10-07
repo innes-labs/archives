@@ -10,7 +10,7 @@
 #### **DOCUMENTATION**
 | Description                                                                      |               |
 | :------------------------------------------------------------------------------- | :------------ |
-| Activate NTP server on MS Windows (001A_EN) | [Download](https://github.com/innes-labs/archives/downloads/application-notes/Activate-NTP-server-on-MS-Windows_001A_en.pdf) |
+| Activate NTP server on MS Windows (001A_EN) | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/Activate-NTP-server-on-MS-Windows_001A_en.pdf) |
 
 
 

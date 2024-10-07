@@ -1,7 +1,7 @@
 # JOOXTER CALENDAR
 *RELEASE NOTE*
 
-##`2023-01-25` V1.11.11 [download](https://github.com/innes-labs/archives/downloads/applets/connector-jooxter-calendar-V1.11.11/delivery/jooxter-calendar-V1.11.11.saz)
+##`2023-01-25` V1.11.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/connector-jooxter-calendar-V1.11.11/delivery/jooxter-calendar-V1.11.11.saz)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: when the working range was activated, the .xml calendar file could contain events that was out of the working range
 >##### **COMPATIBILITIES**
@@ -13,7 +13,7 @@
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-- User manual 1.11.11~001B_en [download](https://github.com/innes-labs/archives/downloads/applets/connector-jooxter-calendar-V1.11.11/delivery/briva_calendar_jooxter-user_manual-1.11.11~001B_en.pdf)
+- User manual 1.11.11~001B_en [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/connector-jooxter-calendar-V1.11.11/delivery/briva_calendar_jooxter-user_manual-1.11.11~001B_en.pdf)
 
 #### **INFORMATION**
 - URL to get the current *.ics* calendar file output by the connector:
@@ -24,7 +24,7 @@
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2022-12-28` V1.11.10 [download](https://github.com/innes-labs/archives/downloads/applets/connector-jooxter-calendar-V1.11.10/delivery/jooxter-calendar-V1.11.10.saz)
+##`2022-12-28` V1.11.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/connector-jooxter-calendar-V1.11.10/delivery/jooxter-calendar-V1.11.10.saz)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Initial version supporting these outputs format:
 	- *.ics*

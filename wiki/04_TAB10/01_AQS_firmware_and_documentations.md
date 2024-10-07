@@ -3,7 +3,7 @@
 
 *Never make electric unplug on your device while firmware upgrade is in progress else the device may not be able to work properly*
 
-##`2024-03-27` V9.10.19 [download](https://github.com/innes-labs/archives/downloads/tab10/aosp-tab10-setup-9.10.19.fqs)
+##`2024-03-27` V9.10.19 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/aosp-tab10-setup-9.10.19.fqs)
 >##### **NOTE**
 - After having upgraded the firmware version, in case an older version of URL launcher had been installed by the end user, it is advised to remove this older version of URL launcher
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -46,11 +46,11 @@
 #INFORMATION
 ***********************************************************************
 #### **USER MANUAL**
-- TAB10s Qeedji user manual 9.10.19~001D_en [download](https://github.com/innes-labs/archives/downloads/tab10/tab10s-qeedji-user_manual-9.10.19~001D_en.pdf)
-- TAB10b Qeedji user manual 9.10.19~001D_en [download](https://github.com/innes-labs/archives/downloads/tab10/tab10b-qeedji-user_manual-9.10.19~001D_en.pdf)
+- TAB10s Qeedji user manual 9.10.19~001D_en [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/tab10s-qeedji-user_manual-9.10.19~001D_en.pdf)
+- TAB10b Qeedji user manual 9.10.19~001D_en [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/tab10b-qeedji-user_manual-9.10.19~001D_en.pdf)
 #### **DEVELOPER MANUAL**
-- TAB10s developer manual 9.10.19~001C_en [Download](https://github.com/innes-labs/archives/downloads/tab10/tab10s-developer_manual-AOSP-9.10.19~001C_en.pdf)
-- TAB10b developer manual 9.10.19~001C_en [Download](https://github.com/innes-labs/archives/downloads/tab10/tab10b-developer_manual-AOSP-9.10.19~001C_en.pdf)
+- TAB10s developer manual 9.10.19~001C_en [Download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/tab10s-developer_manual-AOSP-9.10.19~001C_en.pdf)
+- TAB10b developer manual 9.10.19~001C_en [Download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/tab10b-developer_manual-AOSP-9.10.19~001C_en.pdf)
 #### **CONFIGURATION SCRIPT**
 - [Link to specific configuration script](http://www.qeedji.tech/en/support/index.php?TAB10/Application_notes_and_related_tools/Configuration_by_script)
 #### **SDK DEVELOPERS**
@@ -62,10 +62,10 @@
 #### **POWERSHELL SCRIPT**
 - [Link to setAppAsSystemApp PowerShell script](http://www.qeedji.tech/en/support/index.php?TAB10/Application_notes_and_related_tools/AQS-setAppAsSystemApp_PowerShell_script)
 #### **POWERSHELL SCRIPTS FOR AZURE ACTIVE DIRECTORY APPLICATION SUPPORT**
-- PowerShell script for Azure Active Directory Application support 1.10.18 [download](https://github.com/innes-labs/archives/downloads/scripts/powershell/Powershell_Innes_AAD-1.10.18.zip) for
+- PowerShell script for Azure Active Directory Application support 1.10.18 [download](https://github.com/innes-labs/archives/blob/main/downloads/scripts/powershell/Powershell_Innes_AAD-1.10.18.zip) for
     - Power BI Online viewer application
 #### **QEEDJI POWERPOINT PUBLISHER FOR MEDIA PLAYERS**
-- [Link to Qeedji PowerPoint Publisher for Media Players](https://github.com/innes-labs/archives/downloads/http://www.innes.pro/en/support/index.php?TAB10/Application_notes_and_related_tools/Qeedji_PowerPoint_Publisher_for_media_player) [download (nt_ia64)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.15.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.15.10.msi)
+- [Link to Qeedji PowerPoint Publisher for Media Players](https://github.com/innes-labs/archives/blob/main/downloads/http://www.innes.pro/en/support/index.php?TAB10/Application_notes_and_related_tools/Qeedji_PowerPoint_Publisher_for_media_player) [download (nt_ia64)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia64-setup-1.15.10.msi) [download (nt_ia32)](application-notes/qeedji_powerpoint_publisher_addin/qeedji_powerpoint_publisher_for_media_players-nt_ia32-setup-1.15.10.msi)
 #### **DEBUG MODE**
 The debug mode is deactivated by default
 #### **ISO FILE FOR FACTORY RECOVERY**
@@ -74,7 +74,7 @@ To get the `aosp-tab10-setup-9.10.19.iso` file for factory recovery, contact sup
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2024-01-18` V9.10.18 [download](https://github.com/innes-labs/archives/downloads/tab10/aosp-tab10-setup-9.10.18.fqs)
+##`2024-01-18` V9.10.18 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/aosp-tab10-setup-9.10.18.fqs)
 >##### **IMPORTANT**
 For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. For `AQS` V9.10.10 (or above), the *WLAN_1* interface is now priority. So after having upgraded the device with the `AQS` V9.10.10 (or above version), the device Web user interface or the device WebDAV server may be available with the IP address of the *WLAN_1* interface, instead of the one of the *LAN_1* interface
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -83,7 +83,7 @@ For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. Fo
 - Change: embed *URL Launcher* 1.10.18
 - Fix: in some case, the playback of the video media having no audio track could not start at all or could freeze on the first image of the video media
 
-##`2023-12-20` V9.10.17 [download](https://github.com/innes-labs/archives/downloads/tab10/aosp-tab10-setup-9.10.17.fqs)
+##`2023-12-20` V9.10.17 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/aosp-tab10-setup-9.10.17.fqs)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for *Power BI Online Viewer* 1.10.10 built-in App
 - Add support these two device models value in the *Device* pane of the *Information* menu in the device configuration Web interface
@@ -96,7 +96,7 @@ For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. Fo
 - Fix: the audio volume was staying to 6% after a device start-up when the reboot task happened within a power manager task
 - Fix: in some rare cases, the device could not start
 
-##`2023-09-28` V9.10.16 [download](https://github.com/innes-labs/archives/downloads/tab10/aosp-tab10-setup-9.10.16.fqs)
+##`2023-09-28` V9.10.16 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/aosp-tab10-setup-9.10.16.fqs)
 >##### **IMPORTANT**
 For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. For `AQS` V9.10.10 (or above), the *WLAN_1* interface is now priority. So after having upgraded the device with the `AQS` V9.10.10 (or above version), the device Web user interface or the device WebDAV server may be available with the IP address of the *WLAN_1* interface, instead of the one of the *LAN_1* interface
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -106,7 +106,7 @@ For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. Fo
 - Change: embed the *Media Folder Injector* App V1.10.10 vendor App in the table of installed APK in the *Apps* menu of the *Configuration* tab in the device configuration Web user interface
 - Change: embed the *URL launcher* App V1.10.16 vendor App in the table of installed APK in the *Apps* menu of the *Configuration* tab in the device configuration Web user interface
 
-##`2023-07-06` V9.10.15 [download](https://github.com/innes-labs/archives/downloads/tab10/aosp-tab10-setup-9.10.15.fqs)
+##`2023-07-06` V9.10.15 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/aosp-tab10-setup-9.10.15.fqs)
 >##### **IMPORTANT**
 For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. For `AQS` V9.10.10 (or above), the *WLAN_1* interface is now priority. So after having upgraded the device with the `AQS` V9.10.10 (or above version), the device Web user interface or the device WebDAV server may be available with the IP address of the *WLAN_1* interface, instead of the one of the *LAN_1* interface
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -117,7 +117,7 @@ For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. Fo
 - Add support for *Gallery* App in the Android App view
 - Fix: in some rare case, the AOSP middleware could not start anymore and was displaying this surround light error code: 5 consecutive short green flashes of 300 ms, periodic in alternance with 4 seconds Off
 
-##`2023-04-03` V9.10.14 [download](https://github.com/innes-labs/archives/downloads/tab10/aosp-tab10-setup-9.10.14.fqs)
+##`2023-04-03` V9.10.14 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/aosp-tab10-setup-9.10.14.fqs)
 >##### **IMPORTANT**
 For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. For `AQS` V9.10.10 (or above), the *WLAN_1* interface is now priority. So after having upgraded the device with the `AQS` V9.10.10 (or above version), the device Web user interface or the device WebDAV server may be available with the IP address of the *WLAN_1* interface, instead of the one of the *LAN_1* interface
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -146,13 +146,13 @@ For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. Fo
 - Fix: in some case, some pages of some PDF medias were drawn too slowly
 - Fix: the pictogram of the RFID tag App was not rendered properly
 
-##`2023-02-07` V9.10.13 [download](https://github.com/innes-labs/archives/downloads/tab10/aosp-tab10-setup-9.10.13.fqs)
+##`2023-02-07` V9.10.13 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/aosp-tab10-setup-9.10.13.fqs)
 >##### **IMPORTANT**
 For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. For `AQS` V9.10.10 (or above), the *WLAN_1* interface is now priority. So after having upgraded the device with the `AQS` V9.10.10 (or above version), the device Web user interface or the device WebDAV server may be available with the IP address of the *WLAN_1* interface, instead of the one of the *LAN_1* interface
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: in some cases, when using an *USB-C to Jack 3.5* adapter, the level of the *volume of multimedia contents* in the *Output* pane of the *Configuration* menu in the device configuration Web user interface could be reset to 20% causing a weak audio volume on the *Jack 3.5* connector
 
-##`2023-01-24` V9.10.12 [download](https://github.com/innes-labs/archives/downloads/tab10/aosp-tab10-setup-9.10.12.fqs)
+##`2023-01-24` V9.10.12 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/aosp-tab10-setup-9.10.12.fqs)
 >##### **IMPORTANT**
 For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. For `AQS` V9.10.10 (or above), the *WLAN_1* interface is now priority. So after having upgraded the device with the `AQS` V9.10.10 (or above version), the device Web user interface or the device WebDAV server may be available with the IP address of the *WLAN_1* interface, instead of the one of the *LAN_1* interface
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -175,7 +175,7 @@ For V9.10.10_betaX version, the *LAN_1* interface had priority over *WLAN_1*. Fo
 - Fix: the Bluetooth was activated without the user consent when pressing on the *Bluetooth address* item of the *About tablet* menu in the Android *Settings* menu
 - Fix: in the *Administration* pane of the *Configuration* tab in the device configuration Web user interface, the credential name with dot characters could not persist after reboot
 
-##`2022-12-02` V9.10.11 [download](https://github.com/innes-labs/archives/downloads/tab10/aosp-tab10-setup-9.10.11.fqs)
+##`2022-12-02` V9.10.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/aosp-tab10-setup-9.10.11.fqs)
 >##### **IMPORTANT**
 Before the V9.10.10 `AQS` version, the *LAN_1* interface had priority over *WLAN_1*. For `AQS` V9.10.10 (or above), the *WLAN_1* interface is now priority. So after having upgraded the device with the `AQS` V9.10.10 (or above version), the device Web user interface or the device WebDAV server may be available with the IP address of the *WLAN_1* interface, instead of the one of the *LAN_1* interface
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -191,7 +191,7 @@ Before the V9.10.10 `AQS` version, the *LAN_1* interface had priority over *WLAN
 	- deactivateApp()
 - Fix: the video and audio medias embedded inside MS-PowerPoint medias (.pptx, .ppsx) were not played
 
-##`2022-10-21` V9.10.10 [download](https://github.com/innes-labs/archives/downloads/tab10/aosp-tab10-setup-9.10.10.fqs)
+##`2022-10-21` V9.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/aosp-tab10-setup-9.10.10.fqs)
 >##### **IMPORTANT**
 Before V9.10.10, the *LAN_1* interface had priority over *WLAN_1*. For `AQS` V9.10.10 (or above), the *WLAN_1* interface is now priority. So after having upgraded the device with the `AQS` V9.10.10 (or above version), the device Web user interface or the device WebDAV server may be available with the IP address of the *WLAN_1* interface, instead of the one of the *LAN_1* interface
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -407,7 +407,7 @@ The firmware is now delivered with the *.fqs* file extension, which is supported
 - Fix: an unexpected AOSP pop up could be displayed above the App screen content while the user has not pressed on its `GOT IT` button
 	- *Viewing full screen, to exit swipe down to the top, GOT IT*
 
-##`2021-03-16` V9.10.10 beta7 [download](https://github.com/innes-labs/archives/downloads/tab10/aosp-tab10-setup-9.10.10_beta7.zip)
+##`2021-03-16` V9.10.10 beta7 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/aosp-tab10-setup-9.10.10_beta7.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for a WebDAV server
 	- WebDAV directories

@@ -1,7 +1,7 @@
 # DOMINO CALENDAR
 *RELEASE NOTE*
 
-##`2011-11-30` V1.10.18 [download](https://github.com/innes-labs/archives/downloads/applets/pcs-wa-domino-V1.10.16/domino-calendar-V1.10.18/domino-calendar-V1.10.18.saz)
+##`2011-11-30` V1.10.18 [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/pcs-wa-domino-V1.10.16/domino-calendar-V1.10.18/domino-calendar-V1.10.18.saz)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix server dead lock due to locked file on PHP module
 - Fix resource filtering when resource is inactivated
@@ -14,12 +14,12 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- User manual (002A/FR) [download](https://github.com/innes-labs/archives/downloads/applets/pcs-wa-domino-V1.10.16/domino-calendar-V1.10.18/domino-calendar-manuel-utilisateur-002A_fr.pdf)
+- User manual (002A/FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/pcs-wa-domino-V1.10.16/domino-calendar-V1.10.18/domino-calendar-manuel-utilisateur-002A_fr.pdf)
 #### **XML EXAMPLE**
-- XML example (1.10.10) [download](https://github.com/innes-labs/archives/downloads/applets/pcs-wa-domino-V1.10.16/domino-calendar-V1.10.18/configuration-example.xml)
+- XML example (1.10.10) [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/pcs-wa-domino-V1.10.16/domino-calendar-V1.10.18/configuration-example.xml)
 #### **MODELS PACKAGE**
-- Models package 3.10.16 [download](https://github.com/innes-labs/archives/downloads/applets/pcs-wa-domino-V1.10.16/models-V3.10.16/models-V3.10.16.zip)
-- Examples and documentation [download](https://github.com/innes-labs/archives/downloads/applets/pcs-wa-domino-V1.10.16/models-V3.10.16/examples-and-documentation.zip)
+- Models package 3.10.16 [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/pcs-wa-domino-V1.10.16/models-V3.10.16/models-V3.10.16.zip)
+- Examples and documentation [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/pcs-wa-domino-V1.10.16/models-V3.10.16/examples-and-documentation.zip)
 
 #OLD VERSIONS HISTORY
 *********************************************************************************************************

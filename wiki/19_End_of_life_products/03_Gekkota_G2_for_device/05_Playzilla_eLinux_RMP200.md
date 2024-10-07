@@ -1,7 +1,7 @@
 # Playzilla eLinux RMP200
 *RELEASE NOTE*
 
-##`2015-03-03` V2.50.73 [download](https://github.com/innes-labs/archives/downloads/playzilla-g2-rmp200/playzilla-rmp200-setup-2.50.73.zip)
+##`2015-03-03` V2.50.73 [download](https://github.com/innes-labs/archives/blob/main/downloads/playzilla-g2-rmp200/playzilla-rmp200-setup-2.50.73.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix issue in calendar with "until" function (player was playing the event one day too much in configuration "0h to 0h" or "all day long")
 >##### **COMPATIBILITIES**
@@ -12,8 +12,8 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- Getting started (FR) [download](https://github.com/innes-labs/archives/downloads/playzilla-g2-rmp200/screen-composer-getting-started-manual-with-playzilla-eLinux-09A_fr.pdf)
-- Log activation (FR) [download](https://github.com/innes-labs/archives/downloads/playzilla-g2-rmp200/Playzilla-log-activation-001A_en.pdf)
+- Getting started (FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/playzilla-g2-rmp200/screen-composer-getting-started-manual-with-playzilla-eLinux-09A_fr.pdf)
+- Log activation (FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/playzilla-g2-rmp200/Playzilla-log-activation-001A_en.pdf)
 
 #OLD VERSIONS HISTORY
 ***********************************************************************

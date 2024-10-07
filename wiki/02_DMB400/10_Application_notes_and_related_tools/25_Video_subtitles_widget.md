@@ -17,8 +17,8 @@
 #### **DOCUMENTATION**
 | Description                  | Version |                                                                                                  |
 | :----------------------------| :-------| :----------------------------------------------------------------------------------------------- |
-| video_subtitle.wgt | 1.10.11 | [Download](https://github.com/innes-labs/archives/downloads/application-notes/Video_subtitle_widget/video_subtitle-V1.10.11.wgt) |
-| subtitle.css (example)       | 1.10.10 | [Download](https://github.com/innes-labs/archives/downloads/application-notes/Video_subtitle_widget/subtitle-V1.10.10.css)       |
+| video_subtitle.wgt | 1.10.11 | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/Video_subtitle_widget/video_subtitle-V1.10.11.wgt) |
+| subtitle.css (example)       | 1.10.10 | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/Video_subtitle_widget/subtitle-V1.10.10.css)       |
 
 ### How to
 - Download the media ```video_subtitle.wgt``` and import it in your PlugnCast G3 library
@@ -65,4 +65,4 @@ The widget models is tested with the last available Smart monitors OS versions.
 *********************************************************************************************************
 | Description                  | Version |                                                                                                  |
 | :----------------------------| :-------| :----------------------------------------------------------------------------------------------- |
-| video_subtitle.wgt (example) | 1.10.10 | [Download](https://github.com/innes-labs/archives/downloads/application-notes/Video_subtitle_widget/video_subtitle-V1.10.10.wgt) |
+| video_subtitle.wgt (example) | 1.10.10 | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/Video_subtitle_widget/video_subtitle-V1.10.10.wgt) |

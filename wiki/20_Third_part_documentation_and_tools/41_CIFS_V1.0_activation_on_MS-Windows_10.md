@@ -5,4 +5,4 @@ To activate it:
 
 - reach the configuration panel ```Turn Windows features on and off```
 - go in the directory `SMB 1.0/CIFS File Sharing Support` and
-- activate the options `SMB 1.0/CIFS Server` [view](https://github.com/innes-labs/archives/downloads/third-part-tools/Windows_features_turn_on_CIFS_V1.0.png)
+- activate the options `SMB 1.0/CIFS Server` [view](https://github.com/innes-labs/archives/blob/main/downloads/third-part-tools/Windows_features_turn_on_CIFS_V1.0.png)

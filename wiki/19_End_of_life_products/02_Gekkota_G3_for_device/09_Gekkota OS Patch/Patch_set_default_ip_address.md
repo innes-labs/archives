@@ -4,14 +4,14 @@
 ##`2015-09-14` V3.11.10 (last update)
 |              Platform                             |    Patch Install    |
 | :------------------------------------------------ | :------------------ |
-| SMA300 | [download](https://github.com/innes-labs/archives/downloads/patch-set-default-ip-address/set%20default%20ip%20address-sma300-patch-3.11.10.frm) |
-| DMB300 | [download](https://github.com/innes-labs/archives/downloads/patch-set-default-ip-address/set%20default%20ip%20address-dmb300-patch-3.11.10.frm) |
-| DMC200 | [download](https://github.com/innes-labs/archives/downloads/patch-set-default-ip-address/set%20default%20ip%20address-dmc200-patch-3.11.10.frm) |
-| SMA200 | [download](https://github.com/innes-labs/archives/downloads/patch-set-default-ip-address/set%20default%20ip%20address-sma200-patch-3.11.10.frm) |
-| SMT210 | [download](https://github.com/innes-labs/archives/downloads/patch-set-default-ip-address/set%20default%20ip%20address-smt210-patch-3.11.10.frm) |
-| SMP200 | [download](https://github.com/innes-labs/archives/downloads/patch-set-default-ip-address/set%20default%20ip%20address-smp200-patch-3.11.10.frm) |
-| RMP200 | [download](https://github.com/innes-labs/archives/downloads/patch-set-default-ip-address/set%20default%20ip%20address-rmp200-patch-3.11.10.frm) |
-| DME204 | [download](https://github.com/innes-labs/archives/downloads/patch-set-default-ip-address/set%20default%20ip%20address-dme204-patch-3.11.10.frm) |
+| SMA300 | [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-set-default-ip-address/set%20default%20ip%20address-sma300-patch-3.11.10.frm) |
+| DMB300 | [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-set-default-ip-address/set%20default%20ip%20address-dmb300-patch-3.11.10.frm) |
+| DMC200 | [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-set-default-ip-address/set%20default%20ip%20address-dmc200-patch-3.11.10.frm) |
+| SMA200 | [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-set-default-ip-address/set%20default%20ip%20address-sma200-patch-3.11.10.frm) |
+| SMT210 | [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-set-default-ip-address/set%20default%20ip%20address-smt210-patch-3.11.10.frm) |
+| SMP200 | [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-set-default-ip-address/set%20default%20ip%20address-smp200-patch-3.11.10.frm) |
+| RMP200 | [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-set-default-ip-address/set%20default%20ip%20address-rmp200-patch-3.11.10.frm) |
+| DME204 | [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-set-default-ip-address/set%20default%20ip%20address-dme204-patch-3.11.10.frm) |
 
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**

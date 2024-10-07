@@ -3,7 +3,7 @@
 
 *Attention not compatible with Screen Composer V3.20.10*
 
-##`2015-06-09` V1.11.17 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-gesroom/signmeeting_gesroom-screen_composer-setup-1.11.17.appi)
+##`2015-06-09` V1.11.17 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-gesroom/signmeeting_gesroom-screen_composer-setup-1.11.17.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add confirmation screen when pressing "Room is empty" button
 - Add support "book now"
@@ -34,9 +34,9 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- User manual (EN) [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-gesroom/signmeeting-gesroom-calendar-user-manual-002A_en.pdf)
+- User manual (EN) [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-gesroom/signmeeting-gesroom-calendar-user-manual-002A_en.pdf)
 #### **CSS FILE FOR TAB STYLE**
-- CSS File [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/theme_css_generic_V1.10.11.css)
+- CSS File [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/theme_css_generic_V1.10.11.css)
 #### **NOTE FOR CONFIRM MY PRESENCE**
 - Button "Confirm my presence" from architecture 1.11.XX is not supported
 #### **NOTE FOR ATTACHMENT**
@@ -56,6 +56,6 @@
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2014-10-17` V1.10.51 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-gesroom/signmeeting_gesroom-screen_composer-setup-1.10.51.appi)
+##`2014-10-17` V1.10.51 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-gesroom/signmeeting_gesroom-screen_composer-setup-1.10.51.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Compatibility with Screen Composer 3.11.x

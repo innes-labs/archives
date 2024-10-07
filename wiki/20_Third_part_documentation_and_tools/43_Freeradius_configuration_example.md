@@ -8,7 +8,7 @@ The aim of this documentation is to show a short overview of a FreeRadius config
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-- FreeRadius configuration overview 001A/EN [Download](https://github.com/innes-labs/archives/downloads/third-part-tools/freeradius-server-configuration-example-001A_en.pdf)
+- FreeRadius configuration overview 001A/EN [Download](https://github.com/innes-labs/archives/blob/main/downloads/third-part-tools/freeradius-server-configuration-example-001A_en.pdf)
 #### **COMPATIBILITIES**
 - Gekkota OS 4.13.10 for device
 	- DMB400

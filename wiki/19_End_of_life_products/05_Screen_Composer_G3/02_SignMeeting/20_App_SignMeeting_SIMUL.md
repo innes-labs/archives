@@ -1,14 +1,14 @@
 # SignMeeting SIMULATOR
 *RELEASE NOTE*
 
-##`2020-01-13` V1.13.11 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-setup-1.13.11.appi)
+##`2020-01-13` V1.13.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-setup-1.13.11.appi)
 >##### **IMPORTANT**
 - For users having existing `SignMeeting` projects in the previous version `SignMeeting 1.12.XX`,
 	- Install `Screen Composer V3.20.15`
 	- Open your existing SignMeeting project, import the new App `SignMeeting version 1.13.11`
 	- To complete the migration, **edit the SignMeeting's form** as usual. Save the form by pressing on the `Finish` button and close the form.
 	- Edit the SignMeeting's form once again to check the version shown in the form.
-		- The label version **V1.13.10** on the top right corner of the form indicates that the migration has been completed [see the version](https://github.com/innes-labs/archives/downloads/SignMeeting_upgrade_to_V1.13.11.jpg)
+		- The label version **V1.13.10** on the top right corner of the form indicates that the migration has been completed [see the version](https://github.com/innes-labs/archives/blob/main/downloads/SignMeeting_upgrade_to_V1.13.11.jpg)
 		- In case the version is still 1.12.XX, go in the Screen Composer menu ```Settings > Preferences > Project and App``` and click on the App version ```Upgrade``` button. For further information, contact support@innes.pro
 	- Warning: some legacy custom-script V1.12.XX which are allowing for some customer to create some custom button may be not compatible with the SignMeeting V1.13.10 because some of them are using some deprecated xpf function. The customers which are using custom scripts are invited to use the new ones in the version 1.13.10 available for download below in the part **CUSTOM SCRIPTS FOR EXTRA BUTTONS EXAMPLE**. In case your script is not available here, contact support@innes.pro to get the custom script in the new version 1.13.10.
     	- Custom buttons examples :
@@ -54,18 +54,18 @@
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-- User manual 1.13.11-001E/EN [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-simulator/signmeeting-simul-user-manual-1.13.11-001E_en.pdf)
+- User manual 1.13.11-001E/EN [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-simulator/signmeeting-simul-user-manual-1.13.11-001E_en.pdf)
 #### **CSS FILE FOR THE DIFFERENT DISPLAY PROFILS**
-- CSS File V1.13.10 for *Room Screen* display profil  [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_1.13.10.css)
-- CSS File V1.13.10 for *Room Label* display profil [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_label/signmeeting_theme_room_label_1.13.10.css)
-- CSS File V1.13.10 for *Summary screen by resource* display profil [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/summary_screen_by_resource/signmeeting_theme_summarization_by_resource_1.13.10.css)
+- CSS File V1.13.10 for *Room Screen* display profil  [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_1.13.10.css)
+- CSS File V1.13.10 for *Room Label* display profil [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_label/signmeeting_theme_room_label_1.13.10.css)
+- CSS File V1.13.10 for *Summary screen by resource* display profil [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/summary_screen_by_resource/signmeeting_theme_summarization_by_resource_1.13.10.css)
 #### **CUSTOM SCRIPTS FOR EXTRA BUTTONS EXAMPLE**
-- meetingControlDistech V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDistech_1.13.10.js)
-- meetingControlDistechWithAuth V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDistechWithAuth_1.13.10.js)
-- meetingControlDoor V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDoor_1.13.10.js)
-- meetingControlSM V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlSM_1.13.10.js)
+- meetingControlDistech V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDistech_1.13.10.js)
+- meetingControlDistechWithAuth V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDistechWithAuth_1.13.10.js)
+- meetingControlDoor V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDoor_1.13.10.js)
+- meetingControlSM V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlSM_1.13.10.js)
 #### **CUSTOM SCRIPTS TO SUPPORT E500 638 ENOCEAN MOTION SENSOR**
-- meetingControlEnOceanMotionSensor V1.13.11 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlEnOceanMotionSensor_1.13.11.js)
+- meetingControlEnOceanMotionSensor V1.13.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlEnOceanMotionSensor_1.13.11.js)
 	- the script is suitable for *RoomLabel* display profil (SMH300) and is not suitable for tablet and media players.
 	- when meeting confirmation is supported your calendar system, it allows to check in automatically a meeting when people are detected in the room.
 	- the check in by script can work only when the meeting is really pending (does not work inside the anticipated display period)
@@ -74,14 +74,14 @@
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2019-06-17` V1.13.10 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-setup-1.13.10.appi)
+##`2019-06-17` V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-setup-1.13.10.appi)
 >##### **IMPORTANT**
 - For users having existing `SignMeeting` projects in the previous version `SignMeeting 1.12.XX`,
 	- Install `Screen Composer V3.20.15`
 	- Open your existing SignMeeting project, import the new App `SignMeeting version 1.13.10`
 	- To complete the migration, **edit the SignMeeting's form** as usual. Save the form by pressing on the `Finish` button and close the form.
 	- Edit the SignMeeting's form once again to check the version shown in the form.
-		- The label version **V1.13.10** on the top right corner of the form indicates that the migration has been completed [see the version](https://github.com/innes-labs/archives/downloads/SignMeeting_upgrade_to_V1.13.10.jpg)
+		- The label version **V1.13.10** on the top right corner of the form indicates that the migration has been completed [see the version](https://github.com/innes-labs/archives/blob/main/downloads/SignMeeting_upgrade_to_V1.13.10.jpg)
 		- In case the version is still 1.12.XX, go in the Screen Composer menu ```Settings > Preferences > Project and App``` and click on the App version ```Upgrade``` button. For further information, contact support@innes.pro
 	- Warning: some legacy custom-script V1.12.XX which are allowing for some customer to create some custom button may be not compatible with the SignMeeting V1.13.10 because some of them are using some deprecated xpf function. The customers which are using custom scripts are invited to use the new ones in the version 1.13.10 available for download below in the part **CUSTOM SCRIPTS FOR EXTRA BUTTONS EXAMPLE**. In case your script is not available here, contact support@innes.pro to get the custom script in the new version 1.13.10.
     	- Custom buttons examples :
@@ -141,7 +141,7 @@
 - Fix: the label of the *Notification* button could be too large
 - Fix: add possibility for several SLATE106 device to display the meeting information of a same room
 
-##`2017-08-04` V1.12.27 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-setup-1.12.27.appi)
+##`2017-08-04` V1.12.27 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-setup-1.12.27.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for *Room label* display profil for SMH300 device (connected with SLATE106 devices)
 - Fix: time zone management
@@ -158,17 +158,17 @@
 - LDAP V3 (used by Windows Server 2000/Active directory and above Windows Server version)
 - Briva LDAP
 >#### **CSS FILE FOR THE DIFFERENT DISPLAY PROFILS**
-- CSS File for *Room Screen* display profil V1.12.20 (for SignMeeting version V1.12.20 or above) [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_screen/theme_css_generic_V1.12.20.css)
-- CSS File for *Room Screen* display profil V1.12.12 (for SignMeeting version V1.12.19 or below) [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_screen/theme_css_generic_V1.12.12.css)
-- CSS File for *Summary screen by resource* display profil V1.12.22 (for SignMeeting version V1.10.22 or above) [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/summary_screen_by_resource/theme_roomgrid_sm_1.12.22.css)
-- CSS File for *Room Label* display profil V1.12.27B (for SignMeeting version V1.12.27 or above) [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_label/label_default_sm_1.12.27B.css)
+- CSS File for *Room Screen* display profil V1.12.20 (for SignMeeting version V1.12.20 or above) [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_screen/theme_css_generic_V1.12.20.css)
+- CSS File for *Room Screen* display profil V1.12.12 (for SignMeeting version V1.12.19 or below) [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_screen/theme_css_generic_V1.12.12.css)
+- CSS File for *Summary screen by resource* display profil V1.12.22 (for SignMeeting version V1.10.22 or above) [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/summary_screen_by_resource/theme_roomgrid_sm_1.12.22.css)
+- CSS File for *Room Label* display profil V1.12.27B (for SignMeeting version V1.12.27 or above) [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_label/label_default_sm_1.12.27B.css)
 
-##`2017-05-22` V1.12.26 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-setup-1.12.26.appi)
+##`2017-05-22` V1.12.26 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-setup-1.12.26.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for *German* language
 - Fix: it was not possible to program a meeting the day after with SignMeeting (german language only)
 
-##`2017-01-12` V1.12.23 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-setup-1.12.23.appi)
+##`2017-01-12` V1.12.23 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-setup-1.12.23.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add new day format (Summary screen by resource)
 	- *ddd mm yyyy*
@@ -203,7 +203,7 @@
 	- ex: ```start```: *Monday 9th*, ```all day``` long (no recurrence) until ```end:``` *Friday 13th*
 - Fix: In order to be able to display background content, general theme needed to be activated first. By contrary, in order to be able to display Playzilla background, general theme needed to be inactivated
 
-##`2016-06-13` V1.12.19 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-setup-1.12.19.appi)
+##`2016-06-13` V1.12.19 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-setup-1.12.19.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add ```Attribute 1``` and ```Attribute 2``` research option in interface *Datasource* / *Advanced* permitting to get additional information coming from LDAP directory (which can be inserted in the meeting title afterwards)
 	- Attribute 1 and Attribute 2 can have any attributes of LDAP attribute editor. It is advised to use string or integer format
@@ -234,12 +234,12 @@
 - Fix: connection error was not well raised to the user when LDAP server was not responding
 - Fix: In console mode, check LDAP filter matching for each RFID badging
 
-##`2016-03-10` V1.12.16 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-setup-1.12.16.appi)
+##`2016-03-10` V1.12.16 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-setup-1.12.16.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix: could not be able to collect the meeting if AVCmd profile is activated (stuck in standby mode)
 - Fix: when exiting TV screen standby, could not be able to collect the meeting until next refresh timeout (now refresh timeout is decreased to 3 minutes when screen is in standby and standby duration is upper than refresh timeout)
 
-##`2016-02-26` V1.12.15 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-setup-1.12.15.appi)
+##`2016-02-26` V1.12.15 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-setup-1.12.15.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add new items in event detail
 	-  number of attendees (at the right of attendees)
@@ -257,7 +257,7 @@
 - Fix: in some cases, when current meeting is finished and this meeting is the last one, the meeting could remain inconsistently in next meeting
 - Fix: sometimes after a publishing, event was not displayed before refresh timeout (specific to SIMUL where access time to server is close to 0 sec)
 
-##`2015-12-07` V1.12.13 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-setup-1.12.13.appi)
+##`2015-12-07` V1.12.13 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-setup-1.12.13.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support new API CSS class in device edition permitting to display, when there is a meeting in room screen, to give possibility to have a CSS theme different for each player
 	- require theme_css_generic-V1.10.12.css (available for download)
@@ -270,7 +270,7 @@
 - Fix: pressing "room is emptied" the second time was doing nothing (in case reccurent meeting)
 - Fix: attendees could be displayed on 2 lines instead be scrolled on 1 line (Room screen)
 
-##`2015-10-12` V1.12.12 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-setup-1.12.12.appi)
+##`2015-10-12` V1.12.12 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-setup-1.12.12.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add attendees list display with scrolling
 - Add support for a signs library (72 icons) or signs importation (for resources in summary screen)

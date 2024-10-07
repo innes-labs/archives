@@ -1,7 +1,7 @@
 # GESROOM CALENDAR
 *RELEASE NOTE*
 
-##`2016-09-21` V1.10.11 [download](https://github.com/innes-labs/archives/downloads/applets/connector-gesroom-V1.10.11/delivery/gesroom-calendar-V1.10.11.saz)
+##`2016-09-21` V1.10.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/connector-gesroom-V1.10.11/delivery/gesroom-calendar-V1.10.11.saz)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Change: full path of .asmx file need to be written in the configuration.xml
 	- ```http://<your-safeware-gesroom-server>.hds-group.com/ws_innes/WSINNES.asmx```
@@ -22,9 +22,9 @@
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-- Installation guide 002A/EN [download](https://github.com/innes-labs/archives/downloads/applets/connector-gesroom-V1.10.10/delivery/gesroom-calendar-user-manual-002A_en.pdf)
+- Installation guide 002A/EN [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/connector-gesroom-V1.10.10/delivery/gesroom-calendar-user-manual-002A_en.pdf)
 #### **WEB SERVICES INNES**
-- Safeware Web Services for Innes V1.10.10 [download](https://github.com/innes-labs/archives/downloads/applets/connector-gesroom-V1.10.10/delivery/WebServicesInnes-V1.10.10.zip)
+- Safeware Web Services for Innes V1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/connector-gesroom-V1.10.10/delivery/WebServicesInnes-V1.10.10.zip)
 #### **MODELS PACKAGE**
 - Install Model package 3.32 to get the last version of Meeting Room
 #### **NOTE TO EXPORT CALENDAR ICS FROM APPLET PHP**

@@ -10,14 +10,14 @@
 
 |              Platform                             |    Patch Install    |
 | :------------------------------------------------ | :------------------ |
-| SMA300 | [download](https://github.com/innes-labs/archives/downloads/patch-pncg2-ftp-to-http/pncg2%20ftp%20to%20http-sma300-patch-3.10.11.frm) |
-| DMB300 | [download](https://github.com/innes-labs/archives/downloads/patch-pncg2-ftp-to-http/pncg2%20ftp%20to%20http-dmb300-patch-3.10.11.frm) |
-| DMC200 | [download](https://github.com/innes-labs/archives/downloads/patch-pncg2-ftp-to-http/pncg2%20ftp%20to%20http-dmc200-patch-3.10.11.frm) |
-| SMT210 | [download](https://github.com/innes-labs/archives/downloads/patch-pncg2-ftp-to-http/pncg2%20ftp%20to%20http-smt210-patch-3.10.11.frm) |
-| SMP200 | [download](https://github.com/innes-labs/archives/downloads/patch-pncg2-ftp-to-http/pncg2%20ftp%20to%20http-smp200-patch-3.10.11.frm) |
-| SMA200 | [download](https://github.com/innes-labs/archives/downloads/patch-pncg2-ftp-to-http/pncg2%20ftp%20to%20http-sma200-patch-3.10.11.frm) |
-| EEEBOX | [download](https://github.com/innes-labs/archives/downloads/patch-pncg2-ftp-to-http/pncg2%20ftp%20to%20http-eeebox-patch-3.10.11.frm) |
-| LCAN |   [download](https://github.com/innes-labs/archives/downloads/patch-pncg2-ftp-to-http/pncg2%20ftp%20to%20http-lcan-patch-3.10.11.frm) |
+| SMA300 | [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-pncg2-ftp-to-http/pncg2%20ftp%20to%20http-sma300-patch-3.10.11.frm) |
+| DMB300 | [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-pncg2-ftp-to-http/pncg2%20ftp%20to%20http-dmb300-patch-3.10.11.frm) |
+| DMC200 | [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-pncg2-ftp-to-http/pncg2%20ftp%20to%20http-dmc200-patch-3.10.11.frm) |
+| SMT210 | [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-pncg2-ftp-to-http/pncg2%20ftp%20to%20http-smt210-patch-3.10.11.frm) |
+| SMP200 | [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-pncg2-ftp-to-http/pncg2%20ftp%20to%20http-smp200-patch-3.10.11.frm) |
+| SMA200 | [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-pncg2-ftp-to-http/pncg2%20ftp%20to%20http-sma200-patch-3.10.11.frm) |
+| EEEBOX | [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-pncg2-ftp-to-http/pncg2%20ftp%20to%20http-eeebox-patch-3.10.11.frm) |
+| LCAN |   [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-pncg2-ftp-to-http/pncg2%20ftp%20to%20http-lcan-patch-3.10.11.frm) |
 
 
 ##`2015-12-15` V3.10.10

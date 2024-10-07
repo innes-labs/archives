@@ -14,18 +14,18 @@
 - Check your device type, and choose the appropriate *USB format* or *USB recovery* patch for your platform among the choices below. Only the *USB format* patches for DMB300 and DMC200 are available
 
 #### **USB FORMAT**
-##`2019-07-03` DMB300 3.12.57 [download](https://github.com/innes-labs/archives/downloads/patch-format-and-recovery/usb-format-DMB300-V3.12.57.zip)
-##`2019-07-03` DMC200 3.12.57 [download](https://github.com/innes-labs/archives/downloads/patch-format-and-recovery/usb-format-DMC200-V3.12.57.zip)
+##`2019-07-03` DMB300 3.12.57 [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-format-and-recovery/usb-format-DMB300-V3.12.57.zip)
+##`2019-07-03` DMC200 3.12.57 [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-format-and-recovery/usb-format-DMC200-V3.12.57.zip)
 
 #### **USB RECOVERY**
-##`2019-07-03` DMB300 3.12.57 [download](https://github.com/innes-labs/archives/downloads/patch-format-and-recovery/usb-recovery-DMB300-V3.12.57.zip)
-##`2019-07-03` DMC200 3.12.57 [download](https://github.com/innes-labs/archives/downloads/patch-format-and-recovery/usb-recovery-DMC200-V3.12.57.zip)
+##`2019-07-03` DMB300 3.12.57 [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-format-and-recovery/usb-recovery-DMB300-V3.12.57.zip)
+##`2019-07-03` DMC200 3.12.57 [download](https://github.com/innes-labs/archives/blob/main/downloads/patch-format-and-recovery/usb-recovery-DMC200-V3.12.57.zip)
 
 
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-- Gekkota_os USB Format & USB Recovery 004A/EN [Download](https://github.com/innes-labs/archives/downloads/patch-format-and-recovery/Gekkota-usb-format-or-usb-recovery-004A_en.pdf)
+- Gekkota_os USB Format & USB Recovery 004A/EN [Download](https://github.com/innes-labs/archives/blob/main/downloads/patch-format-and-recovery/Gekkota-usb-format-or-usb-recovery-004A_en.pdf)
 
 
 

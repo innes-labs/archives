@@ -38,7 +38,7 @@ This document explains how to configure `Gekkota OS` to play a Power BI Web page
 - Even if the server data are updated periodically, once published infinitely on the device, the content of the report Web page is not updated. To work around, you can use a custom .html file to refresh the `Power BI Report Server` Web page
     - Warning: To work properly, the .html page must contain an URL of a Power BI Report Web page having the `Power BI Report Server` header containing also the `Refresh` button
         - ```http://<user>:<password>@<server_ip_addr>:<port>/Reports/powerbi/test```,
-    - Download the `power-bi-report-server-15.0-with-refresh.html` html example [download](https://github.com/innes-labs/archives/downloads/application-notes/powerbi/power-bi-report-server-15.0-with-refresh-V1.10.11.html)
+    - Download the `power-bi-report-server-15.0-with-refresh.html` html example [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/powerbi/power-bi-report-server-15.0-with-refresh-V1.10.11.html)
     - Edit the HTML file,
         - replace by your own `Power BI Report Server` URL: ```const powerBiUrl="http://<user>:<pass>@ip:port/Reports/powerbi/test"```
         - set the refresh period of the Power BI report Web page content according to you needs: ```const refreshInterval = 300; // seconds```

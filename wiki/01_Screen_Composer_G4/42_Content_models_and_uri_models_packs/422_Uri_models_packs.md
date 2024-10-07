@@ -2,9 +2,9 @@
 *RELEASE NOTE*
 
 ##`2022-03-29` Uri models packs
-- TV channels France 001A [Download](https://github.com/innes-labs/archives/downloads/addons/uri_models_packs/uris-chaines_tv_france_demodulateur_dvb_t-screen_composer_g4-setup-001A.zip)
-- Device peripherals 001A [Download](https://github.com/innes-labs/archives/downloads/addons/uri_models_packs/uris-peripheral_device-screen_composer_g4-setup-001A.zip)
-- Web TV channels 003A [Download](https://github.com/innes-labs/archives/downloads/addons/uri_models_packs/uris-web_tv_channels-screen_composer_g4-setup-003A.zip)
+- TV channels France 001A [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/uri_models_packs/uris-chaines_tv_france_demodulateur_dvb_t-screen_composer_g4-setup-001A.zip)
+- Device peripherals 001A [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/uri_models_packs/uris-peripheral_device-screen_composer_g4-setup-001A.zip)
+- Web TV channels 003A [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/uri_models_packs/uris-web_tv_channels-screen_composer_g4-setup-003A.zip)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for the following URI model names
@@ -90,9 +90,9 @@
 ***********************************************************************
 
 ##`2022-03-07` Uri models packs
-- TV channels France 001A [Download](https://github.com/innes-labs/archives/downloads/addons/uri_models_packs/uris-chaines_tv_france_demodulateur_dvb_t-screen_composer_g4-setup-001A.zip)
-- Device peripherals 001A [Download](https://github.com/innes-labs/archives/downloads/addons/uri_models_packs/uris-peripheral_device-screen_composer_g4-setup-001A.zip)
-- Web TV channels 002A [Download](https://github.com/innes-labs/archives/downloads/addons/uri_models_packs/uris-web_tv_channels-screen_composer_g4-setup-002A.zip)
+- TV channels France 001A [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/uri_models_packs/uris-chaines_tv_france_demodulateur_dvb_t-screen_composer_g4-setup-001A.zip)
+- Device peripherals 001A [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/uri_models_packs/uris-peripheral_device-screen_composer_g4-setup-001A.zip)
+- Web TV channels 002A [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/uri_models_packs/uris-web_tv_channels-screen_composer_g4-setup-002A.zip)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for the following URI model names
@@ -104,9 +104,9 @@
 	- *RT France - FR*
 
 ##`2021-12-01` Uri models packs
-- TV channels France 001A [Download](https://github.com/innes-labs/archives/downloads/addons/uri_models_packs/uris-chaines_tv_france_demodulateur_dvb_t-screen_composer_g4-setup-001A.zip)
-- Device peripherals 001A [Download](https://github.com/innes-labs/archives/downloads/addons/uri_models_packs/uris-peripheral_device-screen_composer_g4-setup-001A.zip)
-- Web TV channels 001A [Download](https://github.com/innes-labs/archives/downloads/addons/uri_models_packs/uris-web_tv_channels-screen_composer_g4-setup-001A.zip)
+- TV channels France 001A [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/uri_models_packs/uris-chaines_tv_france_demodulateur_dvb_t-screen_composer_g4-setup-001A.zip)
+- Device peripherals 001A [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/uri_models_packs/uris-peripheral_device-screen_composer_g4-setup-001A.zip)
+- Web TV channels 001A [Download](https://github.com/innes-labs/archives/blob/main/downloads/addons/uri_models_packs/uris-web_tv_channels-screen_composer_g4-setup-001A.zip)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for Russian metadata

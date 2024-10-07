@@ -48,7 +48,7 @@ Due to MS-PowerPoint issue, opening the MS-PowerPoint media is breaking all the 
 #### **DOCUMENTATION**
 | Description                                                                      | Version |                 |
 | :------------------------------------------------------------------------------- | :-------| :-------------- |
-| MS-PowerPoint example (EN)                              | 001E    | [Download](https://github.com/innes-labs/archives/downloads/application-notes/tools/powerpoint_variable_example-001E.pptx) |
+| MS-PowerPoint example (EN)                              | 001E    | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/tools/powerpoint_variable_example-001E.pptx) |
 #### **TO LINK A TEXT INPUT TO A DEVICE VARIABLE**
 - In MS-PowerPoint
 	- Select a text input

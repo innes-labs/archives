@@ -15,7 +15,7 @@
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-- Fail soft mode user guide - 003D/EN [Download](https://github.com/innes-labs/archives/downloads/application-notes/Fail-Soft-Mode-behaviour-003D_en.pdf)
+- Fail soft mode user guide - 003D/EN [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/Fail-Soft-Mode-behaviour-003D_en.pdf)
 
 
 

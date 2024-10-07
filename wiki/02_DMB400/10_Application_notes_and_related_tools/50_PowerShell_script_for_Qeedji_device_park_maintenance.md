@@ -48,6 +48,6 @@ The result of the *Powershell* function is stored in a JSON file containing firm
 
 #INFORMATION
 ***********************************************************************
-##`2024-07-05` qeedji_device-park_maintenance-powershell_script-V1.10.10.zip [download](https://github.com/innes-labs/archives/downloads/scripts/powershell/qeedji_device-park_maintenance-powershell_script-V1.10.10.zip)
+##`2024-07-05` qeedji_device-park_maintenance-powershell_script-V1.10.10.zip [download](https://github.com/innes-labs/archives/blob/main/downloads/scripts/powershell/qeedji_device-park_maintenance-powershell_script-V1.10.10.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Initial version

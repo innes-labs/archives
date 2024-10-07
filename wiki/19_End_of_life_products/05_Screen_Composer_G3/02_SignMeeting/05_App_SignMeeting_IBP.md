@@ -3,7 +3,7 @@
 
 *Attention not compatible with Screen Composer V3.20.10*
 
-##`2015-06-09` V1.11.17 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-ibp/signmeeting_ibp-screen_composer-setup-1.11.17.appi)
+##`2015-06-09` V1.11.17 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-ibp/signmeeting_ibp-screen_composer-setup-1.11.17.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add a confirmation screen when pressing "Room is empty" button
 - Add support "book now"
@@ -33,9 +33,9 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- User manual (EN) [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-ibp/signmeeting-ibp-calendar-user-manual-001A_en.pdf)
+- User manual (EN) [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-ibp/signmeeting-ibp-calendar-user-manual-001A_en.pdf)
 #### **CSS FILE FOR TAB STYLE**
-- CSS File [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/theme_sm_generic_V1.10.10.css)
+- CSS File [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/theme_sm_generic_V1.10.10.css)
 #### **NOTE FOR ATTACHMENT**
 - Option display "Attachment" from architecture 1.11.XX is not supported
 #### **NOTE FOR RESOURCE DESCRIPTION**
@@ -53,7 +53,7 @@
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2014-11-25` V1.10.53 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-ibp/signmeeting_ibp-screen_composer-setup-1.10.53.appi)
+##`2014-11-25` V1.10.53 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-ibp/signmeeting_ibp-screen_composer-setup-1.10.53.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Fix all features for the standard version
 

@@ -12,8 +12,8 @@
 #### **DOCUMENTATION**
 | Description                                                                      | Version |                 |
 | :------------------------------------------------------------------------------- | :-------| :-------------- |
-| Device XML status (EN)                            | 001A       | [Download](https://github.com/innes-labs/archives/downloads/application-notes/Gekkota_XML_Status.pdf) |
-| Device XML example                                       | 1.10.10    | [Download](https://github.com/innes-labs/archives/downloads/application-notes/status.022000d0-0000-0000-0000-001ce6020170.xml) |
+| Device XML status (EN)                            | 001A       | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/Gekkota_XML_Status.pdf) |
+| Device XML example                                       | 1.10.10    | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/status.022000d0-0000-0000-0000-001ce6020170.xml) |
 
 
 

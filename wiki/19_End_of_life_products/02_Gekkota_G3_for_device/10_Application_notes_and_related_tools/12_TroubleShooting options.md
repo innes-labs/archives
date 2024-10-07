@@ -8,7 +8,7 @@
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-- Troubleshooting options 001M/EN [Download](https://github.com/innes-labs/archives/downloads/application-notes/troubleshooting/Gekkota-troubleshooting-options-001M_en.pdf)
+- Troubleshooting options 001M/EN [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/troubleshooting/Gekkota-troubleshooting-options-001M_en.pdf)
 
 
 

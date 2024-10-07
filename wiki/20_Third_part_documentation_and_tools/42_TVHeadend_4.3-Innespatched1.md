@@ -4,7 +4,7 @@ The ```Tvheadend 4.3-InnesPatched1``` is a patched version of the ```TVheadend 4
 
 Innes has submitted this software patch as contributor to the TVheadend communauty in September 2019 so that is it integrated soon in a next official ```TVheadend``` release. Waiting this, the patched version ```Tvheadend 4.3-InnesPatched1``` is available for download below. Follow the procedure to install it.
 
-##`2019-10-15` Tvheadend 4.3-InnesPatched1 [download](https://github.com/innes-labs/archives/downloads/third-part-tools/raspberry-pi_patches/tvheadend_4.3-InnesPatched1~raspbianstretch_armhf.deb)
+##`2019-10-15` Tvheadend 4.3-InnesPatched1 [download](https://github.com/innes-labs/archives/blob/main/downloads/third-part-tools/raspberry-pi_patches/tvheadend_4.3-InnesPatched1~raspbianstretch_armhf.deb)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for DVB-T to UDP gateway feature
 	- Based on ```TVheadend``` application, version 4.3
@@ -151,7 +151,7 @@ With
 <udp_port> = UDP destination port
 ```
 
-You can find the local channel number of your service in the ```TVheadend``` GUI in the menu ```Configuration > DVB Inputs > Services``` [view example](https://github.com/innes-labs/archives/downloads/third-part-tools/raspberry-pi_patches/TVheadend_local_channel_number.jpg)
+You can find the local channel number of your service in the ```TVheadend``` GUI in the menu ```Configuration > DVB Inputs > Services``` [view example](https://github.com/innes-labs/archives/blob/main/downloads/third-part-tools/raspberry-pi_patches/TVheadend_local_channel_number.jpg)
 
 It is possible to start several UDP stream at a time with the conditions that the service to stream are hosted on the same multiplex:
 
@@ -315,17 +315,17 @@ To see the tuner status (lock frequency, BER, SNR, bandwidth), go in the menu ``
 - the SNR (Signal to Noise ratio) is consistent (in dB)  and evaluated regularly
 - the Signal strength (in dBm) is consistent and evaluated regularly
 
-[view tuner status](https://github.com/innes-labs/archives/downloads/third-part-tools/raspberry-pi_patches/TVheadend_check_tuner_status.jpg)
+[view tuner status](https://github.com/innes-labs/archives/blob/main/downloads/third-part-tools/raspberry-pi_patches/TVheadend_check_tuner_status.jpg)
 
 #### **TVHEADEND: APPENDIX TO CHECK RUNNING SUBSCRIPTIONS**
 To see the running subscriptions, go in the menu ```Status > Subscriptions```. The feature ```DVB-T to UDP gateway``` is the subscription whose the title is ```UDP```.
 
-[view running subscriptions](https://github.com/innes-labs/archives/downloads/third-part-tools/raspberry-pi_patches/TVheadend_check_subscriptions.jpg)
+[view running subscriptions](https://github.com/innes-labs/archives/blob/main/downloads/third-part-tools/raspberry-pi_patches/TVheadend_check_subscriptions.jpg)
 
 #### **TVHEADEND: APPENDIX TO CHECK RUNNING CONNECTIONS**
 To see the running connections, go in the menu ```Status > Connections```. The feature ```DVB-T to UDP gateway``` is the connections whose the type is ```UDP```.
 
-[view running connections](https://github.com/innes-labs/archives/downloads/third-part-tools/raspberry-pi_patches/TVheadend_check_connections.jpg)
+[view running connections](https://github.com/innes-labs/archives/blob/main/downloads/third-part-tools/raspberry-pi_patches/TVheadend_check_connections.jpg)
 
 Innes does not bring support for the TVheadend application using. So you are invited to visit official Web site or TVheadend tutorials. For any question, contact sales@innes.fr
 ```

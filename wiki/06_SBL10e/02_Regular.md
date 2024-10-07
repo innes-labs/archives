@@ -3,7 +3,7 @@
 
 The *Regular* application supports the light driving, with the device Web user interface and with Web services. This application is put by default on the SBL10e device at factory.
 
-##`2023-06-22` V1.12.10 [download](https://github.com/innes-labs/archives/downloads/sbl10e/regular/V1.12.10/bm0032_regular-sbl10e-setup-1.12.10.bin)
+##`2023-06-22` V1.12.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/regular/V1.12.10/bm0032_regular-sbl10e-setup-1.12.10.bin)
 >##### **IMPORTANT**
 - Change: support only the *discover* command from Qether V1.12.10 (and above)
 - Change: support only the *configure* command from Qether V1.12.10 (and above)
@@ -22,17 +22,17 @@ The *Regular* application supports the light driving, with the device Web user i
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-User manual 1.12.10~002A_en [download](https://github.com/innes-labs/archives/downloads/sbl10e/regular/V1.12.10/sbl10e-regular-user_manual-1.12.10~002A_en.pdf)
+User manual 1.12.10~002A_en [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/regular/V1.12.10/sbl10e-regular-user_manual-1.12.10~002A_en.pdf)
 #### **QETHER**
 [Link to Qether tool](http://www.innes.pro/en/support/index.php?SBL10e/Qether)
 #### **CONFIGURATION SCRIPT TEMPLATE**
-`000000000000.js` template 004A for `regular` 1.12.10 (or above) [download](https://github.com/innes-labs/archives/downloads/sbl10e/regular/V1.12.10/configuration-script-template/000000000000.js)
+`000000000000.js` template 004A for `regular` 1.12.10 (or above) [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/regular/V1.12.10/configuration-script-template/000000000000.js)
 
 
 #OLD VERSIONS HISTORY
 ***********************************************************************
 
-##`2022-05-13` V1.11.12 [download](https://github.com/innes-labs/archives/downloads/sbl10e/regular/V1.11.12/bm0032_regular-sbl10e-setup-1.11.12.bin)
+##`2022-05-13` V1.11.12 [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/regular/V1.11.12/bm0032_regular-sbl10e-setup-1.11.12.bin)
 >##### **IMPORTANT**
 - Change: does support the *discover* command from only Qether V1.12.10 (and above)
 - Change: does support the *configure* command from only Qether V1.12.10 (and above)
@@ -94,7 +94,7 @@ User manual 1.12.10~002A_en [download](https://github.com/innes-labs/archives/do
 - SBL10e device
 - Qether 1.12.10 (or above)
 >#### **PREFS.JSON EXAMPLE**
-`prefs.json` example for `regular` [download](https://github.com/innes-labs/archives/downloads/sbl10e/regular/V1.10.15/prefs-json-example/prefs.json)
+`prefs.json` example for `regular` [download](https://github.com/innes-labs/archives/blob/main/downloads/sbl10e/regular/V1.10.15/prefs-json-example/prefs.json)
 
 ##`2021-09-07` V1.10.13
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**

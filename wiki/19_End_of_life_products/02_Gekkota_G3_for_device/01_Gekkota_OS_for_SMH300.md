@@ -3,7 +3,7 @@
 
 *Never make electric unplug on your SMH300 while software upgrade is in progress (green led enlightened for few minutes) else it may not be able to work properly*
 
-##`2018-02-20` V3.12.52 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smh300/gekkota_os-smh300-setup-3.12.52.zip)
+##`2018-02-20` V3.12.52 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smh300/gekkota_os-smh300-setup-3.12.52.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for the embedded version *PictureFrame V1.10.13*
 - Add support for working schedule policy
@@ -54,31 +54,31 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- Installation Guide (005A/EN) [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smh300/SMH300-installation-guide-005A_en.pdf)
-- Drill pattern [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smh300/DS-SMHDRP-A.vsd.pdf)
+- Installation Guide (005A/EN) [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smh300/SMH300-installation-guide-005A_en.pdf)
+- Drill pattern [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smh300/DS-SMHDRP-A.vsd.pdf)
 #### **SUPPORTED MEDIAS**
-- Gekkota supported medias and performances [download](https://github.com/innes-labs/archives/downloads/gekkota-supported-medias-and-performances.pdf)
+- Gekkota supported medias and performances [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-supported-medias-and-performances.pdf)
 
 #OLD VERSIONS HISTORY
 ***********************************************************************
 
-##`2017-10-12` V3.12.48 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smh300/gekkota_os-smh300-setup-3.12.48.zip)
+##`2017-10-12` V3.12.48 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smh300/gekkota_os-smh300-setup-3.12.48.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for the embedded version *Pictureframe V1.10.12*
 
-##`2017-09-15` V3.12.46 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smh300/gekkota_os-smh300-setup-3.12.46.zip)
+##`2017-09-15` V3.12.46 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smh300/gekkota_os-smh300-setup-3.12.46.zip)
 >##### **IMPORTANT**
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for the embedded version *Pictureframe V1.10.11*
 
-##`2017-08-04` V3.12.45 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smh300/gekkota_os-smh300-setup-3.12.45.zip)
+##`2017-08-04` V3.12.45 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smh300/gekkota_os-smh300-setup-3.12.45.zip)
 >##### **IMPORTANT**
 - Warning: if required, do modify the PIN code only after the SLATE106 device has been paired else SMH300 may never manage to pair the device
 - When using 20 SLATE106 devices, don't set the polling period below 10 minutes else the last SLATE106 devices of the list could not be updated properly
 - Add support for the embedded version *Pictureframe V1.10.10*
 
-##`2017-07-17` V3.12.43 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smh300/gekkota_os-smh300-setup-3.12.43.zip)
+##`2017-07-17` V3.12.43 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smh300/gekkota_os-smh300-setup-3.12.43.zip)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for authentication with PIN code
 	- ```innes.slate-hub-srv.cfg.pictureframe.```

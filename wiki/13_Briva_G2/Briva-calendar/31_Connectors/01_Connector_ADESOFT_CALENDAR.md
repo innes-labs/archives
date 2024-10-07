@@ -1,7 +1,7 @@
 # ADESOFT CALENDAR
 *RELEASE NOTE*
 
-##`2015-11-25` V1.10.10 [download](https://github.com/innes-labs/archives/downloads/applets/connector-adesoft-V1.10.10/delivery/adesoft-calendar-V1.10.10.saz)
+##`2015-11-25` V1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/connector-adesoft-V1.10.10/delivery/adesoft-calendar-V1.10.10.saz)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Initial version
 >##### **MODELS PACKAGE**
@@ -18,7 +18,7 @@
 #INFORMATION
 ***********************************************************************
 #### **DOCUMENTATION**
-- Installation guide (002A/EN) [download](https://github.com/innes-labs/archives/downloads/applets/connector-adesoft-V1.10.10/delivery/adesoft-calendar-user-manual-002A_en.pdf)
+- Installation guide (002A/EN) [download](https://github.com/innes-labs/archives/blob/main/downloads/applets/connector-adesoft-V1.10.10/delivery/adesoft-calendar-user-manual-002A_en.pdf)
 #### **MODELS PACKAGE**
 - Install Model package 3.24 to get the last version of Meeting Room
 #### **NOTE TO EXPORT CALENDAR ICS FROM APPLET PHP**

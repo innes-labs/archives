@@ -1,7 +1,7 @@
 # SignMeeting SIMULATOR
 *RELEASE NOTE*
 
-##`2023-04-19` V2.12.11 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-addin-2.12.11.appi)
+##`2023-04-19` V2.12.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-addin-2.12.11.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for *Gekkota 5*
 - Add support for PDF media or MS-PowerPoint media as screen saver
@@ -58,29 +58,29 @@
 #INFORMATION
 ***********************************************************************
 #### **USER MANUAL**
-- SignMeeting SIMUL User manual 2.12.11~001A_en [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-simulator/screen-composer-signmeeting-simul-usermanual-2.12.11~001A_en.pdf)
+- SignMeeting SIMUL User manual 2.12.11~001A_en [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-simulator/screen-composer-signmeeting-simul-usermanual-2.12.11~001A_en.pdf)
 #### **CSS FILE FOR THE DIFFERENT DISPLAY PROFILES**
-- CSS File for *Room Screen* display profile - Default dark theme [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_dark-001C.css)
-- CSS File for *Room Screen* display profile - Default light theme [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_light-001C.css)
-- CSS File for *Summary screen by event* display profile - Default theme [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/summary_screen_by_event/signmeeting_theme_summary_screen_by_event-001B.css)
-- CSS File for *Summary screen by resource* display profile - Default theme [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/summary_screen_by_resource/signmeeting_theme_summary_screen_by_resource-001B.css)
-- CSS File for *Room label* display profile - Default theme [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_label/signmeeting_theme_room_label-001B.css)
+- CSS File for *Room Screen* display profile - Default dark theme [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_dark-001C.css)
+- CSS File for *Room Screen* display profile - Default light theme [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_light-001C.css)
+- CSS File for *Summary screen by event* display profile - Default theme [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/summary_screen_by_event/signmeeting_theme_summary_screen_by_event-001B.css)
+- CSS File for *Summary screen by resource* display profile - Default theme [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/summary_screen_by_resource/signmeeting_theme_summary_screen_by_resource-001B.css)
+- CSS File for *Room label* display profile - Default theme [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_label/signmeeting_theme_room_label-001B.css)
 #### **CUSTOM SCRIPTS EXAMPLE FOR EXTERNAL DEVICES AVAILABLE BY ETHERNET**
-- meetingControlDistech 001A [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDistech_001A.js)
-- meetingControlDistechWithAuth 001A [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDistechWithAuth_001A.js)
+- meetingControlDistech 001A [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDistech_001A.js)
+- meetingControlDistechWithAuth 001A [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDistechWithAuth_001A.js)
 #### **CUSTOM SCRIPTS EXAMPLE FOR EXTERNAL DEVICES AVAILABLE BY GPIO**
-- meetingControlSM 001A [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlSM_001A.js)
+- meetingControlSM 001A [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlSM_001A.js)
 #### **CUSTOM SCRIPTS EXAMPLE FOR EXTERNAL DEVICES AVAILABLE BY BLUETOOTH**
-- meetingControlEnOceanMotionSensor 001A [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlEnOceanMotionSensor_001A.js)
+- meetingControlEnOceanMotionSensor 001A [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlEnOceanMotionSensor_001A.js)
 
 # HISTORY
 ***********************************************************************
 
-##`2022-08-22` V2.11.12 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-addin-2.11.12.appi)
+##`2022-08-22` V2.11.12 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-addin-2.11.12.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for `AQS` for AMP300 media players
 
-##`2022-05-18` V2.11.11 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-addin-2.11.11.appi)
+##`2022-05-18` V2.11.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-addin-2.11.11.appi)
 >##### **IMPORTANT**
 - Not compatible with Qeedji Gekkota OS G3 device and Gekkota RT G3
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -100,7 +100,7 @@
 - Fix: a publication error was raised when a font file or an image file was added in the *linked medias* part of the form
 - Fix: in some case, in the *Device* tab of SignMeeting form, the window *Setting the display profile for the device* could be opened instead of the window *Setting the resource for the display profile* (and reciprocally)
 
-##`2022-02-04` V2.11.10 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-addin-2.11.10.appi)
+##`2022-02-04` V2.11.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-addin-2.11.10.appi)
 >##### **IMPORTANT**
 - Not compatible with Qeedji Gekkota OS G3 device and Gekkota RT G3
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
@@ -108,7 +108,7 @@
 - Change: when edited, the data source is highlighted in light green style instead of yellow style
 - Fix: it was not possible anymore to watch the reservation for the room resources situated into the second reservation and consultation page
 
-##`2021-08-04` V2.10.11 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-addin-2.10.11.appi)
+##`2021-08-04` V2.10.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-addin-2.10.11.appi)
 >##### **IMPORTANT**
 - This version implies to load a *.css* file to customize the color of the theme for the *Summary screen by event* display profile
 - Migration from SignMeeting 1.13.11 to SignMeeting 2.10.zz is not yet supported
@@ -119,7 +119,7 @@
 >##### **KNOWN LIMITATIONS**
 - *Apply a filter to RFID detection* in the RFID tab is not supported for Qeedji TAB10s
 
-##`2021-06-28` V2.10.10 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-addin-2.10.10.appi)
+##`2021-06-28` V2.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-simulator/signmeeting_simul-screen_composer-addin-2.10.10.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for these display profiles
     - *Summary screen by resource*

@@ -1,14 +1,14 @@
 # SignMeeting GRR
 *RELEASE NOTE*
 
-##`2021-01-19` V1.13.11 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-grr/signmeeting_grr-screen_composer-setup-1.13.11.appi)
+##`2021-01-19` V1.13.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-grr/signmeeting_grr-screen_composer-setup-1.13.11.appi)
 >##### **IMPORTANT**
 - For users having existing `SignMeeting` projects in the previous version `SignMeeting 1.11.XX`,
     - Install `Screen Composer V3.20.15`
     - Open your existing SignMeeting project, import the new App `SignMeeting version 1.13.10`
     - To complete the migration, **edit the SignMeeting's form** as usual. Save the form by pressing on the `Finish` button and close the form.
     - Edit the SignMeeting's form once again to check the version shown in the form.
-        - The label version **V1.13.10** on the top right corner of the form indicates that the migration has been completed [see the version](https://github.com/innes-labs/archives/downloads/SignMeeting_upgrade_to_V1.13.11.jpg)
+        - The label version **V1.13.10** on the top right corner of the form indicates that the migration has been completed [see the version](https://github.com/innes-labs/archives/blob/main/downloads/SignMeeting_upgrade_to_V1.13.11.jpg)
         - In case the version is still 1.11.XX, go in the Screen Composer menu ```Settings > Preferences > Project and App``` and click on the App version ```Upgrade``` button. For further information, contact support@innes.pro
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for *Book now* button for *Room label* display profil
@@ -52,32 +52,32 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- User manual 1.13.11-001E/EN [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-grr/signmeeting-grr-user-manual-1.13.11-001E_en.pdf)
+- User manual 1.13.11-001E/EN [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-grr/signmeeting-grr-user-manual-1.13.11-001E_en.pdf)
 #### **CSS FILE FOR THE DIFFERENT DISPLAY PROFILS**
-- CSS File V1.13.11 for *Room Screen* display profil [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_1.13.11.css)
-- CSS File V1.13.10 for *Room Label* display profil [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_label/signmeeting_theme_room_label_1.13.10.css)
-- CSS File V1.13.10 for *Summary screen by resource* display profil [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/summary_screen_by_resource/signmeeting_theme_summarization_by_resource_1.13.10.css)
+- CSS File V1.13.11 for *Room Screen* display profil [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_1.13.11.css)
+- CSS File V1.13.10 for *Room Label* display profil [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_label/signmeeting_theme_room_label_1.13.10.css)
+- CSS File V1.13.10 for *Summary screen by resource* display profil [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/summary_screen_by_resource/signmeeting_theme_summarization_by_resource_1.13.10.css)
 #### **CUSTOM SCRIPTS FOR EXTRA BUTTONS EXAMPLES**
-- meetingControlDistech V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDistech_1.13.10.js)
-- meetingControlDistechWithAuth V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDistechWithAuth_1.13.10.js)
-- meetingControlDoor V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDoor_1.13.10.js)
-- meetingControlSM V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlSM_1.13.10.js)
+- meetingControlDistech V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDistech_1.13.10.js)
+- meetingControlDistechWithAuth V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDistechWithAuth_1.13.10.js)
+- meetingControlDoor V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDoor_1.13.10.js)
+- meetingControlSM V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlSM_1.13.10.js)
 #### **CUSTOM SCRIPTS TO SUPPORT E500 638 ENOCEAN MOTION SENSOR**
-- meetingControlEnOceanMotionSensor V1.13.11 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlEnOceanMotionSensor_1.13.11.js)
+- meetingControlEnOceanMotionSensor V1.13.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlEnOceanMotionSensor_1.13.11.js)
 	- the script is suitable for *RoomLabel* display profil (SMH300) and is not suitable for tablet and media players.
 	- the *pendingFreeDelay* variable at the beginning of the script allows to define the timeout (by default, 15 minutes) before checking out (declaring that the room is empty and has to be shortened)
 
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2019-06-17` V1.13.10 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-grr/signmeeting_grr-screen_composer-setup-1.13.10.appi)
+##`2019-06-17` V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-grr/signmeeting_grr-screen_composer-setup-1.13.10.appi)
 >##### **IMPORTANT**
 - For users having existing `SignMeeting` projects in the previous version `SignMeeting 1.11.XX`,
     - Install `Screen Composer V3.20.15`
     - Open your existing SignMeeting project, import the new App `SignMeeting version 1.13.10`
     - To complete the migration, **edit the SignMeeting's form** as usual. Save the form by pressing on the `Finish` button and close the form.
     - Edit the SignMeeting's form once again to check the version shown in the form.
-        - The label version **V1.13.10** on the top right corner of the form indicates that the migration has been completed [see the version](https://github.com/innes-labs/archives/downloads/SignMeeting_upgrade_to_V1.13.10.jpg)
+        - The label version **V1.13.10** on the top right corner of the form indicates that the migration has been completed [see the version](https://github.com/innes-labs/archives/blob/main/downloads/SignMeeting_upgrade_to_V1.13.10.jpg)
         - In case the version is still 1.11.XX, go in the Screen Composer menu ```Settings > Preferences > Project and App``` and click on the App version ```Upgrade``` button. For further information, contact support@innes.pro
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for Gekkota 4 devices
@@ -192,7 +192,7 @@
 - Add support for *German* language
 - Add support for custom Javascript file permitting to control SignMeeting buttons (JavaScript provided only for some specific customers)
 
-##`2015-06-10` V1.11.17 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-grr/signmeeting_grr-screen_composer-setup-1.11.17.appi)
+##`2015-06-10` V1.11.17 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-grr/signmeeting_grr-screen_composer-setup-1.11.17.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add confirmation screen when pressing "Room is empty" button
 - Add: return to main screen when timeout "no user activity" of screen "book a meeting" has expired (based on IDLE api)
@@ -203,7 +203,7 @@
 - Fix error message not displayed when the player not properly configured
 - Fix "Book now" button availability issue when playing with navigation menu
 
-##`2015-01-16` V1.11.15 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-grr/signmeeting_grr-screen_composer-setup-1.11.15.appi)
+##`2015-01-16` V1.11.15 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-grr/signmeeting_grr-screen_composer-setup-1.11.15.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Change split the date and time display in two lines with different formats
 - Change default value to false for parameter 'return to the background when no meeting'

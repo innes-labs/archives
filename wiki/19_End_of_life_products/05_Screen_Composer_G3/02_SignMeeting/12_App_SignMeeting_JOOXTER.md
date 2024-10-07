@@ -1,7 +1,7 @@
 # SignMeeting JOOXTER
 *RELEASE NOTE*
 
-##`2021-06-11` V1.13.11 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-jooxter/signmeeting_jooxter-screen_composer-setup-1.13.11.appi)
+##`2021-06-11` V1.13.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-jooxter/signmeeting_jooxter-screen_composer-setup-1.13.11.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for *Book now* button for *Room label* display profile
 - Add support for NFC badging with *Room label* display profile as well as for *Room Screen* display profile
@@ -83,19 +83,19 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- User manual (002A/EN) [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-jooxter/signmeeting-jooxter-user-manual-002A_en.pdf)
+- User manual (002A/EN) [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-jooxter/signmeeting-jooxter-user-manual-002A_en.pdf)
 
 #### **CSS FILE FOR THE DIFFERENT DISPLAY PROFILS**
-- CSS File V1.13.11 for *Room Screen* display profile  [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_1.13.11.css)
-- CSS File V1.13.10 for *Room Label* display profile [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_label/signmeeting_theme_room_label_1.13.10.css)
-- CSS File V1.13.10 for *Summary screen by resource* display profile [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/summary_screen_by_resource/signmeeting_theme_summarization_by_resource_1.13.10.css)
+- CSS File V1.13.11 for *Room Screen* display profile  [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_1.13.11.css)
+- CSS File V1.13.10 for *Room Label* display profile [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_label/signmeeting_theme_room_label_1.13.10.css)
+- CSS File V1.13.10 for *Summary screen by resource* display profile [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/summary_screen_by_resource/signmeeting_theme_summarization_by_resource_1.13.10.css)
 #### **CUSTOM SCRIPTS FOR EXTRA BUTTONS EXAMPLE**
-- meetingControlDistech V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDistech_1.13.10.js)
-- meetingControlDistechWithAuth V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDistechWithAuth_1.13.10.js)
-- meetingControlDoor V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDoor_1.13.10.js)
-- meetingControlSM V1.13.10 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlSM_1.13.10.js)
+- meetingControlDistech V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDistech_1.13.10.js)
+- meetingControlDistechWithAuth V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDistechWithAuth_1.13.10.js)
+- meetingControlDoor V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDoor_1.13.10.js)
+- meetingControlSM V1.13.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlSM_1.13.10.js)
 #### **CUSTOM SCRIPTS TO SUPPORT E500 638 ENOCEAN MOTION SENSOR**
-- meetingControlEnOceanMotionSensor V1.13.11 [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlEnOceanMotionSensor_1.13.11.js)
+- meetingControlEnOceanMotionSensor V1.13.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlEnOceanMotionSensor_1.13.11.js)
 	- the script is suitable for *RoomLabel* display profile (SMH300) and is not suitable for tablet and media players.
 	- when meeting confirmation is supported your calendar system, it allows to check in automatically a meeting when people are detected in the room.
 	- the check in by script can work only when the meeting is really pending (does not work inside the anticipated display period)
@@ -104,7 +104,7 @@
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
-##`2017-07-12` V1.12.27 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-jooxter/signmeeting_jooxter-screen_composer-setup-1.12.27.appi)
+##`2017-07-12` V1.12.27 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-jooxter/signmeeting_jooxter-screen_composer-setup-1.12.27.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Change: improve resource drag'n drop accuracy to support properly SMH300/SLATE106 devices
 - Change: when a new device is newly registered, a screen is prompted to enter the appropriate layout for this new device (default: *Room screen* or *Room label*)
@@ -118,6 +118,6 @@
 - LDAP V3 (used by Windows Server 2000/Active directory and above Windows Server version)
 - Briva LDAP
 
-##`2017-05-22` V1.12.26 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-jooxter/signmeeting_jooxter-screen_composer-setup-1.12.26.appi)
+##`2017-05-22` V1.12.26 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-jooxter/signmeeting_jooxter-screen_composer-setup-1.12.26.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Initial release

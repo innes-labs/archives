@@ -1,7 +1,7 @@
 # SignMeeting Requea
 *RELEASE NOTE*
 
-##`2023-08-24` V2.12.10 [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-requea/signmeeting_requea-screen_composer-addin-2.12.10.appi)
+##`2023-08-24` V2.12.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-requea/signmeeting_requea-screen_composer-addin-2.12.10.appi)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Initial version for Screen Composer G4
 >##### **KNOWN LIMITATIONS**
@@ -40,21 +40,21 @@
 #INFORMATION
 ***********************************************************************
 #### **USER MANUAL**
-- SignMeeting Requea user manual 2.12.10~001A_en [download](https://github.com/innes-labs/archives/downloads/app-signmeeting-requea/screen-composer-signmeeting-requea-usermanual-2.12.10~001A_en.pdf)
+- SignMeeting Requea user manual 2.12.10~001A_en [download](https://github.com/innes-labs/archives/blob/main/downloads/app-signmeeting-requea/screen-composer-signmeeting-requea-usermanual-2.12.10~001A_en.pdf)
 #### **CSS FILE FOR THE DIFFERENT DISPLAY PROFILES**
-- CSS File for *Room Screen* display profile - Default dark theme [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_dark-001C.css)
-- CSS File for *Room Screen* display profile - Default light theme [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_light-001C.css)
-- CSS File for *Summary screen by event* display profile - Default theme [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/summary_screen_by_event/signmeeting_theme_summary_screen_by_event-001B.css)
-- CSS File for *Summary screen by resource* display profile - Default theme [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/summary_screen_by_resource/signmeeting_theme_summary_screen_by_resource-001B.css)
-- CSS File for *Room label* display profile - Default theme [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/room_label/signmeeting_theme_room_label-001B.css)
+- CSS File for *Room Screen* display profile - Default dark theme [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_dark-001C.css)
+- CSS File for *Room Screen* display profile - Default light theme [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_screen/signmeeting_theme_room_screen_light-001C.css)
+- CSS File for *Summary screen by event* display profile - Default theme [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/summary_screen_by_event/signmeeting_theme_summary_screen_by_event-001B.css)
+- CSS File for *Summary screen by resource* display profile - Default theme [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/summary_screen_by_resource/signmeeting_theme_summary_screen_by_resource-001B.css)
+- CSS File for *Room label* display profile - Default theme [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/room_label/signmeeting_theme_room_label-001B.css)
 #### **CUSTOM SCRIPTS EXAMPLE FOR EXTERNAL DEVICES AVAILABLE BY ETHERNET**
-- meetingControlDistech 001A [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDistech_001A.js)
-- meetingControlDistechWithAuth 001A [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlDistechWithAuth_001A.js)
+- meetingControlDistech 001A [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDistech_001A.js)
+- meetingControlDistechWithAuth 001A [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlDistechWithAuth_001A.js)
 #### **CUSTOM SCRIPTS EXAMPLE FOR EXTERNAL DEVICES AVAILABLE BY GPIO**
-- meetingControlSM 001A [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlSM_001A.js)
-- meetingControlOpenTheDoor 001A [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlOpenTheDoor_001A.js)
+- meetingControlSM 001A [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlSM_001A.js)
+- meetingControlOpenTheDoor 001A [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlOpenTheDoor_001A.js)
 #### **CUSTOM SCRIPTS EXAMPLE FOR EXTERNAL DEVICES AVAILABLE BY BLUETOOTH**
-- meetingControlEnOceanMotionSensor 001A [download](https://github.com/innes-labs/archives/downloads/application-notes-signmeeting/custom-js/meetingControlEnOceanMotionSensor_001A.js)
+- meetingControlEnOceanMotionSensor 001A [download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes-signmeeting/custom-js/meetingControlEnOceanMotionSensor_001A.js)
 
 # HISTORY
 ***********************************************************************

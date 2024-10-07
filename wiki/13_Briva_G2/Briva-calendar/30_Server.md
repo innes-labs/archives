@@ -1,7 +1,7 @@
 # Briva-calendar server
 *RELEASE NOTE*
 
-##`2014-12-31` V2.10.10 [download](https://github.com/innes-labs/archives/downloads/briva-calendar_server/Innes%20Briva%20Server%20Setup%20V2.10.10.exe)
+##`2014-12-31` V2.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/briva-calendar_server/Innes%20Briva%20Server%20Setup%20V2.10.10.exe)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Initial version
 >##### **COMPATIBILITIES**
@@ -11,7 +11,7 @@
 #INFORMATION
 ***********************************************************************
 #### **USER GUIDE**
-- User guide (FR) [download](https://github.com/innes-labs/archives/downloads/briva-calendar_server/Briva-Manuel-de-démarrage-rapide-avec-Playzilla-Windows-001A_fr.pdf)
+- User guide (FR) [download](https://github.com/innes-labs/archives/blob/main/downloads/briva-calendar_server/Briva-Manuel-de-démarrage-rapide-avec-Playzilla-Windows-001A_fr.pdf)
 
 #### **SERVER MACHINE PREREQUISITE**
 - Production date:

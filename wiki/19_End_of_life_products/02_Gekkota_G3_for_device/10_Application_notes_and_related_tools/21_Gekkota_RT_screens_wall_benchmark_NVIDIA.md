@@ -47,7 +47,7 @@
 #### **DOCUMENTATION**
 | Description                                                                      | Version |                 |
 | :------------------------------------------------------------------------------- | :-------| :-------------- |
-| Gekkota RT - Screen wall - benchmark NVIDIA graphics cards           | 001F/EN    | [Download](https://github.com/innes-labs/archives/downloads/application-notes/GekkotaRT-graphics-cards-benchmark-for-multi-screen-001F_en.pdf) |
+| Gekkota RT - Screen wall - benchmark NVIDIA graphics cards           | 001F/EN    | [Download](https://github.com/innes-labs/archives/blob/main/downloads/application-notes/GekkotaRT-graphics-cards-benchmark-for-multi-screen-001F_en.pdf) |
 
 
 

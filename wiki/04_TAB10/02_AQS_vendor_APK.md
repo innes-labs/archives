@@ -4,9 +4,9 @@
 *Never make electric unplug on your device while APK installation is in progress*
 
 ##`2024-03-27` vendor APK for TAB10 device
-- `URL Launcher` 1.10.19 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/url_launcher-qeedjisystem_aosp-setup-1.10.19.apk)
-- `Media Folder Injector` 1.10.10 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/media_folder_injector-qeedjisystem_aosp-setup-1.10.10.apk)
-- `Power BI Online Viewer` 1.10.11 [download](https://github.com/innes-labs/archives/downloads/amp300/APK/powerbi_online_viewer-qeedjisystem_aosp-setup-1.10.11.apk)
+- `URL Launcher` 1.10.19 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/url_launcher-qeedjisystem_aosp-setup-1.10.19.apk)
+- `Media Folder Injector` 1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/media_folder_injector-qeedjisystem_aosp-setup-1.10.10.apk)
+- `Power BI Online Viewer` 1.10.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/APK/powerbi_online_viewer-qeedjisystem_aosp-setup-1.10.11.apk)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - `URL Launcher`
@@ -23,17 +23,17 @@
 ***********************************************************************
 When the `URL Launcher` APK is installed but not yet configured, it displays a white content
 #### **CONFIGURATION SCRIPT FOR VENDOR APK APK**
-- configuration-script 001B for `URL Launcher` vendor APK [download](https://github.com/innes-labs/archives/downloads/tab10/APK/url_launcher/000000000000.js)
-- configuration-script 001A for `Media Folder Injector` vendor APK [download](https://github.com/innes-labs/archives/downloads/tab10/APK/media_folder_injector/000000000000.js)
-- configuration-script 001A for `Power BI Online Viewer` vendor APK [download](https://github.com/innes-labs/archives/downloads/tab10/APK/powerbi_online_viewer/000000000000.js)
+- configuration-script 001B for `URL Launcher` vendor APK [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/url_launcher/000000000000.js)
+- configuration-script 001A for `Media Folder Injector` vendor APK [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/media_folder_injector/000000000000.js)
+- configuration-script 001A for `Power BI Online Viewer` vendor APK [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/powerbi_online_viewer/000000000000.js)
 
 #OLD VERSIONS HISTORY
 *********************************************************************************************************
 
 ##`2024-01-18` vendor APK for TAB10 device
-- `URL Launcher` 1.10.18 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/url_launcher-qeedjisystem_aosp-setup-1.10.18.apk)
-- `Media Folder Injector` 1.10.10 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/media_folder_injector-qeedjisystem_aosp-setup-1.10.10.apk)
-- `Power BI Online Viewer` 1.10.11 [download](https://github.com/innes-labs/archives/downloads/amp300/APK/powerbi_online_viewer-qeedjisystem_aosp-setup-1.10.11.apk)
+- `URL Launcher` 1.10.18 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/url_launcher-qeedjisystem_aosp-setup-1.10.18.apk)
+- `Media Folder Injector` 1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/media_folder_injector-qeedjisystem_aosp-setup-1.10.10.apk)
+- `Power BI Online Viewer` 1.10.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/APK/powerbi_online_viewer-qeedjisystem_aosp-setup-1.10.11.apk)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - `URL Launcher`
@@ -42,17 +42,17 @@ When the `URL Launcher` APK is installed but not yet configured, it displays a w
     - Change the APK pictogram
 
 ##`2023-12-20` vendor APK for TAB10 device
-- `URL Launcher` 1.10.17 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/url_launcher-qeedjisystem_aosp-setup-1.10.17.apk)
-- `Media Folder Injector` 1.10.10 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/media_folder_injector-qeedjisystem_aosp-setup-1.10.10.apk)
-- `Power BI Online Viewer` 1.10.10 [download](https://github.com/innes-labs/archives/downloads/amp300/APK/powerbi_online_viewer-qeedjisystem_aosp-setup-1.10.10.apk)
+- `URL Launcher` 1.10.17 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/url_launcher-qeedjisystem_aosp-setup-1.10.17.apk)
+- `Media Folder Injector` 1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/media_folder_injector-qeedjisystem_aosp-setup-1.10.10.apk)
+- `Power BI Online Viewer` 1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/APK/powerbi_online_viewer-qeedjisystem_aosp-setup-1.10.10.apk)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - `URL Launcher`
 	- Fixed: websites accessible in https could not display certain parts of their content when their content source was only available in http
 
 ##`2023-09-25` vendor APK for TAB10 device
-- `URL Launcher` 1.10.16 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/url_launcher-qeedjisystem_aosp-setup-1.10.16.apk)
-- `Media Folder Injector` 1.10.10 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/media_folder_injector-qeedjisystem_aosp-setup-1.10.10.apk)
+- `URL Launcher` 1.10.16 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/url_launcher-qeedjisystem_aosp-setup-1.10.16.apk)
+- `Media Folder Injector` 1.10.10 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/media_folder_injector-qeedjisystem_aosp-setup-1.10.10.apk)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - `URL Launcher`
@@ -63,7 +63,7 @@ When the `URL Launcher` APK is installed but not yet configured, it displays a w
 		- content is read in alphabetical order
 
 ##`2023-02-22` vendor APK for TAB10 device
-- `URL Launcher` 1.10.15 [download](https://github.com/innes-labs/archives/downloads/tab10/APK/url_launcher-qeedjisystem_aosp-setup-1.10.15.apk)
+- `URL Launcher` 1.10.15 [download](https://github.com/innes-labs/archives/blob/main/downloads/tab10/APK/url_launcher-qeedjisystem_aosp-setup-1.10.15.apk)
 
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Changed the *Credential* label in the form

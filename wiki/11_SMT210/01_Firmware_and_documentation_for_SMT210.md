@@ -5,7 +5,7 @@
 
 *Never make electric unplug on your player while software upgrade is in progress (green led blinking 6 times every 4 seconds) else the player may not be able to work properly*
 
-##`2020-10-22` V4.13.13 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smt210/gekkota_os-smt210-setup-4.13.13.zip)
+##`2020-10-22` V4.13.13 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smt210/gekkota_os-smt210-setup-4.13.13.zip)
 >##### **IMPORTANT IN CASE MIGRATION V3.12.XX TO 4.13.13**
 - Before upgrading to Gekkota 4 middleware:
     - Ensure that your current SMT210 middleware version is at least 3.12.20 (and not a beta version),
@@ -129,9 +129,9 @@
 ***********************************************************************
 
 #### **DOCUMENTATION**
-- User manual (4.13.13~003A/EN) [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smt210/smt210-user_manual-4.13.13~003A_en.pdf)
+- User manual (4.13.13~003A/EN) [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smt210/smt210-user_manual-4.13.13~003A_en.pdf)
 #### **SUPPORTED MEDIAS**
-- Devices supported medias and performances [download](https://github.com/innes-labs/archives/downloads/devices-supported-medias-and-performances.pdf)
+- Devices supported medias and performances [download](https://github.com/innes-labs/archives/blob/main/downloads/devices-supported-medias-and-performances.pdf)
 #### **CONFIGURATION SCRIPT**
 - [Link to configuration script](http://www.innes.pro/en/support/index.php?SMT210/Application_notes_and_related_tools/Configuration_by_script)
 #### **SDK DEVELOPERS**
@@ -180,7 +180,7 @@
 #OLD VERSIONS HISTORY
 ***********************************************************************
 
-##`2019-10-17` V4.11.12 [download](https://github.com/innes-labs/archives/downloads/gekkota-os-smt210/gekkota_os-smt210-setup-4.11.12.zip)
+##`2019-10-17` V4.11.12 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-smt210/gekkota_os-smt210-setup-4.11.12.zip)
 >##### **IMPORTANT IN CASE MIGRATION V3.12.XX TO 4.11.12**
 - Before upgrading to Gekkota 4 middleware:
     - Ensure that your current SMT210 middleware version is at least 3.12.20 (and not a beta version)
