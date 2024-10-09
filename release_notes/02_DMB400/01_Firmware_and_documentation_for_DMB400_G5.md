@@ -9,7 +9,7 @@
 
 *Never make electric unplug on your player while software upgrade is in progress (green led blinking 6 times every 4 seconds) else the player may not be able to work properly*
 
-##`2024-06-04` V5.11.14 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-5.11.14.zip)
+##`2024-06-04` V5.11.14 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-5.11.14)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for *2304x384 60 Hz NOVASTAR* display mode
 >##### **LIMITATIONS**

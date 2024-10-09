@@ -9,7 +9,7 @@
 
 *Never make electric unplug on your player while software upgrade is in progress (green led blinking 6 times every 4 seconds) else the player may not be able to work properly*
 
-##`2023-11-29` V5.12.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-5.12.11.zip)
+##`2023-11-29` V5.12.11 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb300/gekkota_os-dmb300-setup-5.12.11)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for the *Identifier/password for a Web page form* authentication for the *Simple Web server* mode in the *URL launcher* App form of the *App* pane in the *Configuration* menu of the device configuration Web user interface
 - Add support for the *identifier* and *password* fields self-filling and self-validation for Web page form in some condition

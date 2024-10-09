@@ -3,7 +3,7 @@
 
 *Never make electric unplug on your device while firmware upgrade is in progress else the device may not be able to work properly*
 
-##`2024-03-27` V9.10.19 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/aosp-amp300-setup-9.10.19.fqs)
+##`2024-03-27` V9.10.19 [download](https://github.com/innes-labs/archives/blob/main/downloads/amp300/aosp-amp300-setup-9.10.19)
 >##### **NOTE**
 - After having upgraded the firmware version, in case an older version of URL launcher had been installed by the end user, it is advised to remove this older version of URL launcher
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**

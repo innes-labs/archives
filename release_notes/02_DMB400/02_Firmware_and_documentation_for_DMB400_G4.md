@@ -3,7 +3,7 @@
 
 *Never make electric unplug on your player while software upgrade is in progress (green led blinking 6 times every 4 seconds) else the player may not be able to work properly*
 
-##`2023-11-29` V4.14.16 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.14.16.zip)
+##`2023-11-29` V4.14.16 [download](https://github.com/innes-labs/archives/blob/main/downloads/gekkota-os-dmb400/gekkota_os-dmb400-setup-4.14.16)
 >##### **BUG FIX, NEW FEATURES, MINOR UPDATES**
 - Add support for the *identifier* and *password* fields self-filling and self-validation for Web page form in some condition
 - Fix: the unsigned CA certificates was not supported
